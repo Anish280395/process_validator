@@ -1,0 +1,2426 @@
+Case ID,Activity,Timestamp,User,Status
+RFQ-00001,Issuance of RFQ,2025-01-16 19:00:00,Alice,Complete
+RFQ-00001,Technical Evaluation,2025-01-16 23:00:00,Fiona,Complete
+RFQ-00001,Commercial Evaluation,2025-01-17 22:00:00,Diana,Complete
+RFQ-00001,PO Creation,2025-01-18 09:00:00,Bob,Complete
+RFQ-00001,Supplier Confirmation,2025-01-19 05:00:00,Diana,Complete
+RFQ-00001,Goods Dispatch,2025-01-19 13:00:00,Edward,Complete
+RFQ-00001,Goods Receipt,2025-01-19 21:00:00,Alice,Complete
+RFQ-00001,Inspection & Approval,2025-01-20 11:00:00,Fiona,Complete
+RFQ-00001,Invoice Generation,2025-01-21 10:00:00,Bob,Complete
+RFQ-00001,Payment to Supplier,2025-01-21 19:00:00,Fiona,Complete
+RFQ-00002,Payment to Supplier,2025-01-09 17:00:00,Fiona,Complete
+RFQ-00002,Commercial Evaluation,2025-01-10 10:00:00,Bob,Complete
+RFQ-00002,Supplier Confirmation,2025-01-10 17:00:00,Edward,Complete
+RFQ-00002,Invoice Generation,2025-01-11 07:00:00,Diana,Complete
+RFQ-00002,Goods Dispatch,2025-01-11 14:00:00,Charlie,Complete
+RFQ-00002,Goods Receipt,2025-01-12 13:00:00,Diana,Complete
+RFQ-00002,PO Creation,2025-01-13 03:00:00,Bob,Complete
+RFQ-00002,Technical Evaluation,2025-01-13 21:00:00,Diana,Complete
+RFQ-00002,Issuance of RFQ,2025-01-14 20:00:00,Edward,Complete
+RFQ-00002,Inspection & Approval,2025-01-15 02:00:00,Fiona,Complete
+RFQ-00003,Issuance of RFQ,2025-02-05 09:00:00,Charlie,Complete
+RFQ-00003,Technical Evaluation,2025-02-06 05:00:00,Charlie,Complete
+RFQ-00003,Commercial Evaluation,2025-02-06 09:00:00,Charlie,Complete
+RFQ-00003,PO Creation,2025-02-06 13:00:00,Bob,Complete
+RFQ-00003,Supplier Confirmation,2025-02-06 23:00:00,Alice,Complete
+RFQ-00003,Goods Receipt,2025-02-07 16:00:00,Diana,Complete
+RFQ-00003,Inspection & Approval,2025-02-08 14:00:00,Charlie,Complete
+RFQ-00003,Invoice Generation,2025-02-09 05:00:00,Alice,Complete
+RFQ-00003,Payment to Supplier,2025-02-10 03:00:00,Charlie,Complete
+RFQ-00004,Issuance of RFQ,2025-02-14 04:00:00,Bob,Complete
+RFQ-00004,Technical Evaluation,2025-02-14 08:00:00,Diana,Complete
+RFQ-00004,Commercial Evaluation,2025-02-15 07:00:00,Alice,Complete
+RFQ-00004,PO Creation,2025-02-15 09:00:00,Diana,Complete
+RFQ-00004,Supplier Confirmation,2025-02-16 04:00:00,Bob,Complete
+RFQ-00004,Goods Dispatch,2025-02-16 19:00:00,Alice,Complete
+RFQ-00004,Goods Receipt,2025-02-17 13:00:00,Fiona,Complete
+RFQ-00004,Inspection & Approval,2025-02-18 03:00:00,Bob,Complete
+RFQ-00004,Invoice Generation,2025-02-18 19:00:00,Diana,Complete
+RFQ-00004,Payment to Supplier,2025-02-19 08:00:00,Charlie,Complete
+RFQ-00005,Issuance of RFQ,2025-01-09 15:00:00,Fiona,Complete
+RFQ-00005,Technical Evaluation,2025-01-09 22:00:00,Bob,Complete
+RFQ-00005,Commercial Evaluation,2025-01-10 16:00:00,Alice,Complete
+RFQ-00005,PO Creation,2025-01-11 06:00:00,Fiona,Complete
+RFQ-00005,Supplier Confirmation,2025-01-11 22:00:00,Charlie,Complete
+RFQ-00005,Goods Dispatch,2025-01-12 19:00:00,Bob,Complete
+RFQ-00005,Goods Receipt,2025-01-13 04:00:00,Diana,Complete
+RFQ-00005,Inspection & Approval,2025-01-14 00:00:00,Edward,Complete
+RFQ-00005,Invoice Generation,2025-01-14 11:00:00,Charlie,Complete
+RFQ-00005,Payment to Supplier,2025-01-14 15:00:00,Bob,Complete
+RFQ-00006,Issuance of RFQ,2025-01-27 06:00:00,Fiona,Complete
+RFQ-00006,Technical Evaluation,2025-01-27 21:00:00,Charlie,Complete
+RFQ-00006,Commercial Evaluation,2025-01-28 07:00:00,Diana,Complete
+RFQ-00006,PO Creation,2025-01-28 09:00:00,Alice,Complete
+RFQ-00006,Supplier Confirmation,2025-01-29 07:00:00,Charlie,Complete
+RFQ-00006,Goods Dispatch,2025-01-30 02:00:00,Charlie,Complete
+RFQ-00006,Goods Receipt,2025-01-30 06:00:00,Edward,Complete
+RFQ-00006,Inspection & Approval,2025-01-30 13:00:00,Fiona,Complete
+RFQ-00006,Invoice Generation,2025-01-31 10:00:00,Charlie,Complete
+RFQ-00006,Payment to Supplier,2025-01-31 16:00:00,Fiona,Complete
+RFQ-00007,Commercial Evaluation,2025-01-09 11:00:00,Charlie,Complete
+RFQ-00007,PO Creation,2025-01-09 19:00:00,Bob,Complete
+RFQ-00007,Goods Dispatch,2025-01-10 04:00:00,Fiona,Complete
+RFQ-00007,Goods Receipt,2025-01-11 02:00:00,Bob,Complete
+RFQ-00007,Supplier Confirmation,2025-01-12 01:00:00,Charlie,Complete
+RFQ-00007,Invoice Generation,2025-01-12 12:00:00,Edward,Complete
+RFQ-00007,Issuance of RFQ,2025-01-13 12:00:00,Edward,Complete
+RFQ-00007,Inspection & Approval,2025-01-14 00:00:00,Fiona,Complete
+RFQ-00007,Payment to Supplier,2025-01-14 21:00:00,Alice,Complete
+RFQ-00007,Technical Evaluation,2025-01-15 18:00:00,Edward,Complete
+RFQ-00008,Issuance of RFQ,2025-01-09 12:00:00,Diana,Complete
+RFQ-00008,Technical Evaluation,2025-01-10 03:00:00,Edward,Complete
+RFQ-00008,Commercial Evaluation,2025-01-10 06:00:00,Alice,Complete
+RFQ-00008,PO Creation,2025-01-11 00:00:00,Alice,Complete
+RFQ-00008,Supplier Confirmation,2025-01-11 04:00:00,Edward,Complete
+RFQ-00008,Goods Dispatch,2025-01-11 11:00:00,Bob,Complete
+RFQ-00008,Goods Receipt,2025-01-12 04:00:00,Alice,Complete
+RFQ-00008,Inspection & Approval,2025-01-12 06:00:00,Edward,Complete
+RFQ-00008,Invoice Generation,2025-01-12 22:00:00,Alice,Complete
+RFQ-00009,Issuance of RFQ,2025-01-25 11:00:00,Bob,Complete
+RFQ-00009,Technical Evaluation,2025-01-26 04:00:00,Edward,Complete
+RFQ-00009,Commercial Evaluation,2025-01-27 01:00:00,Bob,Complete
+RFQ-00009,PO Creation,2025-01-27 17:00:00,Bob,Complete
+RFQ-00009,Supplier Confirmation,2025-01-28 01:00:00,Bob,Complete
+RFQ-00009,Goods Dispatch,2025-01-28 23:00:00,Edward,Complete
+RFQ-00009,Goods Receipt,2025-01-29 18:00:00,Fiona,Complete
+RFQ-00009,Inspection & Approval,2025-01-30 03:00:00,Fiona,Complete
+RFQ-00009,Invoice Generation,2025-01-30 20:00:00,Alice,Complete
+RFQ-00009,Payment to Supplier,2025-01-31 04:00:00,Bob,Complete
+RFQ-00010,Issuance of RFQ,2025-01-29 08:00:00,Charlie,Complete
+RFQ-00010,Technical Evaluation,2025-01-29 23:00:00,Diana,Complete
+RFQ-00010,Commercial Evaluation,2025-01-30 17:00:00,Edward,Complete
+RFQ-00010,PO Creation,2025-01-31 03:00:00,Diana,Complete
+RFQ-00010,Supplier Confirmation,2025-01-31 13:00:00,Charlie,Complete
+RFQ-00010,Goods Dispatch,2025-01-31 18:00:00,Edward,Complete
+RFQ-00010,Goods Receipt,2025-02-01 14:00:00,Alice,Complete
+RFQ-00010,Inspection & Approval,2025-02-02 01:00:00,Fiona,Complete
+RFQ-00010,Invoice Generation,2025-02-02 21:00:00,Alice,Complete
+RFQ-00010,Payment to Supplier,2025-02-03 21:00:00,Alice,Complete
+RFQ-00011,Issuance of RFQ,2025-01-30 06:00:00,Bob,Complete
+RFQ-00011,Technical Evaluation,2025-01-30 10:00:00,Fiona,Complete
+RFQ-00011,Commercial Evaluation,2025-01-30 18:00:00,Bob,Complete
+RFQ-00011,PO Creation,2025-01-31 06:00:00,Alice,Complete
+RFQ-00011,Supplier Confirmation,2025-02-01 04:00:00,Alice,Complete
+RFQ-00011,Goods Dispatch,2025-02-01 14:00:00,Bob,Complete
+RFQ-00011,Goods Receipt,2025-02-02 12:00:00,Bob,Complete
+RFQ-00011,Inspection & Approval,2025-02-02 17:00:00,Bob,Complete
+RFQ-00011,Invoice Generation,2025-02-03 00:00:00,Charlie,Complete
+RFQ-00011,Payment to Supplier,2025-02-03 11:00:00,Charlie,Complete
+RFQ-00012,Issuance of RFQ,2025-02-22 02:00:00,Edward,Complete
+RFQ-00012,Technical Evaluation,2025-02-22 15:00:00,Diana,Complete
+RFQ-00012,Commercial Evaluation,2025-02-23 07:00:00,Edward,Complete
+RFQ-00012,PO Creation,2025-02-24 02:00:00,Diana,Complete
+RFQ-00012,Supplier Confirmation,2025-02-24 21:00:00,Charlie,Complete
+RFQ-00012,Goods Dispatch,2025-02-25 14:00:00,Diana,Complete
+RFQ-00012,Goods Receipt,2025-02-26 09:00:00,Edward,Complete
+RFQ-00012,Inspection & Approval,2025-02-26 15:00:00,Charlie,Complete
+RFQ-00012,Invoice Generation,2025-02-27 14:00:00,Bob,Complete
+RFQ-00012,Payment to Supplier,2025-02-27 19:00:00,Charlie,Complete
+RFQ-00013,Issuance of RFQ,2025-01-05 16:00:00,Diana,Complete
+RFQ-00013,Technical Evaluation,2025-01-05 18:00:00,Fiona,Complete
+RFQ-00013,Commercial Evaluation,2025-01-06 10:00:00,Fiona,Complete
+RFQ-00013,PO Creation,2025-01-07 01:00:00,Edward,Complete
+RFQ-00013,Supplier Confirmation,2025-01-08 00:00:00,Alice,Complete
+RFQ-00013,Goods Dispatch,2025-01-08 10:00:00,Diana,Complete
+RFQ-00013,Goods Receipt,2025-01-08 22:00:00,Charlie,Complete
+RFQ-00013,Inspection & Approval,2025-01-09 17:00:00,Diana,Complete
+RFQ-00013,Invoice Generation,2025-01-10 10:00:00,Alice,Complete
+RFQ-00013,Payment to Supplier,2025-01-10 17:00:00,Alice,Complete
+RFQ-00014,Issuance of RFQ,2025-02-04 00:00:00,Edward,Complete
+RFQ-00014,Technical Evaluation,2025-02-05 00:00:00,Bob,Complete
+RFQ-00014,Commercial Evaluation,2025-02-05 04:00:00,Edward,Complete
+RFQ-00014,PO Creation,2025-02-05 23:00:00,Charlie,Complete
+RFQ-00014,Supplier Confirmation,2025-02-06 05:00:00,Diana,Complete
+RFQ-00014,Goods Dispatch,2025-02-06 16:00:00,Alice,Complete
+RFQ-00014,Goods Receipt,2025-02-07 07:00:00,Fiona,Complete
+RFQ-00014,Inspection & Approval,2025-02-08 04:00:00,Charlie,Complete
+RFQ-00014,Invoice Generation,2025-02-08 21:00:00,Bob,Complete
+RFQ-00014,Payment to Supplier,2025-02-09 09:00:00,Alice,Complete
+RFQ-00015,Issuance of RFQ,2025-02-07 05:00:00,Charlie,Complete
+RFQ-00015,Technical Evaluation,2025-02-07 16:00:00,Alice,Complete
+RFQ-00015,Commercial Evaluation,2025-02-08 03:00:00,Bob,Complete
+RFQ-00015,PO Creation,2025-02-09 03:00:00,Edward,Complete
+RFQ-00015,Supplier Confirmation,2025-02-09 14:00:00,Diana,Complete
+RFQ-00015,Goods Dispatch,2025-02-10 04:00:00,Edward,Complete
+RFQ-00015,Goods Receipt,2025-02-10 23:00:00,Charlie,Complete
+RFQ-00015,Inspection & Approval,2025-02-11 04:00:00,Charlie,Complete
+RFQ-00015,Invoice Generation,2025-02-12 03:00:00,Bob,Complete
+RFQ-00015,Payment to Supplier,2025-02-12 12:00:00,Bob,Complete
+RFQ-00016,Issuance of RFQ,2025-01-06 16:00:00,Charlie,Complete
+RFQ-00016,Technical Evaluation,2025-01-06 21:00:00,Diana,Complete
+RFQ-00016,Commercial Evaluation,2025-01-07 06:00:00,Fiona,Complete
+RFQ-00016,PO Creation,2025-01-07 20:00:00,Bob,Complete
+RFQ-00016,Supplier Confirmation,2025-01-08 20:00:00,Alice,Complete
+RFQ-00016,Goods Dispatch,2025-01-09 18:00:00,Diana,Complete
+RFQ-00016,Goods Receipt,2025-01-10 02:00:00,Edward,Complete
+RFQ-00016,Inspection & Approval,2025-01-10 07:00:00,Alice,Complete
+RFQ-00016,Invoice Generation,2025-01-10 18:00:00,Alice,Complete
+RFQ-00016,Payment to Supplier,2025-01-11 03:00:00,Diana,Complete
+RFQ-00017,Issuance of RFQ,2025-02-14 03:00:00,Edward,Complete
+RFQ-00017,Technical Evaluation,2025-02-14 23:00:00,Diana,Complete
+RFQ-00017,Commercial Evaluation,2025-02-15 01:00:00,Edward,Complete
+RFQ-00017,PO Creation,2025-02-15 04:00:00,Edward,Complete
+RFQ-00017,Supplier Confirmation,2025-02-16 02:00:00,Diana,Complete
+RFQ-00017,Goods Dispatch,2025-02-16 20:00:00,Charlie,Complete
+RFQ-00017,Goods Receipt,2025-02-17 15:00:00,Bob,Complete
+RFQ-00017,Inspection & Approval,2025-02-18 01:00:00,Bob,Complete
+RFQ-00017,Invoice Generation,2025-02-18 11:00:00,Fiona,Complete
+RFQ-00017,Payment to Supplier,2025-02-18 13:00:00,Alice,Complete
+RFQ-00018,Issuance of RFQ,2025-02-19 10:00:00,Fiona,Complete
+RFQ-00018,Technical Evaluation,2025-02-20 05:00:00,Edward,Complete
+RFQ-00018,Commercial Evaluation,2025-02-20 19:00:00,Edward,Complete
+RFQ-00018,PO Creation,2025-02-21 19:00:00,Diana,Complete
+RFQ-00018,Goods Dispatch,2025-02-21 23:00:00,Bob,Complete
+RFQ-00018,Goods Receipt,2025-02-22 05:00:00,Alice,Complete
+RFQ-00018,Inspection & Approval,2025-02-22 11:00:00,Alice,Complete
+RFQ-00018,Invoice Generation,2025-02-23 08:00:00,Fiona,Complete
+RFQ-00018,Payment to Supplier,2025-02-23 17:00:00,Charlie,Complete
+RFQ-00019,Issuance of RFQ,2025-02-25 21:00:00,Edward,Complete
+RFQ-00019,Technical Evaluation,2025-02-26 08:00:00,Fiona,Complete
+RFQ-00019,Commercial Evaluation,2025-02-26 17:00:00,Charlie,Complete
+RFQ-00019,PO Creation,2025-02-27 09:00:00,Bob,Complete
+RFQ-00019,Supplier Confirmation,2025-02-28 06:00:00,Edward,Complete
+RFQ-00019,Goods Dispatch,2025-03-01 02:00:00,Bob,Complete
+RFQ-00019,Goods Receipt,2025-03-01 04:00:00,Alice,Complete
+RFQ-00019,Inspection & Approval,2025-03-01 17:00:00,Edward,Complete
+RFQ-00019,Invoice Generation,2025-03-02 03:00:00,Edward,Complete
+RFQ-00019,Payment to Supplier,2025-03-02 15:00:00,Bob,Complete
+RFQ-00020,Issuance of RFQ,2025-01-30 03:00:00,Edward,Complete
+RFQ-00020,Technical Evaluation,2025-01-30 13:00:00,Diana,Complete
+RFQ-00020,Commercial Evaluation,2025-01-31 04:00:00,Charlie,Complete
+RFQ-00020,PO Creation,2025-02-01 01:00:00,Alice,Complete
+RFQ-00020,Supplier Confirmation,2025-02-01 16:00:00,Diana,Complete
+RFQ-00020,Goods Dispatch,2025-02-02 12:00:00,Fiona,Complete
+RFQ-00020,Goods Receipt,2025-02-02 16:00:00,Bob,Complete
+RFQ-00020,Inspection & Approval,2025-02-02 23:00:00,Bob,Complete
+RFQ-00020,Invoice Generation,2025-02-03 11:00:00,Bob,Complete
+RFQ-00020,Payment to Supplier,2025-02-03 19:00:00,Fiona,Complete
+RFQ-00021,Issuance of RFQ,2025-01-09 02:00:00,Fiona,Complete
+RFQ-00021,Technical Evaluation,2025-01-10 02:00:00,Diana,Complete
+RFQ-00021,Commercial Evaluation,2025-01-10 06:00:00,Fiona,Complete
+RFQ-00021,PO Creation,2025-01-11 06:00:00,Alice,Complete
+RFQ-00021,Supplier Confirmation,2025-01-12 03:00:00,Diana,Complete
+RFQ-00021,Goods Dispatch,2025-01-13 01:00:00,Fiona,Complete
+RFQ-00021,Goods Receipt,2025-01-14 00:00:00,Bob,Complete
+RFQ-00021,Inspection & Approval,2025-01-14 18:00:00,Diana,Complete
+RFQ-00021,Invoice Generation,2025-01-15 08:00:00,Bob,Complete
+RFQ-00021,Payment to Supplier,2025-01-15 21:00:00,Bob,Complete
+RFQ-00022,Issuance of RFQ,2025-01-18 17:00:00,Charlie,Complete
+RFQ-00022,Technical Evaluation,2025-01-18 21:00:00,Diana,Complete
+RFQ-00022,Commercial Evaluation,2025-01-19 12:00:00,Bob,Complete
+RFQ-00022,PO Creation,2025-01-19 20:00:00,Fiona,Complete
+RFQ-00022,Supplier Confirmation,2025-01-20 05:00:00,Alice,Complete
+RFQ-00022,Goods Dispatch,2025-01-20 07:00:00,Charlie,Complete
+RFQ-00022,Inspection & Approval,2025-01-21 01:00:00,Fiona,Complete
+RFQ-00022,Invoice Generation,2025-01-21 15:00:00,Fiona,Complete
+RFQ-00022,Payment to Supplier,2025-01-22 14:00:00,Charlie,Complete
+RFQ-00023,Issuance of RFQ,2025-01-14 12:00:00,Charlie,Complete
+RFQ-00023,Technical Evaluation,2025-01-14 15:00:00,Bob,Complete
+RFQ-00023,Commercial Evaluation,2025-01-15 06:00:00,Fiona,Complete
+RFQ-00023,PO Creation,2025-01-16 02:00:00,Diana,Complete
+RFQ-00023,Supplier Confirmation,2025-01-16 13:00:00,Bob,Complete
+RFQ-00023,Goods Dispatch,2025-01-17 05:00:00,Alice,Complete
+RFQ-00023,Goods Receipt,2025-01-17 16:00:00,Edward,Complete
+RFQ-00023,Inspection & Approval,2025-01-18 15:00:00,Charlie,Complete
+RFQ-00023,Invoice Generation,2025-01-19 09:00:00,Alice,Complete
+RFQ-00023,Payment to Supplier,2025-01-19 15:00:00,Charlie,Complete
+RFQ-00024,Issuance of RFQ,2025-02-24 11:00:00,Charlie,Complete
+RFQ-00024,Technical Evaluation,2025-02-24 13:00:00,Diana,Complete
+RFQ-00024,Commercial Evaluation,2025-02-24 19:00:00,Alice,Complete
+RFQ-00024,PO Creation,2025-02-25 06:00:00,Bob,Complete
+RFQ-00024,Supplier Confirmation,2025-02-26 05:00:00,Fiona,Complete
+RFQ-00024,Goods Dispatch,2025-02-27 01:00:00,Edward,Complete
+RFQ-00024,Goods Receipt,2025-02-27 13:00:00,Diana,Complete
+RFQ-00024,Inspection & Approval,2025-02-27 21:00:00,Diana,Complete
+RFQ-00024,Invoice Generation,2025-02-28 12:00:00,Alice,Complete
+RFQ-00024,Payment to Supplier,2025-03-01 10:00:00,Fiona,Complete
+RFQ-00025,Issuance of RFQ,2025-02-05 05:00:00,Alice,Complete
+RFQ-00025,Technical Evaluation,2025-02-05 12:00:00,Edward,Complete
+RFQ-00025,Commercial Evaluation,2025-02-05 19:00:00,Edward,Complete
+RFQ-00025,PO Creation,2025-02-06 09:00:00,Charlie,Complete
+RFQ-00025,Supplier Confirmation,2025-02-06 18:00:00,Diana,Complete
+RFQ-00025,Goods Dispatch,2025-02-07 18:00:00,Edward,Complete
+RFQ-00025,Goods Receipt,2025-02-08 14:00:00,Bob,Complete
+RFQ-00025,Inspection & Approval,2025-02-09 14:00:00,Alice,Complete
+RFQ-00025,Invoice Generation,2025-02-09 23:00:00,Fiona,Complete
+RFQ-00025,Payment to Supplier,2025-02-10 02:00:00,Charlie,Complete
+RFQ-00026,Issuance of RFQ,2025-01-28 03:00:00,Charlie,Complete
+RFQ-00026,Technical Evaluation,2025-01-29 02:00:00,Fiona,Complete
+RFQ-00026,Commercial Evaluation,2025-01-29 18:00:00,Bob,Complete
+RFQ-00026,PO Creation,2025-01-30 06:00:00,Alice,Complete
+RFQ-00026,Supplier Confirmation,2025-01-31 03:00:00,Fiona,Complete
+RFQ-00026,Goods Dispatch,2025-01-31 22:00:00,Edward,Complete
+RFQ-00026,Goods Receipt,2025-02-01 21:00:00,Charlie,Complete
+RFQ-00026,Inspection & Approval,2025-02-02 08:00:00,Fiona,Complete
+RFQ-00026,Invoice Generation,2025-02-02 16:00:00,Edward,Complete
+RFQ-00026,Payment to Supplier,2025-02-03 13:00:00,Edward,Complete
+RFQ-00027,Issuance of RFQ,2025-01-26 19:00:00,Bob,Complete
+RFQ-00027,Technical Evaluation,2025-01-27 15:00:00,Edward,Complete
+RFQ-00027,Commercial Evaluation,2025-01-28 03:00:00,Diana,Complete
+RFQ-00027,PO Creation,2025-01-28 05:00:00,Edward,Complete
+RFQ-00027,Supplier Confirmation,2025-01-28 09:00:00,Edward,Complete
+RFQ-00027,Goods Dispatch,2025-01-28 14:00:00,Edward,Complete
+RFQ-00027,Goods Receipt,2025-01-29 02:00:00,Bob,Complete
+RFQ-00027,Inspection & Approval,2025-01-29 20:00:00,Charlie,Complete
+RFQ-00027,Invoice Generation,2025-01-30 08:00:00,Edward,Complete
+RFQ-00027,Payment to Supplier,2025-01-30 19:00:00,Diana,Complete
+RFQ-00028,Issuance of RFQ,2025-01-21 18:00:00,Bob,Complete
+RFQ-00028,Technical Evaluation,2025-01-22 05:00:00,Charlie,Complete
+RFQ-00028,Commercial Evaluation,2025-01-22 13:00:00,Alice,Complete
+RFQ-00028,PO Creation,2025-01-23 09:00:00,Fiona,Complete
+RFQ-00028,Supplier Confirmation,2025-01-23 23:00:00,Charlie,Complete
+RFQ-00028,Goods Dispatch,2025-01-24 23:00:00,Fiona,Complete
+RFQ-00028,Goods Receipt,2025-01-25 17:00:00,Bob,Complete
+RFQ-00028,Inspection & Approval,2025-01-26 13:00:00,Diana,Complete
+RFQ-00028,Invoice Generation,2025-01-26 21:00:00,Charlie,Complete
+RFQ-00028,Payment to Supplier,2025-01-27 15:00:00,Bob,Complete
+RFQ-00029,Issuance of RFQ,2025-02-03 15:00:00,Bob,Complete
+RFQ-00029,Technical Evaluation,2025-02-04 03:00:00,Bob,Complete
+RFQ-00029,Commercial Evaluation,2025-02-04 06:00:00,Charlie,Complete
+RFQ-00029,PO Creation,2025-02-04 08:00:00,Bob,Complete
+RFQ-00029,Supplier Confirmation,2025-02-05 03:00:00,Bob,Complete
+RFQ-00029,Goods Dispatch,2025-02-05 07:00:00,Edward,Complete
+RFQ-00029,Goods Receipt,2025-02-06 00:00:00,Diana,Complete
+RFQ-00029,Inspection & Approval,2025-02-06 21:00:00,Diana,Complete
+RFQ-00029,Invoice Generation,2025-02-07 19:00:00,Diana,Complete
+RFQ-00029,Payment to Supplier,2025-02-08 00:00:00,Fiona,Complete
+RFQ-00030,Issuance of RFQ,2025-02-07 23:00:00,Diana,Complete
+RFQ-00030,Technical Evaluation,2025-02-08 22:00:00,Alice,Complete
+RFQ-00030,Commercial Evaluation,2025-02-09 06:00:00,Charlie,Complete
+RFQ-00030,PO Creation,2025-02-09 14:00:00,Diana,Complete
+RFQ-00030,Supplier Confirmation,2025-02-10 08:00:00,Fiona,Complete
+RFQ-00030,Goods Dispatch,2025-02-10 19:00:00,Charlie,Complete
+RFQ-00030,Goods Receipt,2025-02-11 06:00:00,Charlie,Complete
+RFQ-00030,Inspection & Approval,2025-02-11 12:00:00,Alice,Complete
+RFQ-00030,Invoice Generation,2025-02-12 07:00:00,Fiona,Complete
+RFQ-00030,Payment to Supplier,2025-02-13 00:00:00,Edward,Complete
+RFQ-00031,Issuance of RFQ,2025-01-18 07:00:00,Charlie,Complete
+RFQ-00031,Technical Evaluation,2025-01-18 20:00:00,Fiona,Complete
+RFQ-00031,Commercial Evaluation,2025-01-19 12:00:00,Bob,Complete
+RFQ-00031,Supplier Confirmation,2025-01-19 17:00:00,Fiona,Complete
+RFQ-00031,Goods Dispatch,2025-01-20 06:00:00,Edward,Complete
+RFQ-00031,Goods Receipt,2025-01-20 11:00:00,Edward,Complete
+RFQ-00031,Inspection & Approval,2025-01-21 02:00:00,Charlie,Complete
+RFQ-00031,Invoice Generation,2025-01-21 18:00:00,Edward,Complete
+RFQ-00031,Payment to Supplier,2025-01-22 02:00:00,Alice,Complete
+RFQ-00032,Invoice Generation,2025-02-13 08:00:00,Fiona,Complete
+RFQ-00032,Payment to Supplier,2025-02-13 17:00:00,Diana,Complete
+RFQ-00032,Commercial Evaluation,2025-02-14 12:00:00,Fiona,Complete
+RFQ-00032,Supplier Confirmation,2025-02-14 15:00:00,Charlie,Complete
+RFQ-00032,PO Creation,2025-02-14 18:00:00,Fiona,Complete
+RFQ-00032,Issuance of RFQ,2025-02-15 16:00:00,Bob,Complete
+RFQ-00032,Inspection & Approval,2025-02-16 10:00:00,Alice,Complete
+RFQ-00032,Technical Evaluation,2025-02-17 05:00:00,Edward,Complete
+RFQ-00032,Goods Dispatch,2025-02-17 23:00:00,Alice,Complete
+RFQ-00033,Issuance of RFQ,2025-02-24 10:00:00,Charlie,Complete
+RFQ-00033,Technical Evaluation,2025-02-24 20:00:00,Charlie,Complete
+RFQ-00033,Commercial Evaluation,2025-02-25 12:00:00,Alice,Complete
+RFQ-00033,PO Creation,2025-02-26 06:00:00,Fiona,Complete
+RFQ-00033,Supplier Confirmation,2025-02-26 17:00:00,Diana,Complete
+RFQ-00033,Goods Dispatch,2025-02-27 17:00:00,Bob,Complete
+RFQ-00033,Goods Receipt,2025-02-28 13:00:00,Fiona,Complete
+RFQ-00033,Inspection & Approval,2025-02-28 21:00:00,Edward,Complete
+RFQ-00033,Invoice Generation,2025-02-28 23:00:00,Diana,Complete
+RFQ-00033,Payment to Supplier,2025-03-01 23:00:00,Alice,Complete
+RFQ-00034,Issuance of RFQ,2025-01-07 21:00:00,Alice,Complete
+RFQ-00034,Technical Evaluation,2025-01-08 17:00:00,Fiona,Complete
+RFQ-00034,Commercial Evaluation,2025-01-09 10:00:00,Diana,Complete
+RFQ-00034,PO Creation,2025-01-09 14:00:00,Fiona,Complete
+RFQ-00034,Supplier Confirmation,2025-01-09 22:00:00,Charlie,Complete
+RFQ-00034,Goods Dispatch,2025-01-10 08:00:00,Fiona,Complete
+RFQ-00034,Goods Receipt,2025-01-10 12:00:00,Fiona,Complete
+RFQ-00034,Inspection & Approval,2025-01-11 02:00:00,Fiona,Complete
+RFQ-00034,Invoice Generation,2025-01-11 17:00:00,Bob,Complete
+RFQ-00034,Payment to Supplier,2025-01-12 10:00:00,Edward,Complete
+RFQ-00035,Issuance of RFQ,2025-02-14 02:00:00,Bob,Complete
+RFQ-00035,Technical Evaluation,2025-02-14 04:00:00,Edward,Complete
+RFQ-00035,Commercial Evaluation,2025-02-15 03:00:00,Alice,Complete
+RFQ-00035,PO Creation,2025-02-15 19:00:00,Alice,Complete
+RFQ-00035,Supplier Confirmation,2025-02-15 23:00:00,Fiona,Complete
+RFQ-00035,Goods Dispatch,2025-02-16 21:00:00,Alice,Complete
+RFQ-00035,Goods Receipt,2025-02-17 20:00:00,Diana,Complete
+RFQ-00035,Inspection & Approval,2025-02-18 13:00:00,Charlie,Complete
+RFQ-00035,Invoice Generation,2025-02-19 07:00:00,Edward,Complete
+RFQ-00035,Payment to Supplier,2025-02-19 10:00:00,Charlie,Complete
+RFQ-00036,Issuance of RFQ,2025-01-28 18:00:00,Fiona,Complete
+RFQ-00036,Technical Evaluation,2025-01-29 10:00:00,Diana,Complete
+RFQ-00036,Commercial Evaluation,2025-01-29 16:00:00,Diana,Complete
+RFQ-00036,PO Creation,2025-01-29 21:00:00,Fiona,Complete
+RFQ-00036,Supplier Confirmation,2025-01-30 03:00:00,Diana,Complete
+RFQ-00036,Goods Dispatch,2025-01-30 05:00:00,Charlie,Complete
+RFQ-00036,Goods Receipt,2025-01-30 17:00:00,Alice,Complete
+RFQ-00036,Inspection & Approval,2025-01-31 06:00:00,Edward,Complete
+RFQ-00036,Invoice Generation,2025-02-01 00:00:00,Bob,Complete
+RFQ-00036,Payment to Supplier,2025-02-01 21:00:00,Charlie,Complete
+RFQ-00037,Issuance of RFQ,2025-02-04 23:00:00,Bob,Complete
+RFQ-00037,Technical Evaluation,2025-02-05 13:00:00,Charlie,Complete
+RFQ-00037,Commercial Evaluation,2025-02-05 21:00:00,Bob,Complete
+RFQ-00037,PO Creation,2025-02-06 05:00:00,Alice,Complete
+RFQ-00037,Supplier Confirmation,2025-02-07 05:00:00,Alice,Complete
+RFQ-00037,Goods Dispatch,2025-02-08 04:00:00,Charlie,Complete
+RFQ-00037,Goods Receipt,2025-02-09 03:00:00,Diana,Complete
+RFQ-00037,Inspection & Approval,2025-02-09 19:00:00,Alice,Complete
+RFQ-00037,Invoice Generation,2025-02-10 09:00:00,Diana,Complete
+RFQ-00037,Payment to Supplier,2025-02-10 16:00:00,Charlie,Complete
+RFQ-00038,Issuance of RFQ,2025-02-18 10:00:00,Fiona,Complete
+RFQ-00038,Technical Evaluation,2025-02-19 05:00:00,Fiona,Complete
+RFQ-00038,Commercial Evaluation,2025-02-19 15:00:00,Alice,Complete
+RFQ-00038,PO Creation,2025-02-19 19:00:00,Bob,Complete
+RFQ-00038,Supplier Confirmation,2025-02-20 12:00:00,Bob,Complete
+RFQ-00038,Goods Dispatch,2025-02-21 03:00:00,Alice,Complete
+RFQ-00038,Goods Receipt,2025-02-21 09:00:00,Alice,Complete
+RFQ-00038,Inspection & Approval,2025-02-21 16:00:00,Alice,Complete
+RFQ-00038,Invoice Generation,2025-02-22 01:00:00,Diana,Complete
+RFQ-00038,Payment to Supplier,2025-02-22 19:00:00,Charlie,Complete
+RFQ-00039,Issuance of RFQ,2025-01-27 20:00:00,Fiona,Complete
+RFQ-00039,Technical Evaluation,2025-01-28 17:00:00,Edward,Complete
+RFQ-00039,Commercial Evaluation,2025-01-29 02:00:00,Charlie,Complete
+RFQ-00039,PO Creation,2025-01-29 12:00:00,Fiona,Complete
+RFQ-00039,Supplier Confirmation,2025-01-30 12:00:00,Charlie,Complete
+RFQ-00039,Goods Dispatch,2025-01-30 22:00:00,Bob,Complete
+RFQ-00039,Goods Receipt,2025-01-31 15:00:00,Fiona,Complete
+RFQ-00039,Inspection & Approval,2025-02-01 06:00:00,Alice,Complete
+RFQ-00039,Invoice Generation,2025-02-02 05:00:00,Fiona,Complete
+RFQ-00039,Payment to Supplier,2025-02-02 16:00:00,Bob,Complete
+RFQ-00040,Issuance of RFQ,2025-01-18 14:00:00,Alice,Complete
+RFQ-00040,Technical Evaluation,2025-01-18 18:00:00,Fiona,Complete
+RFQ-00040,Commercial Evaluation,2025-01-19 00:00:00,Bob,Complete
+RFQ-00040,PO Creation,2025-01-19 20:00:00,Charlie,Complete
+RFQ-00040,Supplier Confirmation,2025-01-20 06:00:00,Alice,Complete
+RFQ-00040,Goods Dispatch,2025-01-20 20:00:00,Diana,Complete
+RFQ-00040,Goods Receipt,2025-01-21 20:00:00,Diana,Complete
+RFQ-00040,Inspection & Approval,2025-01-22 17:00:00,Edward,Complete
+RFQ-00040,Invoice Generation,2025-01-23 14:00:00,Diana,Complete
+RFQ-00040,Payment to Supplier,2025-01-23 21:00:00,Diana,Complete
+RFQ-00041,Issuance of RFQ,2025-02-27 05:00:00,Fiona,Complete
+RFQ-00041,Technical Evaluation,2025-02-27 22:00:00,Bob,Complete
+RFQ-00041,Commercial Evaluation,2025-02-28 16:00:00,Fiona,Complete
+RFQ-00041,PO Creation,2025-03-01 09:00:00,Charlie,Complete
+RFQ-00041,Supplier Confirmation,2025-03-02 06:00:00,Diana,Complete
+RFQ-00041,Goods Dispatch,2025-03-02 14:00:00,Edward,Complete
+RFQ-00041,Goods Receipt,2025-03-03 13:00:00,Edward,Complete
+RFQ-00041,Inspection & Approval,2025-03-04 05:00:00,Edward,Complete
+RFQ-00041,Invoice Generation,2025-03-04 20:00:00,Charlie,Complete
+RFQ-00041,Payment to Supplier,2025-03-04 23:00:00,Diana,Complete
+RFQ-00042,Issuance of RFQ,2025-01-19 19:00:00,Charlie,Complete
+RFQ-00042,Technical Evaluation,2025-01-19 22:00:00,Charlie,Complete
+RFQ-00042,Commercial Evaluation,2025-01-20 01:00:00,Alice,Complete
+RFQ-00042,PO Creation,2025-01-20 06:00:00,Fiona,Complete
+RFQ-00042,Supplier Confirmation,2025-01-20 11:00:00,Bob,Complete
+RFQ-00042,Goods Dispatch,2025-01-20 22:00:00,Charlie,Complete
+RFQ-00042,Goods Receipt,2025-01-21 18:00:00,Fiona,Complete
+RFQ-00042,Inspection & Approval,2025-01-21 20:00:00,Alice,Complete
+RFQ-00042,Invoice Generation,2025-01-22 09:00:00,Charlie,Complete
+RFQ-00042,Payment to Supplier,2025-01-22 16:00:00,Diana,Complete
+RFQ-00043,Issuance of RFQ,2025-01-14 17:00:00,Fiona,Complete
+RFQ-00043,Technical Evaluation,2025-01-15 10:00:00,Charlie,Complete
+RFQ-00043,Commercial Evaluation,2025-01-15 15:00:00,Edward,Complete
+RFQ-00043,PO Creation,2025-01-16 08:00:00,Alice,Complete
+RFQ-00043,Supplier Confirmation,2025-01-16 18:00:00,Bob,Complete
+RFQ-00043,Goods Dispatch,2025-01-17 09:00:00,Bob,Complete
+RFQ-00043,Goods Receipt,2025-01-17 12:00:00,Fiona,Complete
+RFQ-00043,Inspection & Approval,2025-01-17 16:00:00,Diana,Complete
+RFQ-00043,Invoice Generation,2025-01-17 18:00:00,Bob,Complete
+RFQ-00043,Payment to Supplier,2025-01-18 08:00:00,Edward,Complete
+RFQ-00044,Issuance of RFQ,2025-01-14 02:00:00,Edward,Complete
+RFQ-00044,Technical Evaluation,2025-01-14 22:00:00,Edward,Complete
+RFQ-00044,Commercial Evaluation,2025-01-15 07:00:00,Alice,Complete
+RFQ-00044,PO Creation,2025-01-16 02:00:00,Fiona,Complete
+RFQ-00044,Supplier Confirmation,2025-01-17 01:00:00,Diana,Complete
+RFQ-00044,Goods Dispatch,2025-01-17 22:00:00,Charlie,Complete
+RFQ-00044,Goods Receipt,2025-01-18 15:00:00,Charlie,Complete
+RFQ-00044,Inspection & Approval,2025-01-18 21:00:00,Fiona,Complete
+RFQ-00044,Invoice Generation,2025-01-19 19:00:00,Alice,Complete
+RFQ-00044,Payment to Supplier,2025-01-20 12:00:00,Alice,Complete
+RFQ-00045,Issuance of RFQ,2025-01-08 02:00:00,Fiona,Complete
+RFQ-00045,Technical Evaluation,2025-01-08 16:00:00,Charlie,Complete
+RFQ-00045,Commercial Evaluation,2025-01-08 22:00:00,Bob,Complete
+RFQ-00045,PO Creation,2025-01-09 01:00:00,Edward,Complete
+RFQ-00045,Supplier Confirmation,2025-01-09 20:00:00,Bob,Complete
+RFQ-00045,Goods Dispatch,2025-01-09 22:00:00,Alice,Complete
+RFQ-00045,Goods Receipt,2025-01-10 00:00:00,Fiona,Complete
+RFQ-00045,Inspection & Approval,2025-01-10 16:00:00,Bob,Complete
+RFQ-00045,Invoice Generation,2025-01-11 15:00:00,Fiona,Complete
+RFQ-00045,Payment to Supplier,2025-01-12 08:00:00,Alice,Complete
+RFQ-00046,Issuance of RFQ,2025-01-21 08:00:00,Edward,Complete
+RFQ-00046,Technical Evaluation,2025-01-21 14:00:00,Fiona,Complete
+RFQ-00046,Commercial Evaluation,2025-01-22 05:00:00,Charlie,Complete
+RFQ-00046,PO Creation,2025-01-22 08:00:00,Fiona,Complete
+RFQ-00046,Supplier Confirmation,2025-01-22 12:00:00,Diana,Complete
+RFQ-00046,Goods Dispatch,2025-01-22 22:00:00,Charlie,Complete
+RFQ-00046,Goods Receipt,2025-01-23 13:00:00,Bob,Complete
+RFQ-00046,Inspection & Approval,2025-01-24 01:00:00,Alice,Complete
+RFQ-00046,Invoice Generation,2025-01-24 07:00:00,Bob,Complete
+RFQ-00046,Payment to Supplier,2025-01-25 03:00:00,Fiona,Complete
+RFQ-00047,Issuance of RFQ,2025-02-05 17:00:00,Diana,Complete
+RFQ-00047,Technical Evaluation,2025-02-06 00:00:00,Charlie,Complete
+RFQ-00047,Commercial Evaluation,2025-02-06 22:00:00,Alice,Complete
+RFQ-00047,PO Creation,2025-02-07 12:00:00,Edward,Complete
+RFQ-00047,Supplier Confirmation,2025-02-08 10:00:00,Alice,Complete
+RFQ-00047,Goods Dispatch,2025-02-08 12:00:00,Bob,Complete
+RFQ-00047,Goods Receipt,2025-02-09 12:00:00,Alice,Complete
+RFQ-00047,Inspection & Approval,2025-02-09 14:00:00,Fiona,Complete
+RFQ-00047,Invoice Generation,2025-02-10 10:00:00,Fiona,Complete
+RFQ-00047,Payment to Supplier,2025-02-11 08:00:00,Edward,Complete
+RFQ-00048,Issuance of RFQ,2025-01-19 00:00:00,Diana,Complete
+RFQ-00048,Technical Evaluation,2025-01-19 16:00:00,Diana,Complete
+RFQ-00048,Commercial Evaluation,2025-01-20 03:00:00,Fiona,Complete
+RFQ-00048,PO Creation,2025-01-20 17:00:00,Alice,Complete
+RFQ-00048,Supplier Confirmation,2025-01-21 05:00:00,Diana,Complete
+RFQ-00048,Goods Dispatch,2025-01-21 14:00:00,Alice,Complete
+RFQ-00048,Goods Receipt,2025-01-21 22:00:00,Edward,Complete
+RFQ-00048,Inspection & Approval,2025-01-22 19:00:00,Diana,Complete
+RFQ-00048,Invoice Generation,2025-01-23 12:00:00,Charlie,Complete
+RFQ-00048,Payment to Supplier,2025-01-23 21:00:00,Edward,Complete
+RFQ-00049,Issuance of RFQ,2025-02-27 05:00:00,Fiona,Complete
+RFQ-00049,Technical Evaluation,2025-02-28 00:00:00,Charlie,Complete
+RFQ-00049,Commercial Evaluation,2025-02-28 03:00:00,Edward,Complete
+RFQ-00049,PO Creation,2025-02-28 17:00:00,Fiona,Complete
+RFQ-00049,Supplier Confirmation,2025-03-01 09:00:00,Diana,Complete
+RFQ-00049,Goods Dispatch,2025-03-01 20:00:00,Fiona,Complete
+RFQ-00049,Goods Receipt,2025-03-02 14:00:00,Edward,Complete
+RFQ-00049,Inspection & Approval,2025-03-03 08:00:00,Edward,Complete
+RFQ-00049,Invoice Generation,2025-03-04 03:00:00,Fiona,Complete
+RFQ-00049,Payment to Supplier,2025-03-04 10:00:00,Fiona,Complete
+RFQ-00050,Issuance of RFQ,2025-02-17 07:00:00,Edward,Complete
+RFQ-00050,Technical Evaluation,2025-02-17 21:00:00,Bob,Complete
+RFQ-00050,Commercial Evaluation,2025-02-18 20:00:00,Alice,Complete
+RFQ-00050,PO Creation,2025-02-19 03:00:00,Charlie,Complete
+RFQ-00050,Supplier Confirmation,2025-02-19 20:00:00,Alice,Complete
+RFQ-00050,Goods Dispatch,2025-02-20 06:00:00,Diana,Complete
+RFQ-00050,Goods Receipt,2025-02-20 21:00:00,Charlie,Complete
+RFQ-00050,Inspection & Approval,2025-02-21 08:00:00,Bob,Complete
+RFQ-00050,Invoice Generation,2025-02-21 10:00:00,Diana,Complete
+RFQ-00050,Payment to Supplier,2025-02-21 15:00:00,Diana,Complete
+RFQ-00051,Issuance of RFQ,2025-01-03 05:00:00,Charlie,Complete
+RFQ-00051,Technical Evaluation,2025-01-03 19:00:00,Edward,Complete
+RFQ-00051,Commercial Evaluation,2025-01-03 21:00:00,Fiona,Complete
+RFQ-00051,PO Creation,2025-01-04 10:00:00,Alice,Complete
+RFQ-00051,Supplier Confirmation,2025-01-05 01:00:00,Alice,Complete
+RFQ-00051,Goods Dispatch,2025-01-05 06:00:00,Alice,Complete
+RFQ-00051,Goods Receipt,2025-01-05 18:00:00,Charlie,Complete
+RFQ-00051,Inspection & Approval,2025-01-06 14:00:00,Bob,Complete
+RFQ-00051,Invoice Generation,2025-01-07 04:00:00,Alice,Complete
+RFQ-00051,Payment to Supplier,2025-01-08 04:00:00,Bob,Complete
+RFQ-00052,Issuance of RFQ,2025-01-12 20:00:00,Alice,Complete
+RFQ-00052,Technical Evaluation,2025-01-13 11:00:00,Bob,Complete
+RFQ-00052,Commercial Evaluation,2025-01-14 03:00:00,Edward,Complete
+RFQ-00052,PO Creation,2025-01-15 03:00:00,Bob,Complete
+RFQ-00052,Supplier Confirmation,2025-01-16 01:00:00,Bob,Complete
+RFQ-00052,Goods Dispatch,2025-01-16 05:00:00,Bob,Complete
+RFQ-00052,Goods Receipt,2025-01-16 14:00:00,Edward,Complete
+RFQ-00052,Inspection & Approval,2025-01-16 20:00:00,Charlie,Complete
+RFQ-00052,Invoice Generation,2025-01-17 08:00:00,Edward,Complete
+RFQ-00052,Payment to Supplier,2025-01-17 13:00:00,Charlie,Complete
+RFQ-00053,Issuance of RFQ,2025-02-23 11:00:00,Diana,Complete
+RFQ-00053,Technical Evaluation,2025-02-24 10:00:00,Alice,Complete
+RFQ-00053,Commercial Evaluation,2025-02-24 16:00:00,Fiona,Complete
+RFQ-00053,PO Creation,2025-02-25 00:00:00,Alice,Complete
+RFQ-00053,Supplier Confirmation,2025-02-25 05:00:00,Bob,Complete
+RFQ-00053,Goods Dispatch,2025-02-25 08:00:00,Alice,Complete
+RFQ-00053,Goods Receipt,2025-02-25 11:00:00,Edward,Complete
+RFQ-00053,Inspection & Approval,2025-02-26 09:00:00,Charlie,Complete
+RFQ-00053,Invoice Generation,2025-02-27 07:00:00,Bob,Complete
+RFQ-00053,Payment to Supplier,2025-02-27 15:00:00,Charlie,Complete
+RFQ-00054,Issuance of RFQ,2025-02-08 06:00:00,Fiona,Complete
+RFQ-00054,Technical Evaluation,2025-02-08 20:00:00,Alice,Complete
+RFQ-00054,Commercial Evaluation,2025-02-09 10:00:00,Charlie,Complete
+RFQ-00054,PO Creation,2025-02-09 16:00:00,Charlie,Complete
+RFQ-00054,Supplier Confirmation,2025-02-10 12:00:00,Alice,Complete
+RFQ-00054,Goods Dispatch,2025-02-11 11:00:00,Edward,Complete
+RFQ-00054,Goods Receipt,2025-02-12 07:00:00,Edward,Complete
+RFQ-00054,Inspection & Approval,2025-02-12 09:00:00,Charlie,Complete
+RFQ-00054,Invoice Generation,2025-02-13 05:00:00,Alice,Complete
+RFQ-00054,Payment to Supplier,2025-02-14 04:00:00,Edward,Complete
+RFQ-00055,Issuance of RFQ,2025-02-23 00:00:00,Bob,Complete
+RFQ-00055,Technical Evaluation,2025-02-23 04:00:00,Alice,Complete
+RFQ-00055,Commercial Evaluation,2025-02-23 11:00:00,Alice,Complete
+RFQ-00055,PO Creation,2025-02-24 00:00:00,Charlie,Complete
+RFQ-00055,Supplier Confirmation,2025-02-24 16:00:00,Edward,Complete
+RFQ-00055,Goods Dispatch,2025-02-25 10:00:00,Alice,Complete
+RFQ-00055,Goods Receipt,2025-02-25 21:00:00,Bob,Complete
+RFQ-00055,Inspection & Approval,2025-02-26 12:00:00,Charlie,Complete
+RFQ-00055,Invoice Generation,2025-02-26 14:00:00,Diana,Complete
+RFQ-00055,Payment to Supplier,2025-02-26 17:00:00,Bob,Complete
+RFQ-00056,Issuance of RFQ,2025-02-24 17:00:00,Charlie,Complete
+RFQ-00056,Technical Evaluation,2025-02-25 14:00:00,Edward,Complete
+RFQ-00056,Commercial Evaluation,2025-02-26 14:00:00,Diana,Complete
+RFQ-00056,PO Creation,2025-02-27 11:00:00,Alice,Complete
+RFQ-00056,Supplier Confirmation,2025-02-27 16:00:00,Diana,Complete
+RFQ-00056,Goods Dispatch,2025-02-28 11:00:00,Bob,Complete
+RFQ-00056,Goods Receipt,2025-02-28 13:00:00,Alice,Complete
+RFQ-00056,Inspection & Approval,2025-03-01 04:00:00,Fiona,Complete
+RFQ-00056,Invoice Generation,2025-03-01 16:00:00,Diana,Complete
+RFQ-00056,Payment to Supplier,2025-03-02 08:00:00,Diana,Complete
+RFQ-00057,Issuance of RFQ,2025-01-28 16:00:00,Alice,Complete
+RFQ-00057,Technical Evaluation,2025-01-29 11:00:00,Diana,Complete
+RFQ-00057,Commercial Evaluation,2025-01-29 20:00:00,Bob,Complete
+RFQ-00057,PO Creation,2025-01-30 13:00:00,Charlie,Complete
+RFQ-00057,Supplier Confirmation,2025-01-31 06:00:00,Edward,Complete
+RFQ-00057,Goods Dispatch,2025-02-01 06:00:00,Edward,Complete
+RFQ-00057,Goods Receipt,2025-02-01 18:00:00,Edward,Complete
+RFQ-00057,Inspection & Approval,2025-02-02 06:00:00,Charlie,Complete
+RFQ-00057,Invoice Generation,2025-02-02 10:00:00,Bob,Complete
+RFQ-00057,Payment to Supplier,2025-02-03 09:00:00,Edward,Complete
+RFQ-00058,Issuance of RFQ,2025-01-15 14:00:00,Alice,Complete
+RFQ-00058,Technical Evaluation,2025-01-15 21:00:00,Fiona,Complete
+RFQ-00058,Commercial Evaluation,2025-01-16 10:00:00,Bob,Complete
+RFQ-00058,PO Creation,2025-01-16 16:00:00,Diana,Complete
+RFQ-00058,Supplier Confirmation,2025-01-17 06:00:00,Diana,Complete
+RFQ-00058,Goods Dispatch,2025-01-18 06:00:00,Bob,Complete
+RFQ-00058,Goods Receipt,2025-01-19 03:00:00,Diana,Complete
+RFQ-00058,Inspection & Approval,2025-01-19 09:00:00,Alice,Complete
+RFQ-00058,Invoice Generation,2025-01-19 19:00:00,Fiona,Complete
+RFQ-00058,Payment to Supplier,2025-01-20 19:00:00,Alice,Complete
+RFQ-00059,Issuance of RFQ,2025-02-16 22:00:00,Charlie,Complete
+RFQ-00059,Technical Evaluation,2025-02-17 10:00:00,Diana,Complete
+RFQ-00059,Commercial Evaluation,2025-02-18 05:00:00,Charlie,Complete
+RFQ-00059,PO Creation,2025-02-18 21:00:00,Edward,Complete
+RFQ-00059,Supplier Confirmation,2025-02-19 17:00:00,Fiona,Complete
+RFQ-00059,Goods Dispatch,2025-02-19 19:00:00,Edward,Complete
+RFQ-00059,Goods Receipt,2025-02-20 13:00:00,Charlie,Complete
+RFQ-00059,Inspection & Approval,2025-02-21 05:00:00,Charlie,Complete
+RFQ-00059,Invoice Generation,2025-02-22 00:00:00,Bob,Complete
+RFQ-00059,Payment to Supplier,2025-02-22 05:00:00,Fiona,Complete
+RFQ-00060,Issuance of RFQ,2025-01-24 03:00:00,Fiona,Complete
+RFQ-00060,Technical Evaluation,2025-01-24 17:00:00,Diana,Complete
+RFQ-00060,Commercial Evaluation,2025-01-25 16:00:00,Fiona,Complete
+RFQ-00060,PO Creation,2025-01-26 03:00:00,Bob,Complete
+RFQ-00060,Supplier Confirmation,2025-01-26 18:00:00,Fiona,Complete
+RFQ-00060,Goods Dispatch,2025-01-26 21:00:00,Charlie,Complete
+RFQ-00060,Goods Receipt,2025-01-27 14:00:00,Diana,Complete
+RFQ-00060,Inspection & Approval,2025-01-28 04:00:00,Alice,Complete
+RFQ-00060,Invoice Generation,2025-01-29 03:00:00,Fiona,Complete
+RFQ-00060,Payment to Supplier,2025-01-29 17:00:00,Edward,Complete
+RFQ-00061,Issuance of RFQ,2025-02-03 21:00:00,Charlie,Complete
+RFQ-00061,Technical Evaluation,2025-02-04 20:00:00,Fiona,Complete
+RFQ-00061,Commercial Evaluation,2025-02-05 20:00:00,Diana,Complete
+RFQ-00061,PO Creation,2025-02-06 00:00:00,Edward,Complete
+RFQ-00061,Supplier Confirmation,2025-02-06 02:00:00,Charlie,Complete
+RFQ-00061,Goods Dispatch,2025-02-06 19:00:00,Alice,Complete
+RFQ-00061,Goods Receipt,2025-02-07 16:00:00,Fiona,Complete
+RFQ-00061,Inspection & Approval,2025-02-07 20:00:00,Diana,Complete
+RFQ-00061,Invoice Generation,2025-02-08 15:00:00,Fiona,Complete
+RFQ-00061,Payment to Supplier,2025-02-09 02:00:00,Bob,Complete
+RFQ-00062,Issuance of RFQ,2025-01-19 12:00:00,Fiona,Complete
+RFQ-00062,Technical Evaluation,2025-01-20 08:00:00,Diana,Complete
+RFQ-00062,Commercial Evaluation,2025-01-20 10:00:00,Edward,Complete
+RFQ-00062,PO Creation,2025-01-21 02:00:00,Diana,Complete
+RFQ-00062,Supplier Confirmation,2025-01-21 05:00:00,Edward,Complete
+RFQ-00062,Goods Dispatch,2025-01-21 19:00:00,Alice,Complete
+RFQ-00062,Goods Receipt,2025-01-21 21:00:00,Fiona,Complete
+RFQ-00062,Inspection & Approval,2025-01-22 12:00:00,Charlie,Complete
+RFQ-00062,Invoice Generation,2025-01-22 15:00:00,Alice,Complete
+RFQ-00062,Payment to Supplier,2025-01-23 06:00:00,Diana,Complete
+RFQ-00063,Issuance of RFQ,2025-01-22 20:00:00,Bob,Complete
+RFQ-00063,Technical Evaluation,2025-01-23 19:00:00,Fiona,Complete
+RFQ-00063,Commercial Evaluation,2025-01-23 23:00:00,Fiona,Complete
+RFQ-00063,PO Creation,2025-01-24 03:00:00,Edward,Complete
+RFQ-00063,Supplier Confirmation,2025-01-24 14:00:00,Bob,Complete
+RFQ-00063,Goods Dispatch,2025-01-25 13:00:00,Fiona,Complete
+RFQ-00063,Goods Receipt,2025-01-25 21:00:00,Fiona,Complete
+RFQ-00063,Invoice Generation,2025-01-26 11:00:00,Diana,Complete
+RFQ-00063,Payment to Supplier,2025-01-26 14:00:00,Alice,Complete
+RFQ-00064,Issuance of RFQ,2025-01-20 17:00:00,Diana,Complete
+RFQ-00064,Technical Evaluation,2025-01-21 04:00:00,Edward,Complete
+RFQ-00064,Commercial Evaluation,2025-01-21 09:00:00,Fiona,Complete
+RFQ-00064,PO Creation,2025-01-22 06:00:00,Bob,Complete
+RFQ-00064,Supplier Confirmation,2025-01-23 03:00:00,Alice,Complete
+RFQ-00064,Goods Dispatch,2025-01-24 03:00:00,Diana,Complete
+RFQ-00064,Goods Receipt,2025-01-24 08:00:00,Bob,Complete
+RFQ-00064,Inspection & Approval,2025-01-24 13:00:00,Bob,Complete
+RFQ-00064,Invoice Generation,2025-01-24 17:00:00,Diana,Complete
+RFQ-00064,Payment to Supplier,2025-01-24 22:00:00,Fiona,Complete
+RFQ-00065,Issuance of RFQ,2025-01-19 22:00:00,Charlie,Complete
+RFQ-00065,Technical Evaluation,2025-01-20 15:00:00,Charlie,Complete
+RFQ-00065,Commercial Evaluation,2025-01-21 06:00:00,Fiona,Complete
+RFQ-00065,PO Creation,2025-01-21 17:00:00,Bob,Complete
+RFQ-00065,Supplier Confirmation,2025-01-22 05:00:00,Fiona,Complete
+RFQ-00065,Goods Dispatch,2025-01-22 09:00:00,Fiona,Complete
+RFQ-00065,Goods Receipt,2025-01-22 11:00:00,Diana,Complete
+RFQ-00065,Inspection & Approval,2025-01-23 01:00:00,Bob,Complete
+RFQ-00065,Invoice Generation,2025-01-23 19:00:00,Fiona,Complete
+RFQ-00065,Payment to Supplier,2025-01-23 22:00:00,Alice,Complete
+RFQ-00066,Issuance of RFQ,2025-01-02 00:00:00,Diana,Complete
+RFQ-00066,Technical Evaluation,2025-01-02 13:00:00,Bob,Complete
+RFQ-00066,Commercial Evaluation,2025-01-03 01:00:00,Diana,Complete
+RFQ-00066,PO Creation,2025-01-04 01:00:00,Charlie,Complete
+RFQ-00066,Supplier Confirmation,2025-01-04 15:00:00,Diana,Complete
+RFQ-00066,Goods Dispatch,2025-01-05 09:00:00,Edward,Complete
+RFQ-00066,Goods Receipt,2025-01-05 20:00:00,Diana,Complete
+RFQ-00066,Inspection & Approval,2025-01-06 18:00:00,Bob,Complete
+RFQ-00066,Invoice Generation,2025-01-07 07:00:00,Diana,Complete
+RFQ-00066,Payment to Supplier,2025-01-08 04:00:00,Alice,Complete
+RFQ-00067,Issuance of RFQ,2025-03-03 00:00:00,Charlie,Complete
+RFQ-00067,Technical Evaluation,2025-03-03 03:00:00,Edward,Complete
+RFQ-00067,Commercial Evaluation,2025-03-03 17:00:00,Edward,Complete
+RFQ-00067,PO Creation,2025-03-04 03:00:00,Edward,Complete
+RFQ-00067,Supplier Confirmation,2025-03-04 07:00:00,Diana,Complete
+RFQ-00067,Goods Dispatch,2025-03-04 14:00:00,Alice,Complete
+RFQ-00067,Goods Receipt,2025-03-04 23:00:00,Edward,Complete
+RFQ-00067,Inspection & Approval,2025-03-05 10:00:00,Diana,Complete
+RFQ-00067,Invoice Generation,2025-03-05 15:00:00,Alice,Complete
+RFQ-00067,Payment to Supplier,2025-03-05 17:00:00,Edward,Complete
+RFQ-00068,Issuance of RFQ,2025-01-25 09:00:00,Fiona,Complete
+RFQ-00068,Technical Evaluation,2025-01-25 22:00:00,Edward,Complete
+RFQ-00068,Commercial Evaluation,2025-01-26 11:00:00,Edward,Complete
+RFQ-00068,PO Creation,2025-01-26 13:00:00,Edward,Complete
+RFQ-00068,Supplier Confirmation,2025-01-27 09:00:00,Charlie,Complete
+RFQ-00068,Goods Dispatch,2025-01-27 23:00:00,Bob,Complete
+RFQ-00068,Goods Receipt,2025-01-28 16:00:00,Alice,Complete
+RFQ-00068,Inspection & Approval,2025-01-29 00:00:00,Edward,Complete
+RFQ-00068,Invoice Generation,2025-01-29 22:00:00,Charlie,Complete
+RFQ-00068,Payment to Supplier,2025-01-30 19:00:00,Bob,Complete
+RFQ-00069,Issuance of RFQ,2025-01-02 08:00:00,Bob,Complete
+RFQ-00069,Technical Evaluation,2025-01-02 14:00:00,Edward,Complete
+RFQ-00069,Commercial Evaluation,2025-01-03 10:00:00,Edward,Complete
+RFQ-00069,PO Creation,2025-01-04 10:00:00,Edward,Complete
+RFQ-00069,Supplier Confirmation,2025-01-05 08:00:00,Bob,Complete
+RFQ-00069,Goods Dispatch,2025-01-05 16:00:00,Charlie,Complete
+RFQ-00069,Goods Receipt,2025-01-06 05:00:00,Alice,Complete
+RFQ-00069,Inspection & Approval,2025-01-07 00:00:00,Charlie,Complete
+RFQ-00069,Invoice Generation,2025-01-07 17:00:00,Alice,Complete
+RFQ-00069,Payment to Supplier,2025-01-07 20:00:00,Bob,Complete
+RFQ-00070,Issuance of RFQ,2025-01-01 04:00:00,Edward,Complete
+RFQ-00070,Technical Evaluation,2025-01-01 09:00:00,Edward,Complete
+RFQ-00070,Commercial Evaluation,2025-01-01 18:00:00,Edward,Complete
+RFQ-00070,PO Creation,2025-01-01 22:00:00,Fiona,Complete
+RFQ-00070,Supplier Confirmation,2025-01-02 07:00:00,Fiona,Complete
+RFQ-00070,Goods Dispatch,2025-01-02 13:00:00,Edward,Complete
+RFQ-00070,Goods Receipt,2025-01-02 22:00:00,Edward,Complete
+RFQ-00070,Inspection & Approval,2025-01-03 12:00:00,Bob,Complete
+RFQ-00070,Invoice Generation,2025-01-03 16:00:00,Bob,Complete
+RFQ-00070,Payment to Supplier,2025-01-04 13:00:00,Diana,Complete
+RFQ-00071,Issuance of RFQ,2025-02-27 22:00:00,Charlie,Complete
+RFQ-00071,Technical Evaluation,2025-02-28 14:00:00,Charlie,Complete
+RFQ-00071,Commercial Evaluation,2025-03-01 08:00:00,Bob,Complete
+RFQ-00071,PO Creation,2025-03-02 03:00:00,Fiona,Complete
+RFQ-00071,Supplier Confirmation,2025-03-02 17:00:00,Edward,Complete
+RFQ-00071,Goods Dispatch,2025-03-03 16:00:00,Bob,Complete
+RFQ-00071,Goods Receipt,2025-03-04 08:00:00,Edward,Complete
+RFQ-00071,Inspection & Approval,2025-03-04 13:00:00,Bob,Complete
+RFQ-00071,Invoice Generation,2025-03-04 22:00:00,Diana,Complete
+RFQ-00071,Payment to Supplier,2025-03-05 13:00:00,Diana,Complete
+RFQ-00072,Issuance of RFQ,2025-01-19 15:00:00,Bob,Complete
+RFQ-00072,Technical Evaluation,2025-01-20 09:00:00,Alice,Complete
+RFQ-00072,Commercial Evaluation,2025-01-20 21:00:00,Alice,Complete
+RFQ-00072,PO Creation,2025-01-21 21:00:00,Alice,Complete
+RFQ-00072,Supplier Confirmation,2025-01-22 12:00:00,Fiona,Complete
+RFQ-00072,Goods Dispatch,2025-01-23 09:00:00,Alice,Complete
+RFQ-00072,Goods Receipt,2025-01-23 19:00:00,Diana,Complete
+RFQ-00072,Inspection & Approval,2025-01-24 08:00:00,Charlie,Complete
+RFQ-00072,Invoice Generation,2025-01-25 06:00:00,Bob,Complete
+RFQ-00072,Payment to Supplier,2025-01-25 21:00:00,Diana,Complete
+RFQ-00073,Issuance of RFQ,2025-02-12 19:00:00,Charlie,Complete
+RFQ-00073,Technical Evaluation,2025-02-13 09:00:00,Fiona,Complete
+RFQ-00073,Commercial Evaluation,2025-02-13 11:00:00,Fiona,Complete
+RFQ-00073,PO Creation,2025-02-14 10:00:00,Bob,Complete
+RFQ-00073,Supplier Confirmation,2025-02-14 23:00:00,Alice,Complete
+RFQ-00073,Goods Dispatch,2025-02-15 18:00:00,Bob,Complete
+RFQ-00073,Goods Receipt,2025-02-16 16:00:00,Bob,Complete
+RFQ-00073,Inspection & Approval,2025-02-17 06:00:00,Edward,Complete
+RFQ-00073,Invoice Generation,2025-02-17 10:00:00,Fiona,Complete
+RFQ-00073,Payment to Supplier,2025-02-17 21:00:00,Diana,Complete
+RFQ-00074,Issuance of RFQ,2025-01-05 18:00:00,Edward,Complete
+RFQ-00074,Technical Evaluation,2025-01-06 02:00:00,Alice,Complete
+RFQ-00074,Commercial Evaluation,2025-01-06 08:00:00,Fiona,Complete
+RFQ-00074,PO Creation,2025-01-06 12:00:00,Bob,Complete
+RFQ-00074,Supplier Confirmation,2025-01-07 07:00:00,Charlie,Complete
+RFQ-00074,Goods Dispatch,2025-01-07 16:00:00,Diana,Complete
+RFQ-00074,Goods Receipt,2025-01-08 02:00:00,Diana,Complete
+RFQ-00074,Inspection & Approval,2025-01-08 16:00:00,Diana,Complete
+RFQ-00074,Invoice Generation,2025-01-08 22:00:00,Edward,Complete
+RFQ-00074,Payment to Supplier,2025-01-09 14:00:00,Bob,Complete
+RFQ-00075,Issuance of RFQ,2025-02-02 06:00:00,Diana,Complete
+RFQ-00075,Technical Evaluation,2025-02-02 11:00:00,Fiona,Complete
+RFQ-00075,Commercial Evaluation,2025-02-03 07:00:00,Fiona,Complete
+RFQ-00075,PO Creation,2025-02-04 03:00:00,Fiona,Complete
+RFQ-00075,Supplier Confirmation,2025-02-05 01:00:00,Charlie,Complete
+RFQ-00075,Goods Receipt,2025-02-05 14:00:00,Fiona,Complete
+RFQ-00075,Inspection & Approval,2025-02-05 18:00:00,Edward,Complete
+RFQ-00075,Invoice Generation,2025-02-06 03:00:00,Alice,Complete
+RFQ-00075,Payment to Supplier,2025-02-06 13:00:00,Fiona,Complete
+RFQ-00076,Issuance of RFQ,2025-02-25 00:00:00,Fiona,Complete
+RFQ-00076,Technical Evaluation,2025-02-25 04:00:00,Alice,Complete
+RFQ-00076,Commercial Evaluation,2025-02-26 04:00:00,Diana,Complete
+RFQ-00076,PO Creation,2025-02-26 22:00:00,Bob,Complete
+RFQ-00076,Supplier Confirmation,2025-02-27 17:00:00,Diana,Complete
+RFQ-00076,Goods Dispatch,2025-02-27 22:00:00,Edward,Complete
+RFQ-00076,Goods Receipt,2025-02-28 10:00:00,Bob,Complete
+RFQ-00076,Inspection & Approval,2025-03-01 06:00:00,Edward,Complete
+RFQ-00076,Invoice Generation,2025-03-01 19:00:00,Edward,Complete
+RFQ-00076,Payment to Supplier,2025-03-02 11:00:00,Charlie,Complete
+RFQ-00077,Issuance of RFQ,2025-01-17 06:00:00,Charlie,Complete
+RFQ-00077,Technical Evaluation,2025-01-17 09:00:00,Edward,Complete
+RFQ-00077,Commercial Evaluation,2025-01-18 04:00:00,Bob,Complete
+RFQ-00077,PO Creation,2025-01-18 20:00:00,Bob,Complete
+RFQ-00077,Supplier Confirmation,2025-01-19 09:00:00,Charlie,Complete
+RFQ-00077,Goods Dispatch,2025-01-19 16:00:00,Fiona,Complete
+RFQ-00077,Goods Receipt,2025-01-20 09:00:00,Diana,Complete
+RFQ-00077,Inspection & Approval,2025-01-20 14:00:00,Edward,Complete
+RFQ-00077,Invoice Generation,2025-01-21 09:00:00,Edward,Complete
+RFQ-00077,Payment to Supplier,2025-01-21 20:00:00,Diana,Complete
+RFQ-00078,Issuance of RFQ,2025-01-05 06:00:00,Diana,Complete
+RFQ-00078,Technical Evaluation,2025-01-05 09:00:00,Diana,Complete
+RFQ-00078,Commercial Evaluation,2025-01-06 07:00:00,Alice,Complete
+RFQ-00078,PO Creation,2025-01-06 15:00:00,Charlie,Complete
+RFQ-00078,Supplier Confirmation,2025-01-06 17:00:00,Bob,Complete
+RFQ-00078,Goods Dispatch,2025-01-06 23:00:00,Edward,Complete
+RFQ-00078,Goods Receipt,2025-01-07 11:00:00,Bob,Complete
+RFQ-00078,Inspection & Approval,2025-01-07 19:00:00,Bob,Complete
+RFQ-00078,Invoice Generation,2025-01-08 13:00:00,Edward,Complete
+RFQ-00078,Payment to Supplier,2025-01-09 07:00:00,Edward,Complete
+RFQ-00079,Issuance of RFQ,2025-01-21 21:00:00,Bob,Complete
+RFQ-00079,Technical Evaluation,2025-01-22 00:00:00,Charlie,Complete
+RFQ-00079,Commercial Evaluation,2025-01-22 23:00:00,Edward,Complete
+RFQ-00079,PO Creation,2025-01-23 03:00:00,Bob,Complete
+RFQ-00079,Supplier Confirmation,2025-01-23 17:00:00,Edward,Complete
+RFQ-00079,Goods Dispatch,2025-01-24 09:00:00,Bob,Complete
+RFQ-00079,Goods Receipt,2025-01-25 06:00:00,Alice,Complete
+RFQ-00079,Inspection & Approval,2025-01-26 02:00:00,Alice,Complete
+RFQ-00079,Invoice Generation,2025-01-26 14:00:00,Bob,Complete
+RFQ-00079,Payment to Supplier,2025-01-27 12:00:00,Edward,Complete
+RFQ-00080,Issuance of RFQ,2025-02-28 22:00:00,Bob,Complete
+RFQ-00080,Technical Evaluation,2025-03-01 00:00:00,Edward,Complete
+RFQ-00080,Commercial Evaluation,2025-03-01 15:00:00,Fiona,Complete
+RFQ-00080,PO Creation,2025-03-02 14:00:00,Bob,Complete
+RFQ-00080,Supplier Confirmation,2025-03-03 01:00:00,Bob,Complete
+RFQ-00080,Goods Dispatch,2025-03-03 08:00:00,Edward,Complete
+RFQ-00080,Goods Receipt,2025-03-03 21:00:00,Bob,Complete
+RFQ-00080,Inspection & Approval,2025-03-04 06:00:00,Alice,Complete
+RFQ-00080,Invoice Generation,2025-03-04 14:00:00,Charlie,Complete
+RFQ-00080,Payment to Supplier,2025-03-05 10:00:00,Bob,Complete
+RFQ-00081,Issuance of RFQ,2025-01-10 22:00:00,Bob,Complete
+RFQ-00081,Technical Evaluation,2025-01-11 18:00:00,Diana,Complete
+RFQ-00081,Commercial Evaluation,2025-01-12 04:00:00,Fiona,Complete
+RFQ-00081,PO Creation,2025-01-12 20:00:00,Fiona,Complete
+RFQ-00081,Supplier Confirmation,2025-01-13 15:00:00,Alice,Complete
+RFQ-00081,Goods Dispatch,2025-01-14 06:00:00,Alice,Complete
+RFQ-00081,Goods Receipt,2025-01-14 13:00:00,Fiona,Complete
+RFQ-00081,Inspection & Approval,2025-01-15 09:00:00,Edward,Complete
+RFQ-00081,Invoice Generation,2025-01-15 17:00:00,Diana,Complete
+RFQ-00081,Payment to Supplier,2025-01-16 03:00:00,Fiona,Complete
+RFQ-00082,Issuance of RFQ,2025-02-14 16:00:00,Alice,Complete
+RFQ-00082,Technical Evaluation,2025-02-15 02:00:00,Diana,Complete
+RFQ-00082,Commercial Evaluation,2025-02-15 22:00:00,Bob,Complete
+RFQ-00082,PO Creation,2025-02-16 10:00:00,Edward,Complete
+RFQ-00082,Supplier Confirmation,2025-02-16 20:00:00,Diana,Complete
+RFQ-00082,Goods Dispatch,2025-02-17 19:00:00,Bob,Complete
+RFQ-00082,Goods Receipt,2025-02-18 03:00:00,Alice,Complete
+RFQ-00082,Inspection & Approval,2025-02-18 12:00:00,Alice,Complete
+RFQ-00082,Invoice Generation,2025-02-19 11:00:00,Bob,Complete
+RFQ-00082,Payment to Supplier,2025-02-19 18:00:00,Alice,Complete
+RFQ-00083,Issuance of RFQ,2025-02-10 03:00:00,Diana,Complete
+RFQ-00083,Technical Evaluation,2025-02-11 03:00:00,Bob,Complete
+RFQ-00083,Commercial Evaluation,2025-02-11 16:00:00,Alice,Complete
+RFQ-00083,PO Creation,2025-02-12 15:00:00,Diana,Complete
+RFQ-00083,Supplier Confirmation,2025-02-12 20:00:00,Bob,Complete
+RFQ-00083,Goods Dispatch,2025-02-13 12:00:00,Fiona,Complete
+RFQ-00083,Goods Receipt,2025-02-14 07:00:00,Bob,Complete
+RFQ-00083,Inspection & Approval,2025-02-14 15:00:00,Edward,Complete
+RFQ-00083,Invoice Generation,2025-02-15 05:00:00,Charlie,Complete
+RFQ-00083,Payment to Supplier,2025-02-16 02:00:00,Diana,Complete
+RFQ-00084,Issuance of RFQ,2025-01-06 06:00:00,Diana,Complete
+RFQ-00084,Technical Evaluation,2025-01-06 16:00:00,Diana,Complete
+RFQ-00084,Commercial Evaluation,2025-01-06 19:00:00,Edward,Complete
+RFQ-00084,PO Creation,2025-01-07 04:00:00,Charlie,Complete
+RFQ-00084,Supplier Confirmation,2025-01-07 09:00:00,Charlie,Complete
+RFQ-00084,Goods Dispatch,2025-01-08 00:00:00,Alice,Complete
+RFQ-00084,Goods Receipt,2025-01-08 02:00:00,Alice,Complete
+RFQ-00084,Inspection & Approval,2025-01-08 08:00:00,Diana,Complete
+RFQ-00084,Invoice Generation,2025-01-09 08:00:00,Edward,Complete
+RFQ-00084,Payment to Supplier,2025-01-09 15:00:00,Diana,Complete
+RFQ-00085,Issuance of RFQ,2025-03-02 10:00:00,Bob,Complete
+RFQ-00085,Commercial Evaluation,2025-03-03 05:00:00,Fiona,Complete
+RFQ-00085,PO Creation,2025-03-04 01:00:00,Charlie,Complete
+RFQ-00085,Supplier Confirmation,2025-03-04 07:00:00,Edward,Complete
+RFQ-00085,Goods Dispatch,2025-03-04 19:00:00,Charlie,Complete
+RFQ-00085,Goods Receipt,2025-03-05 09:00:00,Charlie,Complete
+RFQ-00085,Inspection & Approval,2025-03-05 11:00:00,Charlie,Complete
+RFQ-00085,Invoice Generation,2025-03-05 15:00:00,Alice,Complete
+RFQ-00085,Payment to Supplier,2025-03-05 21:00:00,Bob,Complete
+RFQ-00086,Issuance of RFQ,2025-02-15 00:00:00,Edward,Complete
+RFQ-00086,Technical Evaluation,2025-02-15 04:00:00,Alice,Complete
+RFQ-00086,Commercial Evaluation,2025-02-15 09:00:00,Alice,Complete
+RFQ-00086,PO Creation,2025-02-15 19:00:00,Diana,Complete
+RFQ-00086,Supplier Confirmation,2025-02-16 00:00:00,Alice,Complete
+RFQ-00086,Goods Dispatch,2025-02-16 04:00:00,Bob,Complete
+RFQ-00086,Goods Receipt,2025-02-16 10:00:00,Edward,Complete
+RFQ-00086,Inspection & Approval,2025-02-17 05:00:00,Alice,Complete
+RFQ-00086,Invoice Generation,2025-02-17 07:00:00,Bob,Complete
+RFQ-00086,Payment to Supplier,2025-02-17 13:00:00,Bob,Complete
+RFQ-00087,Issuance of RFQ,2025-01-15 02:00:00,Fiona,Complete
+RFQ-00087,Technical Evaluation,2025-01-15 20:00:00,Diana,Complete
+RFQ-00087,Commercial Evaluation,2025-01-16 12:00:00,Fiona,Complete
+RFQ-00087,PO Creation,2025-01-16 17:00:00,Alice,Complete
+RFQ-00087,Supplier Confirmation,2025-01-17 02:00:00,Diana,Complete
+RFQ-00087,Goods Dispatch,2025-01-18 00:00:00,Alice,Complete
+RFQ-00087,Goods Receipt,2025-01-18 22:00:00,Alice,Complete
+RFQ-00087,Inspection & Approval,2025-01-19 15:00:00,Alice,Complete
+RFQ-00087,Invoice Generation,2025-01-20 13:00:00,Fiona,Complete
+RFQ-00087,Payment to Supplier,2025-01-21 00:00:00,Fiona,Complete
+RFQ-00088,Issuance of RFQ,2025-01-16 15:00:00,Charlie,Complete
+RFQ-00088,Technical Evaluation,2025-01-17 08:00:00,Alice,Complete
+RFQ-00088,Commercial Evaluation,2025-01-18 05:00:00,Alice,Complete
+RFQ-00088,PO Creation,2025-01-18 15:00:00,Charlie,Complete
+RFQ-00088,Supplier Confirmation,2025-01-18 23:00:00,Diana,Complete
+RFQ-00088,Goods Dispatch,2025-01-19 07:00:00,Charlie,Complete
+RFQ-00088,Goods Receipt,2025-01-20 07:00:00,Diana,Complete
+RFQ-00088,Inspection & Approval,2025-01-21 05:00:00,Edward,Complete
+RFQ-00088,Invoice Generation,2025-01-21 17:00:00,Bob,Complete
+RFQ-00088,Payment to Supplier,2025-01-22 10:00:00,Charlie,Complete
+RFQ-00089,Issuance of RFQ,2025-02-11 10:00:00,Diana,Complete
+RFQ-00089,Technical Evaluation,2025-02-12 01:00:00,Alice,Complete
+RFQ-00089,Commercial Evaluation,2025-02-12 09:00:00,Edward,Complete
+RFQ-00089,PO Creation,2025-02-12 12:00:00,Fiona,Complete
+RFQ-00089,Supplier Confirmation,2025-02-13 02:00:00,Fiona,Complete
+RFQ-00089,Goods Dispatch,2025-02-13 05:00:00,Edward,Complete
+RFQ-00089,Goods Receipt,2025-02-13 22:00:00,Bob,Complete
+RFQ-00089,Inspection & Approval,2025-02-14 07:00:00,Bob,Complete
+RFQ-00089,Invoice Generation,2025-02-14 09:00:00,Charlie,Complete
+RFQ-00089,Payment to Supplier,2025-02-14 20:00:00,Diana,Complete
+RFQ-00090,Issuance of RFQ,2025-02-05 08:00:00,Diana,Complete
+RFQ-00090,Technical Evaluation,2025-02-06 05:00:00,Diana,Complete
+RFQ-00090,Commercial Evaluation,2025-02-07 05:00:00,Fiona,Complete
+RFQ-00090,PO Creation,2025-02-08 03:00:00,Bob,Complete
+RFQ-00090,Supplier Confirmation,2025-02-08 07:00:00,Diana,Complete
+RFQ-00090,Goods Dispatch,2025-02-08 18:00:00,Charlie,Complete
+RFQ-00090,Goods Receipt,2025-02-09 13:00:00,Edward,Complete
+RFQ-00090,Inspection & Approval,2025-02-10 11:00:00,Diana,Complete
+RFQ-00090,Invoice Generation,2025-02-10 15:00:00,Fiona,Complete
+RFQ-00090,Payment to Supplier,2025-02-11 15:00:00,Diana,Complete
+RFQ-00091,Issuance of RFQ,2025-01-05 00:00:00,Charlie,Complete
+RFQ-00091,Technical Evaluation,2025-01-05 23:00:00,Edward,Complete
+RFQ-00091,Commercial Evaluation,2025-01-06 14:00:00,Edward,Complete
+RFQ-00091,PO Creation,2025-01-06 23:00:00,Charlie,Complete
+RFQ-00091,Supplier Confirmation,2025-01-07 09:00:00,Charlie,Complete
+RFQ-00091,Goods Dispatch,2025-01-08 02:00:00,Charlie,Complete
+RFQ-00091,Goods Receipt,2025-01-08 16:00:00,Edward,Complete
+RFQ-00091,Inspection & Approval,2025-01-09 08:00:00,Diana,Complete
+RFQ-00091,Invoice Generation,2025-01-09 23:00:00,Edward,Complete
+RFQ-00091,Payment to Supplier,2025-01-10 23:00:00,Fiona,Complete
+RFQ-00092,Issuance of RFQ,2025-01-03 19:00:00,Diana,Complete
+RFQ-00092,Technical Evaluation,2025-01-04 16:00:00,Diana,Complete
+RFQ-00092,Commercial Evaluation,2025-01-05 00:00:00,Diana,Complete
+RFQ-00092,PO Creation,2025-01-05 17:00:00,Fiona,Complete
+RFQ-00092,Supplier Confirmation,2025-01-06 05:00:00,Bob,Complete
+RFQ-00092,Goods Dispatch,2025-01-06 13:00:00,Edward,Complete
+RFQ-00092,Goods Receipt,2025-01-07 09:00:00,Charlie,Complete
+RFQ-00092,Inspection & Approval,2025-01-07 18:00:00,Edward,Complete
+RFQ-00092,Invoice Generation,2025-01-08 16:00:00,Edward,Complete
+RFQ-00092,Payment to Supplier,2025-01-09 10:00:00,Fiona,Complete
+RFQ-00093,Issuance of RFQ,2025-02-01 12:00:00,Edward,Complete
+RFQ-00093,Technical Evaluation,2025-02-01 23:00:00,Fiona,Complete
+RFQ-00093,Commercial Evaluation,2025-02-02 14:00:00,Charlie,Complete
+RFQ-00093,PO Creation,2025-02-02 17:00:00,Charlie,Complete
+RFQ-00093,Supplier Confirmation,2025-02-03 14:00:00,Alice,Complete
+RFQ-00093,Goods Dispatch,2025-02-04 00:00:00,Diana,Complete
+RFQ-00093,Goods Receipt,2025-02-04 06:00:00,Fiona,Complete
+RFQ-00093,Inspection & Approval,2025-02-04 15:00:00,Charlie,Complete
+RFQ-00093,Invoice Generation,2025-02-05 01:00:00,Bob,Complete
+RFQ-00093,Payment to Supplier,2025-02-05 18:00:00,Alice,Complete
+RFQ-00094,Issuance of RFQ,2025-01-09 11:00:00,Bob,Complete
+RFQ-00094,Technical Evaluation,2025-01-09 20:00:00,Bob,Complete
+RFQ-00094,Commercial Evaluation,2025-01-10 15:00:00,Fiona,Complete
+RFQ-00094,PO Creation,2025-01-10 19:00:00,Diana,Complete
+RFQ-00094,Supplier Confirmation,2025-01-10 23:00:00,Alice,Complete
+RFQ-00094,Goods Dispatch,2025-01-11 06:00:00,Charlie,Complete
+RFQ-00094,Goods Receipt,2025-01-11 10:00:00,Bob,Complete
+RFQ-00094,Inspection & Approval,2025-01-11 22:00:00,Charlie,Complete
+RFQ-00094,Invoice Generation,2025-01-12 22:00:00,Diana,Complete
+RFQ-00094,Payment to Supplier,2025-01-13 09:00:00,Edward,Complete
+RFQ-00095,Issuance of RFQ,2025-02-04 00:00:00,Edward,Complete
+RFQ-00095,Technical Evaluation,2025-02-04 21:00:00,Fiona,Complete
+RFQ-00095,Commercial Evaluation,2025-02-04 23:00:00,Charlie,Complete
+RFQ-00095,PO Creation,2025-02-05 04:00:00,Edward,Complete
+RFQ-00095,Supplier Confirmation,2025-02-05 10:00:00,Charlie,Complete
+RFQ-00095,Goods Dispatch,2025-02-05 12:00:00,Diana,Complete
+RFQ-00095,Goods Receipt,2025-02-05 20:00:00,Charlie,Complete
+RFQ-00095,Inspection & Approval,2025-02-06 05:00:00,Fiona,Complete
+RFQ-00095,Invoice Generation,2025-02-06 08:00:00,Fiona,Complete
+RFQ-00095,Payment to Supplier,2025-02-07 01:00:00,Edward,Complete
+RFQ-00096,Issuance of RFQ,2025-02-08 23:00:00,Charlie,Complete
+RFQ-00096,Technical Evaluation,2025-02-09 17:00:00,Edward,Complete
+RFQ-00096,Commercial Evaluation,2025-02-10 03:00:00,Charlie,Complete
+RFQ-00096,PO Creation,2025-02-11 03:00:00,Charlie,Complete
+RFQ-00096,Supplier Confirmation,2025-02-11 23:00:00,Fiona,Complete
+RFQ-00096,Goods Dispatch,2025-02-12 22:00:00,Alice,Complete
+RFQ-00096,Goods Receipt,2025-02-13 00:00:00,Fiona,Complete
+RFQ-00096,Inspection & Approval,2025-02-13 04:00:00,Diana,Complete
+RFQ-00096,Invoice Generation,2025-02-14 01:00:00,Charlie,Complete
+RFQ-00096,Payment to Supplier,2025-02-14 08:00:00,Fiona,Complete
+RFQ-00097,Issuance of RFQ,2025-01-07 06:00:00,Alice,Complete
+RFQ-00097,Technical Evaluation,2025-01-08 03:00:00,Charlie,Complete
+RFQ-00097,Commercial Evaluation,2025-01-08 17:00:00,Alice,Complete
+RFQ-00097,PO Creation,2025-01-09 10:00:00,Edward,Complete
+RFQ-00097,Supplier Confirmation,2025-01-09 18:00:00,Alice,Complete
+RFQ-00097,Goods Dispatch,2025-01-10 10:00:00,Bob,Complete
+RFQ-00097,Goods Receipt,2025-01-11 08:00:00,Alice,Complete
+RFQ-00097,Inspection & Approval,2025-01-11 19:00:00,Edward,Complete
+RFQ-00097,Payment to Supplier,2025-01-12 17:00:00,Fiona,Complete
+RFQ-00098,Issuance of RFQ,2025-01-28 05:00:00,Edward,Complete
+RFQ-00098,Technical Evaluation,2025-01-28 09:00:00,Edward,Complete
+RFQ-00098,Commercial Evaluation,2025-01-28 11:00:00,Diana,Complete
+RFQ-00098,PO Creation,2025-01-28 23:00:00,Fiona,Complete
+RFQ-00098,Supplier Confirmation,2025-01-29 07:00:00,Diana,Complete
+RFQ-00098,Goods Dispatch,2025-01-29 20:00:00,Charlie,Complete
+RFQ-00098,Goods Receipt,2025-01-30 01:00:00,Bob,Complete
+RFQ-00098,Inspection & Approval,2025-01-30 10:00:00,Diana,Complete
+RFQ-00098,Invoice Generation,2025-01-31 08:00:00,Diana,Complete
+RFQ-00098,Payment to Supplier,2025-02-01 04:00:00,Alice,Complete
+RFQ-00099,Issuance of RFQ,2025-02-10 09:00:00,Fiona,Complete
+RFQ-00099,Technical Evaluation,2025-02-11 08:00:00,Charlie,Complete
+RFQ-00099,Commercial Evaluation,2025-02-11 13:00:00,Charlie,Complete
+RFQ-00099,PO Creation,2025-02-12 11:00:00,Diana,Complete
+RFQ-00099,Supplier Confirmation,2025-02-13 06:00:00,Diana,Complete
+RFQ-00099,Goods Dispatch,2025-02-13 21:00:00,Alice,Complete
+RFQ-00099,Goods Receipt,2025-02-14 17:00:00,Diana,Complete
+RFQ-00099,Inspection & Approval,2025-02-15 05:00:00,Bob,Complete
+RFQ-00099,Invoice Generation,2025-02-15 07:00:00,Fiona,Complete
+RFQ-00099,Payment to Supplier,2025-02-15 19:00:00,Bob,Complete
+RFQ-00100,Issuance of RFQ,2025-01-08 23:00:00,Edward,Complete
+RFQ-00100,Technical Evaluation,2025-01-09 13:00:00,Alice,Complete
+RFQ-00100,Commercial Evaluation,2025-01-10 02:00:00,Edward,Complete
+RFQ-00100,PO Creation,2025-01-10 10:00:00,Fiona,Complete
+RFQ-00100,Supplier Confirmation,2025-01-11 02:00:00,Diana,Complete
+RFQ-00100,Goods Dispatch,2025-01-11 16:00:00,Diana,Complete
+RFQ-00100,Goods Receipt,2025-01-12 02:00:00,Edward,Complete
+RFQ-00100,Inspection & Approval,2025-01-12 05:00:00,Alice,Complete
+RFQ-00100,Invoice Generation,2025-01-12 16:00:00,Fiona,Complete
+RFQ-00100,Payment to Supplier,2025-01-12 22:00:00,Alice,Complete
+RFQ-00101,Issuance of RFQ,2025-02-28 21:00:00,Charlie,Complete
+RFQ-00101,Technical Evaluation,2025-03-01 20:00:00,Fiona,Complete
+RFQ-00101,Commercial Evaluation,2025-03-02 04:00:00,Bob,Complete
+RFQ-00101,PO Creation,2025-03-02 20:00:00,Diana,Complete
+RFQ-00101,Supplier Confirmation,2025-03-03 03:00:00,Diana,Complete
+RFQ-00101,Goods Dispatch,2025-03-03 23:00:00,Edward,Complete
+RFQ-00101,Goods Receipt,2025-03-04 22:00:00,Charlie,Complete
+RFQ-00101,Inspection & Approval,2025-03-05 07:00:00,Bob,Complete
+RFQ-00101,Invoice Generation,2025-03-06 05:00:00,Diana,Complete
+RFQ-00101,Payment to Supplier,2025-03-06 14:00:00,Charlie,Complete
+RFQ-00102,Issuance of RFQ,2025-01-20 18:00:00,Diana,Complete
+RFQ-00102,Technical Evaluation,2025-01-21 02:00:00,Charlie,Complete
+RFQ-00102,Commercial Evaluation,2025-01-21 12:00:00,Bob,Complete
+RFQ-00102,PO Creation,2025-01-22 11:00:00,Fiona,Complete
+RFQ-00102,Supplier Confirmation,2025-01-23 09:00:00,Edward,Complete
+RFQ-00102,Goods Dispatch,2025-01-24 04:00:00,Edward,Complete
+RFQ-00102,Goods Receipt,2025-01-24 07:00:00,Alice,Complete
+RFQ-00102,Inspection & Approval,2025-01-24 22:00:00,Alice,Complete
+RFQ-00102,Invoice Generation,2025-01-25 12:00:00,Alice,Complete
+RFQ-00102,Payment to Supplier,2025-01-25 14:00:00,Bob,Complete
+RFQ-00103,Issuance of RFQ,2025-01-18 21:00:00,Bob,Complete
+RFQ-00103,Technical Evaluation,2025-01-19 18:00:00,Fiona,Complete
+RFQ-00103,Commercial Evaluation,2025-01-19 20:00:00,Bob,Complete
+RFQ-00103,PO Creation,2025-01-20 05:00:00,Charlie,Complete
+RFQ-00103,Supplier Confirmation,2025-01-20 09:00:00,Edward,Complete
+RFQ-00103,Goods Dispatch,2025-01-20 15:00:00,Alice,Complete
+RFQ-00103,Goods Receipt,2025-01-21 06:00:00,Bob,Complete
+RFQ-00103,Inspection & Approval,2025-01-21 14:00:00,Bob,Complete
+RFQ-00103,Invoice Generation,2025-01-22 14:00:00,Diana,Complete
+RFQ-00103,Payment to Supplier,2025-01-23 09:00:00,Alice,Complete
+RFQ-00104,Issuance of RFQ,2025-01-17 16:00:00,Bob,Complete
+RFQ-00104,Technical Evaluation,2025-01-18 15:00:00,Edward,Complete
+RFQ-00104,Commercial Evaluation,2025-01-19 15:00:00,Bob,Complete
+RFQ-00104,PO Creation,2025-01-20 14:00:00,Diana,Complete
+RFQ-00104,Supplier Confirmation,2025-01-21 08:00:00,Alice,Complete
+RFQ-00104,Goods Dispatch,2025-01-22 03:00:00,Charlie,Complete
+RFQ-00104,Goods Receipt,2025-01-22 14:00:00,Bob,Complete
+RFQ-00104,Inspection & Approval,2025-01-23 09:00:00,Diana,Complete
+RFQ-00104,Invoice Generation,2025-01-24 02:00:00,Diana,Complete
+RFQ-00104,Payment to Supplier,2025-01-25 00:00:00,Diana,Complete
+RFQ-00105,Issuance of RFQ,2025-02-02 23:00:00,Charlie,Complete
+RFQ-00105,Technical Evaluation,2025-02-03 02:00:00,Fiona,Complete
+RFQ-00105,Commercial Evaluation,2025-02-03 15:00:00,Alice,Complete
+RFQ-00105,PO Creation,2025-02-04 03:00:00,Charlie,Complete
+RFQ-00105,Supplier Confirmation,2025-02-04 21:00:00,Fiona,Complete
+RFQ-00105,Goods Dispatch,2025-02-05 18:00:00,Diana,Complete
+RFQ-00105,Goods Receipt,2025-02-06 00:00:00,Charlie,Complete
+RFQ-00105,Inspection & Approval,2025-02-06 10:00:00,Bob,Complete
+RFQ-00105,Invoice Generation,2025-02-07 08:00:00,Charlie,Complete
+RFQ-00105,Payment to Supplier,2025-02-08 05:00:00,Edward,Complete
+RFQ-00106,Payment to Supplier,2025-01-30 21:00:00,Alice,Complete
+RFQ-00106,Invoice Generation,2025-01-31 07:00:00,Alice,Complete
+RFQ-00106,Supplier Confirmation,2025-01-31 21:00:00,Fiona,Complete
+RFQ-00106,Goods Dispatch,2025-02-01 20:00:00,Diana,Complete
+RFQ-00106,Commercial Evaluation,2025-02-02 15:00:00,Alice,Complete
+RFQ-00106,PO Creation,2025-02-03 12:00:00,Edward,Complete
+RFQ-00106,Technical Evaluation,2025-02-04 00:00:00,Edward,Complete
+RFQ-00106,Issuance of RFQ,2025-02-04 11:00:00,Alice,Complete
+RFQ-00106,Goods Receipt,2025-02-05 06:00:00,Alice,Complete
+RFQ-00106,Inspection & Approval,2025-02-06 00:00:00,Charlie,Complete
+RFQ-00107,Issuance of RFQ,2025-01-28 12:00:00,Bob,Complete
+RFQ-00107,Technical Evaluation,2025-01-28 16:00:00,Charlie,Complete
+RFQ-00107,Commercial Evaluation,2025-01-29 05:00:00,Fiona,Complete
+RFQ-00107,PO Creation,2025-01-29 23:00:00,Fiona,Complete
+RFQ-00107,Supplier Confirmation,2025-01-30 13:00:00,Charlie,Complete
+RFQ-00107,Goods Dispatch,2025-01-31 02:00:00,Edward,Complete
+RFQ-00107,Goods Receipt,2025-01-31 09:00:00,Fiona,Complete
+RFQ-00107,Inspection & Approval,2025-02-01 04:00:00,Bob,Complete
+RFQ-00107,Invoice Generation,2025-02-01 12:00:00,Edward,Complete
+RFQ-00107,Payment to Supplier,2025-02-02 08:00:00,Bob,Complete
+RFQ-00108,Issuance of RFQ,2025-01-17 04:00:00,Fiona,Complete
+RFQ-00108,Technical Evaluation,2025-01-17 20:00:00,Diana,Complete
+RFQ-00108,Commercial Evaluation,2025-01-18 16:00:00,Bob,Complete
+RFQ-00108,PO Creation,2025-01-19 11:00:00,Alice,Complete
+RFQ-00108,Supplier Confirmation,2025-01-20 08:00:00,Diana,Complete
+RFQ-00108,Goods Dispatch,2025-01-20 11:00:00,Charlie,Complete
+RFQ-00108,Goods Receipt,2025-01-20 17:00:00,Charlie,Complete
+RFQ-00108,Inspection & Approval,2025-01-21 15:00:00,Edward,Complete
+RFQ-00108,Invoice Generation,2025-01-22 10:00:00,Diana,Complete
+RFQ-00108,Payment to Supplier,2025-01-22 17:00:00,Alice,Complete
+RFQ-00109,Issuance of RFQ,2025-01-05 22:00:00,Charlie,Complete
+RFQ-00109,Technical Evaluation,2025-01-06 22:00:00,Charlie,Complete
+RFQ-00109,Commercial Evaluation,2025-01-07 16:00:00,Edward,Complete
+RFQ-00109,PO Creation,2025-01-08 01:00:00,Edward,Complete
+RFQ-00109,Supplier Confirmation,2025-01-08 05:00:00,Edward,Complete
+RFQ-00109,Goods Dispatch,2025-01-09 05:00:00,Edward,Complete
+RFQ-00109,Goods Receipt,2025-01-09 21:00:00,Diana,Complete
+RFQ-00109,Inspection & Approval,2025-01-10 12:00:00,Alice,Complete
+RFQ-00109,Invoice Generation,2025-01-10 14:00:00,Edward,Complete
+RFQ-00109,Payment to Supplier,2025-01-10 18:00:00,Charlie,Complete
+RFQ-00110,Issuance of RFQ,2025-02-24 21:00:00,Fiona,Complete
+RFQ-00110,Technical Evaluation,2025-02-25 08:00:00,Fiona,Complete
+RFQ-00110,Commercial Evaluation,2025-02-26 08:00:00,Fiona,Complete
+RFQ-00110,PO Creation,2025-02-27 07:00:00,Fiona,Complete
+RFQ-00110,Supplier Confirmation,2025-02-27 11:00:00,Charlie,Complete
+RFQ-00110,Goods Dispatch,2025-02-27 23:00:00,Fiona,Complete
+RFQ-00110,Goods Receipt,2025-02-28 18:00:00,Charlie,Complete
+RFQ-00110,Inspection & Approval,2025-03-01 02:00:00,Alice,Complete
+RFQ-00110,Invoice Generation,2025-03-01 17:00:00,Diana,Complete
+RFQ-00110,Payment to Supplier,2025-03-02 15:00:00,Bob,Complete
+RFQ-00111,Issuance of RFQ,2025-02-10 12:00:00,Edward,Complete
+RFQ-00111,Technical Evaluation,2025-02-10 20:00:00,Alice,Complete
+RFQ-00111,Commercial Evaluation,2025-02-11 20:00:00,Fiona,Complete
+RFQ-00111,PO Creation,2025-02-12 12:00:00,Edward,Complete
+RFQ-00111,Supplier Confirmation,2025-02-12 18:00:00,Bob,Complete
+RFQ-00111,Goods Dispatch,2025-02-13 09:00:00,Diana,Complete
+RFQ-00111,Goods Receipt,2025-02-14 06:00:00,Alice,Complete
+RFQ-00111,Invoice Generation,2025-02-15 05:00:00,Edward,Complete
+RFQ-00111,Payment to Supplier,2025-02-16 04:00:00,Edward,Complete
+RFQ-00112,Issuance of RFQ,2025-01-28 13:00:00,Edward,Complete
+RFQ-00112,Technical Evaluation,2025-01-29 07:00:00,Edward,Complete
+RFQ-00112,Commercial Evaluation,2025-01-29 20:00:00,Edward,Complete
+RFQ-00112,PO Creation,2025-01-29 22:00:00,Alice,Complete
+RFQ-00112,Supplier Confirmation,2025-01-30 06:00:00,Fiona,Complete
+RFQ-00112,Goods Dispatch,2025-01-30 09:00:00,Diana,Complete
+RFQ-00112,Goods Receipt,2025-01-30 13:00:00,Bob,Complete
+RFQ-00112,Inspection & Approval,2025-01-31 06:00:00,Charlie,Complete
+RFQ-00112,Invoice Generation,2025-01-31 16:00:00,Charlie,Complete
+RFQ-00112,Payment to Supplier,2025-02-01 11:00:00,Diana,Complete
+RFQ-00113,Issuance of RFQ,2025-02-12 12:00:00,Charlie,Complete
+RFQ-00113,Technical Evaluation,2025-02-12 23:00:00,Fiona,Complete
+RFQ-00113,Commercial Evaluation,2025-02-13 01:00:00,Charlie,Complete
+RFQ-00113,PO Creation,2025-02-13 15:00:00,Bob,Complete
+RFQ-00113,Supplier Confirmation,2025-02-14 12:00:00,Alice,Complete
+RFQ-00113,Goods Dispatch,2025-02-15 06:00:00,Diana,Complete
+RFQ-00113,Goods Receipt,2025-02-15 22:00:00,Fiona,Complete
+RFQ-00113,Inspection & Approval,2025-02-16 07:00:00,Charlie,Complete
+RFQ-00113,Invoice Generation,2025-02-16 18:00:00,Alice,Complete
+RFQ-00113,Payment to Supplier,2025-02-17 13:00:00,Diana,Complete
+RFQ-00114,Issuance of RFQ,2025-01-31 02:00:00,Alice,Complete
+RFQ-00114,Technical Evaluation,2025-01-31 15:00:00,Diana,Complete
+RFQ-00114,Commercial Evaluation,2025-02-01 01:00:00,Edward,Complete
+RFQ-00114,PO Creation,2025-02-01 16:00:00,Diana,Complete
+RFQ-00114,Supplier Confirmation,2025-02-02 08:00:00,Fiona,Complete
+RFQ-00114,Goods Dispatch,2025-02-02 15:00:00,Bob,Complete
+RFQ-00114,Goods Receipt,2025-02-03 00:00:00,Edward,Complete
+RFQ-00114,Inspection & Approval,2025-02-03 21:00:00,Edward,Complete
+RFQ-00114,Invoice Generation,2025-02-04 15:00:00,Alice,Complete
+RFQ-00114,Payment to Supplier,2025-02-04 23:00:00,Bob,Complete
+RFQ-00115,Issuance of RFQ,2025-01-03 18:00:00,Bob,Complete
+RFQ-00115,Technical Evaluation,2025-01-03 22:00:00,Edward,Complete
+RFQ-00115,Commercial Evaluation,2025-01-04 13:00:00,Alice,Complete
+RFQ-00115,PO Creation,2025-01-05 05:00:00,Diana,Complete
+RFQ-00115,Supplier Confirmation,2025-01-05 17:00:00,Bob,Complete
+RFQ-00115,Goods Dispatch,2025-01-06 15:00:00,Alice,Complete
+RFQ-00115,Goods Receipt,2025-01-07 05:00:00,Charlie,Complete
+RFQ-00115,Inspection & Approval,2025-01-07 08:00:00,Alice,Complete
+RFQ-00115,Invoice Generation,2025-01-07 13:00:00,Charlie,Complete
+RFQ-00115,Payment to Supplier,2025-01-08 13:00:00,Bob,Complete
+RFQ-00116,Issuance of RFQ,2025-02-26 00:00:00,Edward,Complete
+RFQ-00116,Technical Evaluation,2025-02-26 19:00:00,Charlie,Complete
+RFQ-00116,Commercial Evaluation,2025-02-27 08:00:00,Fiona,Complete
+RFQ-00116,PO Creation,2025-02-28 06:00:00,Diana,Complete
+RFQ-00116,Supplier Confirmation,2025-03-01 05:00:00,Charlie,Complete
+RFQ-00116,Goods Dispatch,2025-03-02 04:00:00,Bob,Complete
+RFQ-00116,Goods Receipt,2025-03-02 23:00:00,Alice,Complete
+RFQ-00116,Inspection & Approval,2025-03-03 17:00:00,Charlie,Complete
+RFQ-00116,Invoice Generation,2025-03-04 09:00:00,Alice,Complete
+RFQ-00116,Payment to Supplier,2025-03-04 15:00:00,Bob,Complete
+RFQ-00117,Issuance of RFQ,2025-01-25 23:00:00,Charlie,Complete
+RFQ-00117,Technical Evaluation,2025-01-26 23:00:00,Alice,Complete
+RFQ-00117,Commercial Evaluation,2025-01-27 07:00:00,Bob,Complete
+RFQ-00117,PO Creation,2025-01-27 14:00:00,Alice,Complete
+RFQ-00117,Supplier Confirmation,2025-01-28 13:00:00,Diana,Complete
+RFQ-00117,Goods Dispatch,2025-01-29 06:00:00,Alice,Complete
+RFQ-00117,Goods Receipt,2025-01-30 01:00:00,Bob,Complete
+RFQ-00117,Inspection & Approval,2025-01-30 05:00:00,Bob,Complete
+RFQ-00117,Invoice Generation,2025-01-30 11:00:00,Alice,Complete
+RFQ-00117,Payment to Supplier,2025-01-31 09:00:00,Bob,Complete
+RFQ-00118,Issuance of RFQ,2025-01-04 15:00:00,Fiona,Complete
+RFQ-00118,Technical Evaluation,2025-01-04 22:00:00,Charlie,Complete
+RFQ-00118,Commercial Evaluation,2025-01-05 14:00:00,Edward,Complete
+RFQ-00118,PO Creation,2025-01-06 11:00:00,Edward,Complete
+RFQ-00118,Supplier Confirmation,2025-01-07 08:00:00,Fiona,Complete
+RFQ-00118,Goods Dispatch,2025-01-08 03:00:00,Alice,Complete
+RFQ-00118,Goods Receipt,2025-01-08 22:00:00,Edward,Complete
+RFQ-00118,Inspection & Approval,2025-01-09 09:00:00,Edward,Complete
+RFQ-00118,Invoice Generation,2025-01-10 09:00:00,Bob,Complete
+RFQ-00118,Payment to Supplier,2025-01-11 03:00:00,Edward,Complete
+RFQ-00119,Issuance of RFQ,2025-01-05 04:00:00,Bob,Complete
+RFQ-00119,Technical Evaluation,2025-01-05 18:00:00,Edward,Complete
+RFQ-00119,Commercial Evaluation,2025-01-05 20:00:00,Bob,Complete
+RFQ-00119,PO Creation,2025-01-06 18:00:00,Edward,Complete
+RFQ-00119,Supplier Confirmation,2025-01-07 05:00:00,Charlie,Complete
+RFQ-00119,Goods Dispatch,2025-01-08 04:00:00,Charlie,Complete
+RFQ-00119,Goods Receipt,2025-01-08 06:00:00,Charlie,Complete
+RFQ-00119,Inspection & Approval,2025-01-08 13:00:00,Alice,Complete
+RFQ-00119,Invoice Generation,2025-01-08 20:00:00,Alice,Complete
+RFQ-00119,Payment to Supplier,2025-01-09 20:00:00,Bob,Complete
+RFQ-00120,Issuance of RFQ,2025-02-15 04:00:00,Fiona,Complete
+RFQ-00120,Technical Evaluation,2025-02-15 14:00:00,Diana,Complete
+RFQ-00120,Commercial Evaluation,2025-02-15 16:00:00,Charlie,Complete
+RFQ-00120,PO Creation,2025-02-16 08:00:00,Fiona,Complete
+RFQ-00120,Supplier Confirmation,2025-02-17 01:00:00,Edward,Complete
+RFQ-00120,Goods Dispatch,2025-02-17 19:00:00,Diana,Complete
+RFQ-00120,Goods Receipt,2025-02-18 11:00:00,Alice,Complete
+RFQ-00120,Inspection & Approval,2025-02-18 15:00:00,Charlie,Complete
+RFQ-00120,Invoice Generation,2025-02-18 22:00:00,Edward,Complete
+RFQ-00120,Payment to Supplier,2025-02-19 12:00:00,Diana,Complete
+RFQ-00121,Issuance of RFQ,2025-01-20 09:00:00,Bob,Complete
+RFQ-00121,Technical Evaluation,2025-01-20 16:00:00,Diana,Complete
+RFQ-00121,Commercial Evaluation,2025-01-21 03:00:00,Alice,Complete
+RFQ-00121,PO Creation,2025-01-21 17:00:00,Alice,Complete
+RFQ-00121,Supplier Confirmation,2025-01-22 06:00:00,Edward,Complete
+RFQ-00121,Goods Dispatch,2025-01-23 01:00:00,Edward,Complete
+RFQ-00121,Goods Receipt,2025-01-23 11:00:00,Charlie,Complete
+RFQ-00121,Inspection & Approval,2025-01-24 11:00:00,Alice,Complete
+RFQ-00121,Invoice Generation,2025-01-25 01:00:00,Bob,Complete
+RFQ-00121,Payment to Supplier,2025-01-25 21:00:00,Edward,Complete
+RFQ-00122,Issuance of RFQ,2025-02-24 20:00:00,Diana,Complete
+RFQ-00122,Technical Evaluation,2025-02-25 15:00:00,Diana,Complete
+RFQ-00122,Commercial Evaluation,2025-02-26 10:00:00,Diana,Complete
+RFQ-00122,PO Creation,2025-02-27 06:00:00,Fiona,Complete
+RFQ-00122,Goods Dispatch,2025-02-28 01:00:00,Alice,Complete
+RFQ-00122,Goods Receipt,2025-02-28 21:00:00,Alice,Complete
+RFQ-00122,Inspection & Approval,2025-03-01 16:00:00,Diana,Complete
+RFQ-00122,Invoice Generation,2025-03-02 16:00:00,Edward,Complete
+RFQ-00122,Payment to Supplier,2025-03-02 20:00:00,Fiona,Complete
+RFQ-00123,Issuance of RFQ,2025-01-08 22:00:00,Fiona,Complete
+RFQ-00123,Technical Evaluation,2025-01-09 21:00:00,Bob,Complete
+RFQ-00123,Commercial Evaluation,2025-01-10 10:00:00,Bob,Complete
+RFQ-00123,PO Creation,2025-01-10 21:00:00,Fiona,Complete
+RFQ-00123,Supplier Confirmation,2025-01-11 03:00:00,Fiona,Complete
+RFQ-00123,Goods Dispatch,2025-01-11 18:00:00,Bob,Complete
+RFQ-00123,Goods Receipt,2025-01-12 00:00:00,Alice,Complete
+RFQ-00123,Inspection & Approval,2025-01-13 00:00:00,Diana,Complete
+RFQ-00123,Invoice Generation,2025-01-13 07:00:00,Fiona,Complete
+RFQ-00123,Payment to Supplier,2025-01-13 12:00:00,Fiona,Complete
+RFQ-00124,Issuance of RFQ,2025-02-17 21:00:00,Charlie,Complete
+RFQ-00124,Technical Evaluation,2025-02-18 08:00:00,Fiona,Complete
+RFQ-00124,Commercial Evaluation,2025-02-19 01:00:00,Bob,Complete
+RFQ-00124,PO Creation,2025-02-19 14:00:00,Edward,Complete
+RFQ-00124,Supplier Confirmation,2025-02-19 19:00:00,Bob,Complete
+RFQ-00124,Goods Dispatch,2025-02-20 13:00:00,Bob,Complete
+RFQ-00124,Goods Receipt,2025-02-20 19:00:00,Edward,Complete
+RFQ-00124,Inspection & Approval,2025-02-20 21:00:00,Diana,Complete
+RFQ-00124,Invoice Generation,2025-02-21 18:00:00,Diana,Complete
+RFQ-00124,Payment to Supplier,2025-02-22 06:00:00,Alice,Complete
+RFQ-00125,Issuance of RFQ,2025-03-02 10:00:00,Diana,Complete
+RFQ-00125,Technical Evaluation,2025-03-02 21:00:00,Bob,Complete
+RFQ-00125,Commercial Evaluation,2025-03-03 16:00:00,Charlie,Complete
+RFQ-00125,PO Creation,2025-03-03 19:00:00,Bob,Complete
+RFQ-00125,Supplier Confirmation,2025-03-04 07:00:00,Bob,Complete
+RFQ-00125,Goods Dispatch,2025-03-04 11:00:00,Fiona,Complete
+RFQ-00125,Goods Receipt,2025-03-05 04:00:00,Fiona,Complete
+RFQ-00125,Inspection & Approval,2025-03-05 20:00:00,Bob,Complete
+RFQ-00125,Invoice Generation,2025-03-06 10:00:00,Bob,Complete
+RFQ-00125,Payment to Supplier,2025-03-06 21:00:00,Edward,Complete
+RFQ-00126,Issuance of RFQ,2025-01-07 03:00:00,Edward,Complete
+RFQ-00126,Technical Evaluation,2025-01-07 10:00:00,Alice,Complete
+RFQ-00126,Commercial Evaluation,2025-01-08 04:00:00,Fiona,Complete
+RFQ-00126,PO Creation,2025-01-08 11:00:00,Edward,Complete
+RFQ-00126,Supplier Confirmation,2025-01-08 13:00:00,Diana,Complete
+RFQ-00126,Goods Dispatch,2025-01-09 10:00:00,Bob,Complete
+RFQ-00126,Goods Receipt,2025-01-09 15:00:00,Charlie,Complete
+RFQ-00126,Inspection & Approval,2025-01-10 07:00:00,Charlie,Complete
+RFQ-00126,Invoice Generation,2025-01-11 00:00:00,Charlie,Complete
+RFQ-00126,Payment to Supplier,2025-01-11 23:00:00,Bob,Complete
+RFQ-00127,Issuance of RFQ,2025-01-05 05:00:00,Bob,Complete
+RFQ-00127,Technical Evaluation,2025-01-05 11:00:00,Diana,Complete
+RFQ-00127,Commercial Evaluation,2025-01-05 20:00:00,Charlie,Complete
+RFQ-00127,PO Creation,2025-01-06 08:00:00,Charlie,Complete
+RFQ-00127,Supplier Confirmation,2025-01-06 18:00:00,Fiona,Complete
+RFQ-00127,Goods Dispatch,2025-01-07 01:00:00,Bob,Complete
+RFQ-00127,Goods Receipt,2025-01-08 01:00:00,Charlie,Complete
+RFQ-00127,Inspection & Approval,2025-01-08 07:00:00,Edward,Complete
+RFQ-00127,Invoice Generation,2025-01-09 00:00:00,Edward,Complete
+RFQ-00127,Payment to Supplier,2025-01-09 14:00:00,Alice,Complete
+RFQ-00128,Issuance of RFQ,2025-01-08 07:00:00,Bob,Complete
+RFQ-00128,Technical Evaluation,2025-01-08 16:00:00,Edward,Complete
+RFQ-00128,Commercial Evaluation,2025-01-09 02:00:00,Bob,Complete
+RFQ-00128,PO Creation,2025-01-09 13:00:00,Diana,Complete
+RFQ-00128,Supplier Confirmation,2025-01-10 04:00:00,Diana,Complete
+RFQ-00128,Goods Dispatch,2025-01-10 07:00:00,Fiona,Complete
+RFQ-00128,Goods Receipt,2025-01-10 23:00:00,Alice,Complete
+RFQ-00128,Inspection & Approval,2025-01-11 13:00:00,Alice,Complete
+RFQ-00128,Invoice Generation,2025-01-12 08:00:00,Fiona,Complete
+RFQ-00128,Payment to Supplier,2025-01-12 22:00:00,Edward,Complete
+RFQ-00129,Issuance of RFQ,2025-01-09 17:00:00,Diana,Complete
+RFQ-00129,Technical Evaluation,2025-01-09 22:00:00,Bob,Complete
+RFQ-00129,Commercial Evaluation,2025-01-10 19:00:00,Diana,Complete
+RFQ-00129,PO Creation,2025-01-11 10:00:00,Diana,Complete
+RFQ-00129,Supplier Confirmation,2025-01-11 18:00:00,Charlie,Complete
+RFQ-00129,Goods Dispatch,2025-01-12 14:00:00,Edward,Complete
+RFQ-00129,Goods Receipt,2025-01-12 19:00:00,Alice,Complete
+RFQ-00129,Inspection & Approval,2025-01-13 07:00:00,Alice,Complete
+RFQ-00129,Invoice Generation,2025-01-13 16:00:00,Edward,Complete
+RFQ-00129,Payment to Supplier,2025-01-13 23:00:00,Fiona,Complete
+RFQ-00130,Issuance of RFQ,2025-01-17 20:00:00,Fiona,Complete
+RFQ-00130,Technical Evaluation,2025-01-18 17:00:00,Fiona,Complete
+RFQ-00130,Commercial Evaluation,2025-01-19 13:00:00,Bob,Complete
+RFQ-00130,PO Creation,2025-01-19 21:00:00,Edward,Complete
+RFQ-00130,Supplier Confirmation,2025-01-20 08:00:00,Diana,Complete
+RFQ-00130,Goods Dispatch,2025-01-20 15:00:00,Alice,Complete
+RFQ-00130,Goods Receipt,2025-01-21 00:00:00,Alice,Complete
+RFQ-00130,Inspection & Approval,2025-01-21 21:00:00,Fiona,Complete
+RFQ-00130,Invoice Generation,2025-01-22 06:00:00,Fiona,Complete
+RFQ-00130,Payment to Supplier,2025-01-22 23:00:00,Fiona,Complete
+RFQ-00131,Issuance of RFQ,2025-01-29 08:00:00,Charlie,Complete
+RFQ-00131,Commercial Evaluation,2025-01-30 05:00:00,Diana,Complete
+RFQ-00131,Supplier Confirmation,2025-01-30 19:00:00,Charlie,Complete
+RFQ-00131,Goods Dispatch,2025-01-31 16:00:00,Fiona,Complete
+RFQ-00131,Payment to Supplier,2025-01-31 18:00:00,Charlie,Complete
+RFQ-00131,Goods Receipt,2025-02-01 12:00:00,Edward,Complete
+RFQ-00131,PO Creation,2025-02-02 06:00:00,Diana,Complete
+RFQ-00131,Invoice Generation,2025-02-02 14:00:00,Bob,Complete
+RFQ-00131,Inspection & Approval,2025-02-03 11:00:00,Charlie,Complete
+RFQ-00131,Technical Evaluation,2025-02-04 03:00:00,Bob,Complete
+RFQ-00132,Issuance of RFQ,2025-02-12 23:00:00,Alice,Complete
+RFQ-00132,Technical Evaluation,2025-02-13 16:00:00,Diana,Complete
+RFQ-00132,Commercial Evaluation,2025-02-13 18:00:00,Charlie,Complete
+RFQ-00132,PO Creation,2025-02-14 09:00:00,Charlie,Complete
+RFQ-00132,Supplier Confirmation,2025-02-15 02:00:00,Bob,Complete
+RFQ-00132,Goods Dispatch,2025-02-15 23:00:00,Fiona,Complete
+RFQ-00132,Goods Receipt,2025-02-16 12:00:00,Fiona,Complete
+RFQ-00132,Inspection & Approval,2025-02-17 07:00:00,Diana,Complete
+RFQ-00132,Invoice Generation,2025-02-17 22:00:00,Alice,Complete
+RFQ-00132,Payment to Supplier,2025-02-18 21:00:00,Fiona,Complete
+RFQ-00133,Issuance of RFQ,2025-01-06 08:00:00,Alice,Complete
+RFQ-00133,Technical Evaluation,2025-01-06 13:00:00,Diana,Complete
+RFQ-00133,Commercial Evaluation,2025-01-07 01:00:00,Charlie,Complete
+RFQ-00133,PO Creation,2025-01-07 08:00:00,Fiona,Complete
+RFQ-00133,Supplier Confirmation,2025-01-07 22:00:00,Fiona,Complete
+RFQ-00133,Goods Dispatch,2025-01-08 07:00:00,Alice,Complete
+RFQ-00133,Goods Receipt,2025-01-08 16:00:00,Edward,Complete
+RFQ-00133,Inspection & Approval,2025-01-09 02:00:00,Edward,Complete
+RFQ-00133,Invoice Generation,2025-01-09 05:00:00,Edward,Complete
+RFQ-00133,Payment to Supplier,2025-01-09 18:00:00,Charlie,Complete
+RFQ-00134,Issuance of RFQ,2025-01-23 16:00:00,Edward,Complete
+RFQ-00134,Technical Evaluation,2025-01-24 05:00:00,Charlie,Complete
+RFQ-00134,Commercial Evaluation,2025-01-24 23:00:00,Fiona,Complete
+RFQ-00134,PO Creation,2025-01-25 13:00:00,Alice,Complete
+RFQ-00134,Supplier Confirmation,2025-01-26 04:00:00,Alice,Complete
+RFQ-00134,Goods Dispatch,2025-01-26 16:00:00,Edward,Complete
+RFQ-00134,Goods Receipt,2025-01-27 02:00:00,Edward,Complete
+RFQ-00134,Inspection & Approval,2025-01-27 18:00:00,Edward,Complete
+RFQ-00134,Invoice Generation,2025-01-28 07:00:00,Edward,Complete
+RFQ-00134,Payment to Supplier,2025-01-28 19:00:00,Edward,Complete
+RFQ-00135,Issuance of RFQ,2025-02-22 00:00:00,Edward,Complete
+RFQ-00135,Technical Evaluation,2025-02-22 09:00:00,Alice,Complete
+RFQ-00135,Commercial Evaluation,2025-02-23 05:00:00,Edward,Complete
+RFQ-00135,PO Creation,2025-02-24 05:00:00,Diana,Complete
+RFQ-00135,Supplier Confirmation,2025-02-24 14:00:00,Diana,Complete
+RFQ-00135,Goods Dispatch,2025-02-25 07:00:00,Bob,Complete
+RFQ-00135,Goods Receipt,2025-02-26 04:00:00,Bob,Complete
+RFQ-00135,Inspection & Approval,2025-02-27 03:00:00,Charlie,Complete
+RFQ-00135,Invoice Generation,2025-02-27 10:00:00,Charlie,Complete
+RFQ-00135,Payment to Supplier,2025-02-27 13:00:00,Charlie,Complete
+RFQ-00136,Issuance of RFQ,2025-02-15 19:00:00,Charlie,Complete
+RFQ-00136,Technical Evaluation,2025-02-16 04:00:00,Diana,Complete
+RFQ-00136,Commercial Evaluation,2025-02-16 20:00:00,Charlie,Complete
+RFQ-00136,PO Creation,2025-02-17 11:00:00,Alice,Complete
+RFQ-00136,Supplier Confirmation,2025-02-18 00:00:00,Bob,Complete
+RFQ-00136,Goods Dispatch,2025-02-18 15:00:00,Bob,Complete
+RFQ-00136,Goods Receipt,2025-02-19 11:00:00,Fiona,Complete
+RFQ-00136,Inspection & Approval,2025-02-20 05:00:00,Bob,Complete
+RFQ-00136,Invoice Generation,2025-02-21 05:00:00,Alice,Complete
+RFQ-00136,Payment to Supplier,2025-02-21 13:00:00,Fiona,Complete
+RFQ-00137,Issuance of RFQ,2025-01-08 14:00:00,Charlie,Complete
+RFQ-00137,Technical Evaluation,2025-01-09 01:00:00,Fiona,Complete
+RFQ-00137,Commercial Evaluation,2025-01-09 20:00:00,Alice,Complete
+RFQ-00137,PO Creation,2025-01-10 20:00:00,Alice,Complete
+RFQ-00137,Supplier Confirmation,2025-01-11 16:00:00,Charlie,Complete
+RFQ-00137,Goods Dispatch,2025-01-11 22:00:00,Edward,Complete
+RFQ-00137,Goods Receipt,2025-01-12 02:00:00,Bob,Complete
+RFQ-00137,Inspection & Approval,2025-01-13 00:00:00,Alice,Complete
+RFQ-00137,Invoice Generation,2025-01-13 23:00:00,Charlie,Complete
+RFQ-00137,Payment to Supplier,2025-01-14 18:00:00,Fiona,Complete
+RFQ-00138,Issuance of RFQ,2025-02-08 14:00:00,Edward,Complete
+RFQ-00138,Technical Evaluation,2025-02-08 17:00:00,Fiona,Complete
+RFQ-00138,Commercial Evaluation,2025-02-08 22:00:00,Charlie,Complete
+RFQ-00138,PO Creation,2025-02-09 08:00:00,Charlie,Complete
+RFQ-00138,Supplier Confirmation,2025-02-10 04:00:00,Diana,Complete
+RFQ-00138,Goods Dispatch,2025-02-10 21:00:00,Alice,Complete
+RFQ-00138,Goods Receipt,2025-02-10 23:00:00,Charlie,Complete
+RFQ-00138,Inspection & Approval,2025-02-11 21:00:00,Alice,Complete
+RFQ-00138,Invoice Generation,2025-02-12 05:00:00,Alice,Complete
+RFQ-00138,Payment to Supplier,2025-02-12 07:00:00,Alice,Complete
+RFQ-00139,Issuance of RFQ,2025-02-22 07:00:00,Alice,Complete
+RFQ-00139,Technical Evaluation,2025-02-22 22:00:00,Charlie,Complete
+RFQ-00139,Commercial Evaluation,2025-02-23 21:00:00,Fiona,Complete
+RFQ-00139,PO Creation,2025-02-24 04:00:00,Bob,Complete
+RFQ-00139,Supplier Confirmation,2025-02-24 20:00:00,Edward,Complete
+RFQ-00139,Goods Dispatch,2025-02-25 09:00:00,Bob,Complete
+RFQ-00139,Goods Receipt,2025-02-25 12:00:00,Edward,Complete
+RFQ-00139,Inspection & Approval,2025-02-25 15:00:00,Bob,Complete
+RFQ-00139,Invoice Generation,2025-02-26 03:00:00,Charlie,Complete
+RFQ-00139,Payment to Supplier,2025-02-27 03:00:00,Alice,Complete
+RFQ-00140,Issuance of RFQ,2025-01-29 21:00:00,Diana,Complete
+RFQ-00140,Technical Evaluation,2025-01-30 20:00:00,Edward,Complete
+RFQ-00140,Commercial Evaluation,2025-01-31 13:00:00,Bob,Complete
+RFQ-00140,PO Creation,2025-01-31 23:00:00,Fiona,Complete
+RFQ-00140,Supplier Confirmation,2025-02-01 05:00:00,Alice,Complete
+RFQ-00140,Goods Dispatch,2025-02-02 00:00:00,Edward,Complete
+RFQ-00140,Goods Receipt,2025-02-02 20:00:00,Diana,Complete
+RFQ-00140,Inspection & Approval,2025-02-03 12:00:00,Diana,Complete
+RFQ-00140,Invoice Generation,2025-02-04 11:00:00,Bob,Complete
+RFQ-00140,Payment to Supplier,2025-02-04 13:00:00,Diana,Complete
+RFQ-00141,Issuance of RFQ,2025-02-10 12:00:00,Diana,Complete
+RFQ-00141,Technical Evaluation,2025-02-10 17:00:00,Diana,Complete
+RFQ-00141,Commercial Evaluation,2025-02-11 16:00:00,Fiona,Complete
+RFQ-00141,PO Creation,2025-02-12 07:00:00,Fiona,Complete
+RFQ-00141,Supplier Confirmation,2025-02-12 18:00:00,Charlie,Complete
+RFQ-00141,Goods Dispatch,2025-02-13 07:00:00,Charlie,Complete
+RFQ-00141,Goods Receipt,2025-02-13 10:00:00,Bob,Complete
+RFQ-00141,Inspection & Approval,2025-02-13 16:00:00,Fiona,Complete
+RFQ-00141,Invoice Generation,2025-02-14 00:00:00,Charlie,Complete
+RFQ-00141,Payment to Supplier,2025-02-14 04:00:00,Fiona,Complete
+RFQ-00142,Issuance of RFQ,2025-02-19 06:00:00,Diana,Complete
+RFQ-00142,Technical Evaluation,2025-02-19 22:00:00,Alice,Complete
+RFQ-00142,Commercial Evaluation,2025-02-20 08:00:00,Bob,Complete
+RFQ-00142,PO Creation,2025-02-20 10:00:00,Fiona,Complete
+RFQ-00142,Supplier Confirmation,2025-02-20 17:00:00,Bob,Complete
+RFQ-00142,Goods Dispatch,2025-02-21 16:00:00,Edward,Complete
+RFQ-00142,Inspection & Approval,2025-02-22 03:00:00,Bob,Complete
+RFQ-00142,Invoice Generation,2025-02-22 06:00:00,Diana,Complete
+RFQ-00142,Payment to Supplier,2025-02-22 09:00:00,Fiona,Complete
+RFQ-00143,Issuance of RFQ,2025-01-11 16:00:00,Edward,Complete
+RFQ-00143,Technical Evaluation,2025-01-11 18:00:00,Bob,Complete
+RFQ-00143,Commercial Evaluation,2025-01-12 09:00:00,Alice,Complete
+RFQ-00143,PO Creation,2025-01-13 00:00:00,Alice,Complete
+RFQ-00143,Supplier Confirmation,2025-01-13 23:00:00,Fiona,Complete
+RFQ-00143,Goods Dispatch,2025-01-14 05:00:00,Alice,Complete
+RFQ-00143,Goods Receipt,2025-01-14 22:00:00,Bob,Complete
+RFQ-00143,Inspection & Approval,2025-01-15 20:00:00,Bob,Complete
+RFQ-00143,Invoice Generation,2025-01-16 02:00:00,Alice,Complete
+RFQ-00143,Payment to Supplier,2025-01-16 14:00:00,Bob,Complete
+RFQ-00144,Issuance of RFQ,2025-03-03 00:00:00,Bob,Complete
+RFQ-00144,Technical Evaluation,2025-03-03 17:00:00,Diana,Complete
+RFQ-00144,Commercial Evaluation,2025-03-04 15:00:00,Fiona,Complete
+RFQ-00144,PO Creation,2025-03-04 18:00:00,Charlie,Complete
+RFQ-00144,Supplier Confirmation,2025-03-05 15:00:00,Edward,Complete
+RFQ-00144,Goods Receipt,2025-03-05 21:00:00,Fiona,Complete
+RFQ-00144,Inspection & Approval,2025-03-06 11:00:00,Fiona,Complete
+RFQ-00144,Invoice Generation,2025-03-07 11:00:00,Edward,Complete
+RFQ-00144,Payment to Supplier,2025-03-08 08:00:00,Edward,Complete
+RFQ-00145,Issuance of RFQ,2025-02-15 21:00:00,Diana,Complete
+RFQ-00145,Technical Evaluation,2025-02-16 16:00:00,Alice,Complete
+RFQ-00145,Commercial Evaluation,2025-02-17 16:00:00,Alice,Complete
+RFQ-00145,PO Creation,2025-02-18 01:00:00,Edward,Complete
+RFQ-00145,Supplier Confirmation,2025-02-18 04:00:00,Bob,Complete
+RFQ-00145,Goods Dispatch,2025-02-18 08:00:00,Diana,Complete
+RFQ-00145,Goods Receipt,2025-02-19 01:00:00,Charlie,Complete
+RFQ-00145,Inspection & Approval,2025-02-19 14:00:00,Fiona,Complete
+RFQ-00145,Invoice Generation,2025-02-20 09:00:00,Diana,Complete
+RFQ-00145,Payment to Supplier,2025-02-20 15:00:00,Bob,Complete
+RFQ-00146,Issuance of RFQ,2025-01-14 17:00:00,Charlie,Complete
+RFQ-00146,Technical Evaluation,2025-01-15 00:00:00,Bob,Complete
+RFQ-00146,Commercial Evaluation,2025-01-15 14:00:00,Bob,Complete
+RFQ-00146,PO Creation,2025-01-15 18:00:00,Bob,Complete
+RFQ-00146,Supplier Confirmation,2025-01-16 13:00:00,Bob,Complete
+RFQ-00146,Goods Dispatch,2025-01-17 01:00:00,Alice,Complete
+RFQ-00146,Goods Receipt,2025-01-17 10:00:00,Fiona,Complete
+RFQ-00146,Inspection & Approval,2025-01-18 01:00:00,Charlie,Complete
+RFQ-00146,Invoice Generation,2025-01-18 13:00:00,Bob,Complete
+RFQ-00146,Payment to Supplier,2025-01-19 01:00:00,Edward,Complete
+RFQ-00147,Issuance of RFQ,2025-02-12 07:00:00,Edward,Complete
+RFQ-00147,Technical Evaluation,2025-02-12 11:00:00,Diana,Complete
+RFQ-00147,Commercial Evaluation,2025-02-13 01:00:00,Alice,Complete
+RFQ-00147,PO Creation,2025-02-13 21:00:00,Fiona,Complete
+RFQ-00147,Supplier Confirmation,2025-02-14 03:00:00,Bob,Complete
+RFQ-00147,Goods Dispatch,2025-02-14 13:00:00,Fiona,Complete
+RFQ-00147,Goods Receipt,2025-02-15 12:00:00,Alice,Complete
+RFQ-00147,Inspection & Approval,2025-02-16 01:00:00,Charlie,Complete
+RFQ-00147,Invoice Generation,2025-02-16 07:00:00,Edward,Complete
+RFQ-00147,Payment to Supplier,2025-02-16 14:00:00,Diana,Complete
+RFQ-00148,Issuance of RFQ,2025-02-01 17:00:00,Charlie,Complete
+RFQ-00148,Technical Evaluation,2025-02-02 12:00:00,Fiona,Complete
+RFQ-00148,Commercial Evaluation,2025-02-03 11:00:00,Charlie,Complete
+RFQ-00148,PO Creation,2025-02-04 01:00:00,Bob,Complete
+RFQ-00148,Supplier Confirmation,2025-02-04 23:00:00,Diana,Complete
+RFQ-00148,Goods Dispatch,2025-02-05 08:00:00,Fiona,Complete
+RFQ-00148,Goods Receipt,2025-02-06 06:00:00,Fiona,Complete
+RFQ-00148,Inspection & Approval,2025-02-06 18:00:00,Bob,Complete
+RFQ-00148,Invoice Generation,2025-02-07 18:00:00,Alice,Complete
+RFQ-00148,Payment to Supplier,2025-02-08 08:00:00,Fiona,Complete
+RFQ-00149,Issuance of RFQ,2025-02-12 20:00:00,Fiona,Complete
+RFQ-00149,Technical Evaluation,2025-02-13 17:00:00,Fiona,Complete
+RFQ-00149,Commercial Evaluation,2025-02-13 19:00:00,Edward,Complete
+RFQ-00149,PO Creation,2025-02-14 00:00:00,Edward,Complete
+RFQ-00149,Supplier Confirmation,2025-02-14 02:00:00,Alice,Complete
+RFQ-00149,Goods Dispatch,2025-02-14 14:00:00,Fiona,Complete
+RFQ-00149,Goods Receipt,2025-02-15 05:00:00,Charlie,Complete
+RFQ-00149,Inspection & Approval,2025-02-15 19:00:00,Fiona,Complete
+RFQ-00149,Invoice Generation,2025-02-16 13:00:00,Edward,Complete
+RFQ-00149,Payment to Supplier,2025-02-16 17:00:00,Alice,Complete
+RFQ-00150,Issuance of RFQ,2025-01-09 15:00:00,Diana,Complete
+RFQ-00150,Technical Evaluation,2025-01-09 23:00:00,Diana,Complete
+RFQ-00150,Commercial Evaluation,2025-01-10 19:00:00,Edward,Complete
+RFQ-00150,PO Creation,2025-01-11 02:00:00,Edward,Complete
+RFQ-00150,Supplier Confirmation,2025-01-11 13:00:00,Alice,Complete
+RFQ-00150,Goods Dispatch,2025-01-11 20:00:00,Charlie,Complete
+RFQ-00150,Goods Receipt,2025-01-11 22:00:00,Fiona,Complete
+RFQ-00150,Inspection & Approval,2025-01-12 15:00:00,Fiona,Complete
+RFQ-00150,Invoice Generation,2025-01-12 19:00:00,Diana,Complete
+RFQ-00150,Payment to Supplier,2025-01-12 21:00:00,Fiona,Complete
+RFQ-00151,Issuance of RFQ,2025-01-20 22:00:00,Bob,Complete
+RFQ-00151,Technical Evaluation,2025-01-21 18:00:00,Alice,Complete
+RFQ-00151,Commercial Evaluation,2025-01-22 18:00:00,Bob,Complete
+RFQ-00151,PO Creation,2025-01-22 21:00:00,Diana,Complete
+RFQ-00151,Supplier Confirmation,2025-01-23 18:00:00,Diana,Complete
+RFQ-00151,Goods Dispatch,2025-01-23 21:00:00,Diana,Complete
+RFQ-00151,Goods Receipt,2025-01-24 18:00:00,Diana,Complete
+RFQ-00151,Invoice Generation,2025-01-24 21:00:00,Diana,Complete
+RFQ-00151,Payment to Supplier,2025-01-25 17:00:00,Edward,Complete
+RFQ-00152,Issuance of RFQ,2025-02-21 06:00:00,Diana,Complete
+RFQ-00152,Technical Evaluation,2025-02-22 00:00:00,Alice,Complete
+RFQ-00152,Commercial Evaluation,2025-02-22 10:00:00,Diana,Complete
+RFQ-00152,PO Creation,2025-02-22 14:00:00,Diana,Complete
+RFQ-00152,Supplier Confirmation,2025-02-22 17:00:00,Bob,Complete
+RFQ-00152,Goods Dispatch,2025-02-23 17:00:00,Fiona,Complete
+RFQ-00152,Goods Receipt,2025-02-24 16:00:00,Fiona,Complete
+RFQ-00152,Inspection & Approval,2025-02-24 18:00:00,Bob,Complete
+RFQ-00152,Invoice Generation,2025-02-25 00:00:00,Alice,Complete
+RFQ-00152,Payment to Supplier,2025-02-25 22:00:00,Alice,Complete
+RFQ-00153,Issuance of RFQ,2025-02-01 19:00:00,Fiona,Complete
+RFQ-00153,Technical Evaluation,2025-02-02 03:00:00,Diana,Complete
+RFQ-00153,Commercial Evaluation,2025-02-02 12:00:00,Fiona,Complete
+RFQ-00153,PO Creation,2025-02-02 23:00:00,Bob,Complete
+RFQ-00153,Supplier Confirmation,2025-02-03 21:00:00,Diana,Complete
+RFQ-00153,Goods Dispatch,2025-02-04 09:00:00,Bob,Complete
+RFQ-00153,Goods Receipt,2025-02-05 09:00:00,Alice,Complete
+RFQ-00153,Inspection & Approval,2025-02-06 04:00:00,Bob,Complete
+RFQ-00153,Invoice Generation,2025-02-06 13:00:00,Fiona,Complete
+RFQ-00153,Payment to Supplier,2025-02-06 22:00:00,Edward,Complete
+RFQ-00154,Issuance of RFQ,2025-01-30 03:00:00,Bob,Complete
+RFQ-00154,Technical Evaluation,2025-01-30 22:00:00,Fiona,Complete
+RFQ-00154,Commercial Evaluation,2025-01-31 12:00:00,Bob,Complete
+RFQ-00154,PO Creation,2025-02-01 06:00:00,Bob,Complete
+RFQ-00154,Supplier Confirmation,2025-02-02 03:00:00,Edward,Complete
+RFQ-00154,Goods Dispatch,2025-02-02 08:00:00,Diana,Complete
+RFQ-00154,Goods Receipt,2025-02-03 06:00:00,Alice,Complete
+RFQ-00154,Inspection & Approval,2025-02-04 00:00:00,Fiona,Complete
+RFQ-00154,Invoice Generation,2025-02-04 13:00:00,Diana,Complete
+RFQ-00155,Issuance of RFQ,2025-01-20 16:00:00,Diana,Complete
+RFQ-00155,Technical Evaluation,2025-01-21 07:00:00,Alice,Complete
+RFQ-00155,Commercial Evaluation,2025-01-22 06:00:00,Charlie,Complete
+RFQ-00155,PO Creation,2025-01-22 14:00:00,Diana,Complete
+RFQ-00155,Supplier Confirmation,2025-01-23 09:00:00,Bob,Complete
+RFQ-00155,Goods Dispatch,2025-01-24 09:00:00,Alice,Complete
+RFQ-00155,Goods Receipt,2025-01-25 05:00:00,Diana,Complete
+RFQ-00155,Inspection & Approval,2025-01-25 21:00:00,Bob,Complete
+RFQ-00155,Invoice Generation,2025-01-26 07:00:00,Bob,Complete
+RFQ-00155,Payment to Supplier,2025-01-26 22:00:00,Alice,Complete
+RFQ-00156,Issuance of RFQ,2025-02-01 20:00:00,Alice,Complete
+RFQ-00156,Technical Evaluation,2025-02-02 07:00:00,Edward,Complete
+RFQ-00156,Commercial Evaluation,2025-02-02 20:00:00,Fiona,Complete
+RFQ-00156,PO Creation,2025-02-02 22:00:00,Charlie,Complete
+RFQ-00156,Supplier Confirmation,2025-02-03 16:00:00,Bob,Complete
+RFQ-00156,Goods Dispatch,2025-02-04 08:00:00,Bob,Complete
+RFQ-00156,Goods Receipt,2025-02-04 19:00:00,Bob,Complete
+RFQ-00156,Inspection & Approval,2025-02-05 09:00:00,Edward,Complete
+RFQ-00156,Invoice Generation,2025-02-05 15:00:00,Diana,Complete
+RFQ-00156,Payment to Supplier,2025-02-06 11:00:00,Charlie,Complete
+RFQ-00157,Issuance of RFQ,2025-02-27 05:00:00,Fiona,Complete
+RFQ-00157,Technical Evaluation,2025-02-27 15:00:00,Diana,Complete
+RFQ-00157,Commercial Evaluation,2025-02-28 01:00:00,Bob,Complete
+RFQ-00157,PO Creation,2025-02-28 15:00:00,Edward,Complete
+RFQ-00157,Supplier Confirmation,2025-02-28 18:00:00,Alice,Complete
+RFQ-00157,Goods Dispatch,2025-03-01 00:00:00,Diana,Complete
+RFQ-00157,Goods Receipt,2025-03-01 04:00:00,Fiona,Complete
+RFQ-00157,Inspection & Approval,2025-03-02 00:00:00,Fiona,Complete
+RFQ-00157,Invoice Generation,2025-03-02 07:00:00,Bob,Complete
+RFQ-00157,Payment to Supplier,2025-03-02 18:00:00,Charlie,Complete
+RFQ-00158,Issuance of RFQ,2025-02-14 23:00:00,Alice,Complete
+RFQ-00158,Technical Evaluation,2025-02-15 22:00:00,Fiona,Complete
+RFQ-00158,Commercial Evaluation,2025-02-16 18:00:00,Bob,Complete
+RFQ-00158,PO Creation,2025-02-16 22:00:00,Fiona,Complete
+RFQ-00158,Supplier Confirmation,2025-02-17 01:00:00,Fiona,Complete
+RFQ-00158,Goods Dispatch,2025-02-18 00:00:00,Alice,Complete
+RFQ-00158,Goods Receipt,2025-02-18 09:00:00,Bob,Complete
+RFQ-00158,Inspection & Approval,2025-02-18 17:00:00,Edward,Complete
+RFQ-00158,Invoice Generation,2025-02-18 20:00:00,Charlie,Complete
+RFQ-00158,Payment to Supplier,2025-02-19 14:00:00,Charlie,Complete
+RFQ-00159,Issuance of RFQ,2025-01-09 18:00:00,Bob,Complete
+RFQ-00159,Technical Evaluation,2025-01-10 04:00:00,Diana,Complete
+RFQ-00159,Commercial Evaluation,2025-01-10 06:00:00,Bob,Complete
+RFQ-00159,PO Creation,2025-01-11 05:00:00,Bob,Complete
+RFQ-00159,Supplier Confirmation,2025-01-11 09:00:00,Charlie,Complete
+RFQ-00159,Goods Dispatch,2025-01-12 00:00:00,Edward,Complete
+RFQ-00159,Goods Receipt,2025-01-12 15:00:00,Bob,Complete
+RFQ-00159,Inspection & Approval,2025-01-13 09:00:00,Fiona,Complete
+RFQ-00159,Invoice Generation,2025-01-14 09:00:00,Fiona,Complete
+RFQ-00159,Payment to Supplier,2025-01-14 14:00:00,Edward,Complete
+RFQ-00160,Issuance of RFQ,2025-02-01 10:00:00,Charlie,Complete
+RFQ-00160,Technical Evaluation,2025-02-02 09:00:00,Charlie,Complete
+RFQ-00160,Commercial Evaluation,2025-02-02 20:00:00,Diana,Complete
+RFQ-00160,PO Creation,2025-02-03 06:00:00,Fiona,Complete
+RFQ-00160,Supplier Confirmation,2025-02-03 14:00:00,Diana,Complete
+RFQ-00160,Goods Dispatch,2025-02-04 08:00:00,Bob,Complete
+RFQ-00160,Goods Receipt,2025-02-05 01:00:00,Alice,Complete
+RFQ-00160,Inspection & Approval,2025-02-05 23:00:00,Charlie,Complete
+RFQ-00160,Invoice Generation,2025-02-06 20:00:00,Diana,Complete
+RFQ-00160,Payment to Supplier,2025-02-07 14:00:00,Fiona,Complete
+RFQ-00161,Issuance of RFQ,2025-02-23 05:00:00,Fiona,Complete
+RFQ-00161,Technical Evaluation,2025-02-23 13:00:00,Fiona,Complete
+RFQ-00161,Commercial Evaluation,2025-02-24 07:00:00,Alice,Complete
+RFQ-00161,PO Creation,2025-02-25 01:00:00,Charlie,Complete
+RFQ-00161,Supplier Confirmation,2025-02-25 03:00:00,Bob,Complete
+RFQ-00161,Goods Dispatch,2025-02-25 18:00:00,Diana,Complete
+RFQ-00161,Goods Receipt,2025-02-26 09:00:00,Fiona,Complete
+RFQ-00161,Inspection & Approval,2025-02-27 00:00:00,Diana,Complete
+RFQ-00161,Invoice Generation,2025-02-27 13:00:00,Bob,Complete
+RFQ-00161,Payment to Supplier,2025-02-27 17:00:00,Diana,Complete
+RFQ-00162,Issuance of RFQ,2025-02-10 19:00:00,Charlie,Complete
+RFQ-00162,Technical Evaluation,2025-02-11 07:00:00,Bob,Complete
+RFQ-00162,Commercial Evaluation,2025-02-12 05:00:00,Alice,Complete
+RFQ-00162,PO Creation,2025-02-12 08:00:00,Edward,Complete
+RFQ-00162,Supplier Confirmation,2025-02-12 15:00:00,Alice,Complete
+RFQ-00162,Goods Dispatch,2025-02-12 21:00:00,Diana,Complete
+RFQ-00162,Goods Receipt,2025-02-13 19:00:00,Charlie,Complete
+RFQ-00162,Inspection & Approval,2025-02-14 10:00:00,Charlie,Complete
+RFQ-00162,Invoice Generation,2025-02-15 09:00:00,Alice,Complete
+RFQ-00162,Payment to Supplier,2025-02-15 16:00:00,Charlie,Complete
+RFQ-00163,Issuance of RFQ,2025-01-13 17:00:00,Bob,Complete
+RFQ-00163,Technical Evaluation,2025-01-14 16:00:00,Bob,Complete
+RFQ-00163,Commercial Evaluation,2025-01-15 05:00:00,Diana,Complete
+RFQ-00163,PO Creation,2025-01-16 04:00:00,Charlie,Complete
+RFQ-00163,Supplier Confirmation,2025-01-16 14:00:00,Fiona,Complete
+RFQ-00163,Goods Dispatch,2025-01-17 01:00:00,Alice,Complete
+RFQ-00163,Goods Receipt,2025-01-17 08:00:00,Edward,Complete
+RFQ-00163,Inspection & Approval,2025-01-17 21:00:00,Charlie,Complete
+RFQ-00163,Invoice Generation,2025-01-18 12:00:00,Charlie,Complete
+RFQ-00163,Payment to Supplier,2025-01-18 14:00:00,Fiona,Complete
+RFQ-00164,Issuance of RFQ,2025-02-15 15:00:00,Edward,Complete
+RFQ-00164,Technical Evaluation,2025-02-16 04:00:00,Alice,Complete
+RFQ-00164,Commercial Evaluation,2025-02-16 06:00:00,Edward,Complete
+RFQ-00164,PO Creation,2025-02-16 13:00:00,Charlie,Complete
+RFQ-00164,Supplier Confirmation,2025-02-17 10:00:00,Edward,Complete
+RFQ-00164,Goods Dispatch,2025-02-18 10:00:00,Bob,Complete
+RFQ-00164,Goods Receipt,2025-02-18 18:00:00,Bob,Complete
+RFQ-00164,Inspection & Approval,2025-02-19 09:00:00,Alice,Complete
+RFQ-00164,Invoice Generation,2025-02-19 11:00:00,Alice,Complete
+RFQ-00164,Payment to Supplier,2025-02-19 20:00:00,Edward,Complete
+RFQ-00165,Issuance of RFQ,2025-03-02 00:00:00,Diana,Complete
+RFQ-00165,Technical Evaluation,2025-03-02 12:00:00,Alice,Complete
+RFQ-00165,Commercial Evaluation,2025-03-02 18:00:00,Alice,Complete
+RFQ-00165,PO Creation,2025-03-03 18:00:00,Charlie,Complete
+RFQ-00165,Supplier Confirmation,2025-03-04 00:00:00,Bob,Complete
+RFQ-00165,Goods Dispatch,2025-03-04 17:00:00,Fiona,Complete
+RFQ-00165,Goods Receipt,2025-03-05 16:00:00,Alice,Complete
+RFQ-00165,Inspection & Approval,2025-03-05 21:00:00,Bob,Complete
+RFQ-00165,Invoice Generation,2025-03-06 07:00:00,Diana,Complete
+RFQ-00165,Payment to Supplier,2025-03-07 05:00:00,Fiona,Complete
+RFQ-00166,Issuance of RFQ,2025-02-21 19:00:00,Alice,Complete
+RFQ-00166,Technical Evaluation,2025-02-21 22:00:00,Fiona,Complete
+RFQ-00166,Commercial Evaluation,2025-02-22 18:00:00,Fiona,Complete
+RFQ-00166,PO Creation,2025-02-23 09:00:00,Bob,Complete
+RFQ-00166,Supplier Confirmation,2025-02-23 16:00:00,Edward,Complete
+RFQ-00166,Goods Dispatch,2025-02-24 08:00:00,Alice,Complete
+RFQ-00166,Goods Receipt,2025-02-24 13:00:00,Alice,Complete
+RFQ-00166,Inspection & Approval,2025-02-24 23:00:00,Alice,Complete
+RFQ-00166,Invoice Generation,2025-02-25 22:00:00,Charlie,Complete
+RFQ-00166,Payment to Supplier,2025-02-26 01:00:00,Charlie,Complete
+RFQ-00167,Issuance of RFQ,2025-01-29 05:00:00,Charlie,Complete
+RFQ-00167,Technical Evaluation,2025-01-29 12:00:00,Bob,Complete
+RFQ-00167,Commercial Evaluation,2025-01-29 17:00:00,Alice,Complete
+RFQ-00167,PO Creation,2025-01-30 17:00:00,Edward,Complete
+RFQ-00167,Supplier Confirmation,2025-01-31 14:00:00,Charlie,Complete
+RFQ-00167,Goods Dispatch,2025-02-01 13:00:00,Fiona,Complete
+RFQ-00167,Goods Receipt,2025-02-02 08:00:00,Diana,Complete
+RFQ-00167,Inspection & Approval,2025-02-02 17:00:00,Edward,Complete
+RFQ-00167,Invoice Generation,2025-02-03 09:00:00,Edward,Complete
+RFQ-00167,Payment to Supplier,2025-02-04 04:00:00,Charlie,Complete
+RFQ-00168,Issuance of RFQ,2025-01-30 12:00:00,Alice,Complete
+RFQ-00168,Technical Evaluation,2025-01-31 06:00:00,Charlie,Complete
+RFQ-00168,Commercial Evaluation,2025-01-31 08:00:00,Diana,Complete
+RFQ-00168,PO Creation,2025-02-01 02:00:00,Diana,Complete
+RFQ-00168,Supplier Confirmation,2025-02-01 07:00:00,Charlie,Complete
+RFQ-00168,Goods Dispatch,2025-02-01 11:00:00,Alice,Complete
+RFQ-00168,Inspection & Approval,2025-02-02 08:00:00,Edward,Complete
+RFQ-00168,Invoice Generation,2025-02-03 01:00:00,Alice,Complete
+RFQ-00168,Payment to Supplier,2025-02-03 13:00:00,Fiona,Complete
+RFQ-00169,Issuance of RFQ,2025-01-01 04:00:00,Bob,Complete
+RFQ-00169,Technical Evaluation,2025-01-01 17:00:00,Bob,Complete
+RFQ-00169,Commercial Evaluation,2025-01-01 23:00:00,Diana,Complete
+RFQ-00169,PO Creation,2025-01-02 18:00:00,Bob,Complete
+RFQ-00169,Supplier Confirmation,2025-01-03 11:00:00,Fiona,Complete
+RFQ-00169,Goods Dispatch,2025-01-04 07:00:00,Fiona,Complete
+RFQ-00169,Goods Receipt,2025-01-05 02:00:00,Fiona,Complete
+RFQ-00169,Inspection & Approval,2025-01-05 22:00:00,Fiona,Complete
+RFQ-00169,Invoice Generation,2025-01-06 21:00:00,Fiona,Complete
+RFQ-00169,Payment to Supplier,2025-01-07 12:00:00,Fiona,Complete
+RFQ-00170,Issuance of RFQ,2025-01-26 07:00:00,Diana,Complete
+RFQ-00170,Technical Evaluation,2025-01-26 21:00:00,Edward,Complete
+RFQ-00170,Commercial Evaluation,2025-01-27 20:00:00,Charlie,Complete
+RFQ-00170,PO Creation,2025-01-28 11:00:00,Charlie,Complete
+RFQ-00170,Supplier Confirmation,2025-01-29 01:00:00,Edward,Complete
+RFQ-00170,Goods Dispatch,2025-01-29 05:00:00,Bob,Complete
+RFQ-00170,Goods Receipt,2025-01-29 08:00:00,Diana,Complete
+RFQ-00170,Inspection & Approval,2025-01-30 00:00:00,Diana,Complete
+RFQ-00170,Invoice Generation,2025-01-31 00:00:00,Alice,Complete
+RFQ-00170,Payment to Supplier,2025-01-31 18:00:00,Bob,Complete
+RFQ-00171,Issuance of RFQ,2025-02-10 03:00:00,Charlie,Complete
+RFQ-00171,Technical Evaluation,2025-02-10 05:00:00,Charlie,Complete
+RFQ-00171,Commercial Evaluation,2025-02-11 02:00:00,Charlie,Complete
+RFQ-00171,PO Creation,2025-02-11 15:00:00,Fiona,Complete
+RFQ-00171,Supplier Confirmation,2025-02-12 14:00:00,Edward,Complete
+RFQ-00171,Goods Dispatch,2025-02-13 06:00:00,Charlie,Complete
+RFQ-00171,Goods Receipt,2025-02-13 21:00:00,Alice,Complete
+RFQ-00171,Inspection & Approval,2025-02-14 04:00:00,Fiona,Complete
+RFQ-00171,Invoice Generation,2025-02-14 08:00:00,Alice,Complete
+RFQ-00171,Payment to Supplier,2025-02-15 05:00:00,Charlie,Complete
+RFQ-00172,Issuance of RFQ,2025-02-26 18:00:00,Bob,Complete
+RFQ-00172,Technical Evaluation,2025-02-27 18:00:00,Alice,Complete
+RFQ-00172,Commercial Evaluation,2025-02-28 08:00:00,Bob,Complete
+RFQ-00172,PO Creation,2025-03-01 06:00:00,Alice,Complete
+RFQ-00172,Supplier Confirmation,2025-03-01 15:00:00,Alice,Complete
+RFQ-00172,Goods Dispatch,2025-03-02 15:00:00,Edward,Complete
+RFQ-00172,Goods Receipt,2025-03-03 05:00:00,Bob,Complete
+RFQ-00172,Inspection & Approval,2025-03-04 05:00:00,Alice,Complete
+RFQ-00172,Invoice Generation,2025-03-04 20:00:00,Diana,Complete
+RFQ-00172,Payment to Supplier,2025-03-05 20:00:00,Alice,Complete
+RFQ-00173,Issuance of RFQ,2025-01-18 00:00:00,Charlie,Complete
+RFQ-00173,Technical Evaluation,2025-01-18 09:00:00,Charlie,Complete
+RFQ-00173,Commercial Evaluation,2025-01-18 18:00:00,Edward,Complete
+RFQ-00173,PO Creation,2025-01-19 04:00:00,Charlie,Complete
+RFQ-00173,Supplier Confirmation,2025-01-19 16:00:00,Diana,Complete
+RFQ-00173,Goods Dispatch,2025-01-19 19:00:00,Edward,Complete
+RFQ-00173,Goods Receipt,2025-01-20 00:00:00,Edward,Complete
+RFQ-00173,Inspection & Approval,2025-01-20 04:00:00,Edward,Complete
+RFQ-00173,Invoice Generation,2025-01-21 02:00:00,Charlie,Complete
+RFQ-00173,Payment to Supplier,2025-01-21 19:00:00,Bob,Complete
+RFQ-00174,Issuance of RFQ,2025-02-26 12:00:00,Charlie,Complete
+RFQ-00174,Technical Evaluation,2025-02-26 20:00:00,Diana,Complete
+RFQ-00174,Commercial Evaluation,2025-02-27 10:00:00,Fiona,Complete
+RFQ-00174,PO Creation,2025-02-28 00:00:00,Alice,Complete
+RFQ-00174,Supplier Confirmation,2025-02-28 06:00:00,Bob,Complete
+RFQ-00174,Goods Dispatch,2025-02-28 08:00:00,Charlie,Complete
+RFQ-00174,Goods Receipt,2025-02-28 14:00:00,Charlie,Complete
+RFQ-00174,Inspection & Approval,2025-02-28 19:00:00,Alice,Complete
+RFQ-00174,Invoice Generation,2025-03-01 00:00:00,Edward,Complete
+RFQ-00174,Payment to Supplier,2025-03-01 18:00:00,Fiona,Complete
+RFQ-00175,Issuance of RFQ,2025-02-23 08:00:00,Edward,Complete
+RFQ-00175,Technical Evaluation,2025-02-23 15:00:00,Fiona,Complete
+RFQ-00175,Commercial Evaluation,2025-02-24 03:00:00,Edward,Complete
+RFQ-00175,PO Creation,2025-02-25 00:00:00,Fiona,Complete
+RFQ-00175,Supplier Confirmation,2025-02-25 02:00:00,Charlie,Complete
+RFQ-00175,Goods Dispatch,2025-02-25 21:00:00,Diana,Complete
+RFQ-00175,Goods Receipt,2025-02-25 23:00:00,Charlie,Complete
+RFQ-00175,Inspection & Approval,2025-02-26 14:00:00,Fiona,Complete
+RFQ-00175,Invoice Generation,2025-02-27 10:00:00,Fiona,Complete
+RFQ-00175,Payment to Supplier,2025-02-27 14:00:00,Alice,Complete
+RFQ-00176,Issuance of RFQ,2025-02-20 10:00:00,Bob,Complete
+RFQ-00176,Technical Evaluation,2025-02-20 21:00:00,Alice,Complete
+RFQ-00176,Commercial Evaluation,2025-02-21 18:00:00,Edward,Complete
+RFQ-00176,PO Creation,2025-02-22 14:00:00,Edward,Complete
+RFQ-00176,Supplier Confirmation,2025-02-23 06:00:00,Charlie,Complete
+RFQ-00176,Goods Dispatch,2025-02-23 17:00:00,Alice,Complete
+RFQ-00176,Goods Receipt,2025-02-23 23:00:00,Edward,Complete
+RFQ-00176,Inspection & Approval,2025-02-24 13:00:00,Charlie,Complete
+RFQ-00176,Invoice Generation,2025-02-25 09:00:00,Fiona,Complete
+RFQ-00176,Payment to Supplier,2025-02-25 16:00:00,Edward,Complete
+RFQ-00177,Issuance of RFQ,2025-01-10 05:00:00,Fiona,Complete
+RFQ-00177,Technical Evaluation,2025-01-10 13:00:00,Bob,Complete
+RFQ-00177,Commercial Evaluation,2025-01-11 12:00:00,Fiona,Complete
+RFQ-00177,PO Creation,2025-01-11 20:00:00,Alice,Complete
+RFQ-00177,Supplier Confirmation,2025-01-12 04:00:00,Bob,Complete
+RFQ-00177,Goods Dispatch,2025-01-12 22:00:00,Charlie,Complete
+RFQ-00177,Goods Receipt,2025-01-13 17:00:00,Charlie,Complete
+RFQ-00177,Inspection & Approval,2025-01-14 03:00:00,Bob,Complete
+RFQ-00177,Invoice Generation,2025-01-14 06:00:00,Alice,Complete
+RFQ-00177,Payment to Supplier,2025-01-15 00:00:00,Alice,Complete
+RFQ-00178,Issuance of RFQ,2025-01-28 12:00:00,Alice,Complete
+RFQ-00178,Technical Evaluation,2025-01-28 17:00:00,Alice,Complete
+RFQ-00178,Commercial Evaluation,2025-01-29 14:00:00,Diana,Complete
+RFQ-00178,PO Creation,2025-01-29 21:00:00,Bob,Complete
+RFQ-00178,Supplier Confirmation,2025-01-30 12:00:00,Charlie,Complete
+RFQ-00178,Goods Dispatch,2025-01-31 10:00:00,Edward,Complete
+RFQ-00178,Goods Receipt,2025-02-01 05:00:00,Bob,Complete
+RFQ-00178,Inspection & Approval,2025-02-02 00:00:00,Diana,Complete
+RFQ-00178,Invoice Generation,2025-02-02 22:00:00,Bob,Complete
+RFQ-00178,Payment to Supplier,2025-02-03 17:00:00,Bob,Complete
+RFQ-00179,Issuance of RFQ,2025-01-07 22:00:00,Charlie,Complete
+RFQ-00179,Technical Evaluation,2025-01-08 12:00:00,Diana,Complete
+RFQ-00179,Commercial Evaluation,2025-01-09 07:00:00,Fiona,Complete
+RFQ-00179,PO Creation,2025-01-09 15:00:00,Alice,Complete
+RFQ-00179,Supplier Confirmation,2025-01-10 12:00:00,Edward,Complete
+RFQ-00179,Goods Dispatch,2025-01-11 08:00:00,Charlie,Complete
+RFQ-00179,Goods Receipt,2025-01-11 20:00:00,Edward,Complete
+RFQ-00179,Inspection & Approval,2025-01-11 23:00:00,Edward,Complete
+RFQ-00179,Invoice Generation,2025-01-12 21:00:00,Fiona,Complete
+RFQ-00179,Payment to Supplier,2025-01-13 11:00:00,Bob,Complete
+RFQ-00180,Issuance of RFQ,2025-01-22 19:00:00,Bob,Complete
+RFQ-00180,Commercial Evaluation,2025-01-23 19:00:00,Bob,Complete
+RFQ-00180,PO Creation,2025-01-23 22:00:00,Alice,Complete
+RFQ-00180,Supplier Confirmation,2025-01-24 18:00:00,Fiona,Complete
+RFQ-00180,Goods Dispatch,2025-01-25 07:00:00,Fiona,Complete
+RFQ-00180,Goods Receipt,2025-01-26 03:00:00,Alice,Complete
+RFQ-00180,Inspection & Approval,2025-01-26 13:00:00,Fiona,Complete
+RFQ-00180,Invoice Generation,2025-01-27 02:00:00,Diana,Complete
+RFQ-00180,Payment to Supplier,2025-01-27 10:00:00,Alice,Complete
+RFQ-00181,Inspection & Approval,2025-01-23 05:00:00,Diana,Complete
+RFQ-00181,Supplier Confirmation,2025-01-23 23:00:00,Bob,Complete
+RFQ-00181,PO Creation,2025-01-24 08:00:00,Edward,Complete
+RFQ-00181,Goods Dispatch,2025-01-25 08:00:00,Edward,Complete
+RFQ-00181,Commercial Evaluation,2025-01-25 21:00:00,Bob,Complete
+RFQ-00181,Payment to Supplier,2025-01-26 08:00:00,Edward,Complete
+RFQ-00181,Technical Evaluation,2025-01-26 18:00:00,Charlie,Complete
+RFQ-00181,Issuance of RFQ,2025-01-27 06:00:00,Alice,Complete
+RFQ-00181,Goods Receipt,2025-01-28 01:00:00,Charlie,Complete
+RFQ-00181,Invoice Generation,2025-01-28 05:00:00,Fiona,Complete
+RFQ-00182,Issuance of RFQ,2025-01-01 14:00:00,Diana,Complete
+RFQ-00182,Technical Evaluation,2025-01-02 12:00:00,Charlie,Complete
+RFQ-00182,Commercial Evaluation,2025-01-03 10:00:00,Edward,Complete
+RFQ-00182,PO Creation,2025-01-03 22:00:00,Bob,Complete
+RFQ-00182,Supplier Confirmation,2025-01-04 15:00:00,Edward,Complete
+RFQ-00182,Goods Dispatch,2025-01-05 02:00:00,Edward,Complete
+RFQ-00182,Goods Receipt,2025-01-05 10:00:00,Edward,Complete
+RFQ-00182,Inspection & Approval,2025-01-05 18:00:00,Fiona,Complete
+RFQ-00182,Invoice Generation,2025-01-06 08:00:00,Alice,Complete
+RFQ-00182,Payment to Supplier,2025-01-06 14:00:00,Fiona,Complete
+RFQ-00183,Issuance of RFQ,2025-02-18 07:00:00,Charlie,Complete
+RFQ-00183,Technical Evaluation,2025-02-18 14:00:00,Diana,Complete
+RFQ-00183,Commercial Evaluation,2025-02-18 17:00:00,Fiona,Complete
+RFQ-00183,PO Creation,2025-02-19 04:00:00,Diana,Complete
+RFQ-00183,Supplier Confirmation,2025-02-19 15:00:00,Bob,Complete
+RFQ-00183,Goods Dispatch,2025-02-20 00:00:00,Charlie,Complete
+RFQ-00183,Goods Receipt,2025-02-20 20:00:00,Fiona,Complete
+RFQ-00183,Inspection & Approval,2025-02-21 06:00:00,Fiona,Complete
+RFQ-00183,Invoice Generation,2025-02-21 08:00:00,Edward,Complete
+RFQ-00183,Payment to Supplier,2025-02-21 18:00:00,Edward,Complete
+RFQ-00184,Issuance of RFQ,2025-02-04 00:00:00,Edward,Complete
+RFQ-00184,Technical Evaluation,2025-02-04 15:00:00,Fiona,Complete
+RFQ-00184,Commercial Evaluation,2025-02-04 20:00:00,Charlie,Complete
+RFQ-00184,PO Creation,2025-02-05 09:00:00,Fiona,Complete
+RFQ-00184,Supplier Confirmation,2025-02-05 17:00:00,Charlie,Complete
+RFQ-00184,Goods Dispatch,2025-02-06 05:00:00,Bob,Complete
+RFQ-00184,Goods Receipt,2025-02-06 17:00:00,Bob,Complete
+RFQ-00184,Inspection & Approval,2025-02-06 20:00:00,Alice,Complete
+RFQ-00184,Invoice Generation,2025-02-07 09:00:00,Charlie,Complete
+RFQ-00184,Payment to Supplier,2025-02-07 12:00:00,Alice,Complete
+RFQ-00185,Issuance of RFQ,2025-01-13 08:00:00,Bob,Complete
+RFQ-00185,Technical Evaluation,2025-01-14 04:00:00,Charlie,Complete
+RFQ-00185,Commercial Evaluation,2025-01-14 22:00:00,Edward,Complete
+RFQ-00185,PO Creation,2025-01-15 15:00:00,Diana,Complete
+RFQ-00185,Supplier Confirmation,2025-01-16 12:00:00,Alice,Complete
+RFQ-00185,Goods Dispatch,2025-01-17 09:00:00,Alice,Complete
+RFQ-00185,Goods Receipt,2025-01-17 17:00:00,Diana,Complete
+RFQ-00185,Inspection & Approval,2025-01-18 03:00:00,Charlie,Complete
+RFQ-00185,Invoice Generation,2025-01-18 23:00:00,Alice,Complete
+RFQ-00185,Payment to Supplier,2025-01-19 04:00:00,Alice,Complete
+RFQ-00186,Issuance of RFQ,2025-01-02 11:00:00,Charlie,Complete
+RFQ-00186,Technical Evaluation,2025-01-02 13:00:00,Edward,Complete
+RFQ-00186,Commercial Evaluation,2025-01-02 23:00:00,Diana,Complete
+RFQ-00186,PO Creation,2025-01-03 23:00:00,Fiona,Complete
+RFQ-00186,Supplier Confirmation,2025-01-04 07:00:00,Fiona,Complete
+RFQ-00186,Goods Dispatch,2025-01-05 04:00:00,Edward,Complete
+RFQ-00186,Goods Receipt,2025-01-05 23:00:00,Charlie,Complete
+RFQ-00186,Inspection & Approval,2025-01-06 09:00:00,Fiona,Complete
+RFQ-00186,Invoice Generation,2025-01-06 22:00:00,Fiona,Complete
+RFQ-00186,Payment to Supplier,2025-01-07 14:00:00,Diana,Complete
+RFQ-00187,Issuance of RFQ,2025-02-25 13:00:00,Bob,Complete
+RFQ-00187,Technical Evaluation,2025-02-25 19:00:00,Alice,Complete
+RFQ-00187,Commercial Evaluation,2025-02-26 16:00:00,Edward,Complete
+RFQ-00187,PO Creation,2025-02-27 02:00:00,Diana,Complete
+RFQ-00187,Supplier Confirmation,2025-02-27 19:00:00,Edward,Complete
+RFQ-00187,Goods Dispatch,2025-02-28 07:00:00,Bob,Complete
+RFQ-00187,Goods Receipt,2025-02-28 09:00:00,Charlie,Complete
+RFQ-00187,Inspection & Approval,2025-03-01 07:00:00,Bob,Complete
+RFQ-00187,Invoice Generation,2025-03-01 12:00:00,Diana,Complete
+RFQ-00187,Payment to Supplier,2025-03-02 08:00:00,Alice,Complete
+RFQ-00188,Issuance of RFQ,2025-02-10 20:00:00,Diana,Complete
+RFQ-00188,Technical Evaluation,2025-02-11 19:00:00,Bob,Complete
+RFQ-00188,Commercial Evaluation,2025-02-12 13:00:00,Edward,Complete
+RFQ-00188,PO Creation,2025-02-13 11:00:00,Charlie,Complete
+RFQ-00188,Supplier Confirmation,2025-02-14 01:00:00,Fiona,Complete
+RFQ-00188,Goods Dispatch,2025-02-14 09:00:00,Bob,Complete
+RFQ-00188,Goods Receipt,2025-02-14 13:00:00,Fiona,Complete
+RFQ-00188,Inspection & Approval,2025-02-14 19:00:00,Edward,Complete
+RFQ-00188,Invoice Generation,2025-02-14 21:00:00,Alice,Complete
+RFQ-00188,Payment to Supplier,2025-02-15 14:00:00,Diana,Complete
+RFQ-00189,Issuance of RFQ,2025-01-22 10:00:00,Diana,Complete
+RFQ-00189,Technical Evaluation,2025-01-23 06:00:00,Diana,Complete
+RFQ-00189,Commercial Evaluation,2025-01-23 22:00:00,Diana,Complete
+RFQ-00189,PO Creation,2025-01-24 06:00:00,Fiona,Complete
+RFQ-00189,Supplier Confirmation,2025-01-24 10:00:00,Alice,Complete
+RFQ-00189,Goods Dispatch,2025-01-24 12:00:00,Alice,Complete
+RFQ-00189,Goods Receipt,2025-01-24 17:00:00,Edward,Complete
+RFQ-00189,Inspection & Approval,2025-01-25 17:00:00,Bob,Complete
+RFQ-00189,Invoice Generation,2025-01-25 22:00:00,Diana,Complete
+RFQ-00190,Issuance of RFQ,2025-01-13 23:00:00,Alice,Complete
+RFQ-00190,Technical Evaluation,2025-01-14 14:00:00,Alice,Complete
+RFQ-00190,Commercial Evaluation,2025-01-15 14:00:00,Fiona,Complete
+RFQ-00190,PO Creation,2025-01-16 10:00:00,Fiona,Complete
+RFQ-00190,Supplier Confirmation,2025-01-16 13:00:00,Fiona,Complete
+RFQ-00190,Goods Dispatch,2025-01-17 02:00:00,Fiona,Complete
+RFQ-00190,Goods Receipt,2025-01-17 13:00:00,Edward,Complete
+RFQ-00190,Inspection & Approval,2025-01-18 07:00:00,Alice,Complete
+RFQ-00190,Invoice Generation,2025-01-19 04:00:00,Alice,Complete
+RFQ-00190,Payment to Supplier,2025-01-19 20:00:00,Diana,Complete
+RFQ-00191,Issuance of RFQ,2025-01-27 07:00:00,Edward,Complete
+RFQ-00191,Technical Evaluation,2025-01-27 23:00:00,Alice,Complete
+RFQ-00191,Commercial Evaluation,2025-01-28 19:00:00,Charlie,Complete
+RFQ-00191,PO Creation,2025-01-29 08:00:00,Edward,Complete
+RFQ-00191,Supplier Confirmation,2025-01-29 15:00:00,Fiona,Complete
+RFQ-00191,Goods Dispatch,2025-01-30 14:00:00,Bob,Complete
+RFQ-00191,Goods Receipt,2025-01-31 12:00:00,Bob,Complete
+RFQ-00191,Inspection & Approval,2025-02-01 11:00:00,Fiona,Complete
+RFQ-00191,Invoice Generation,2025-02-02 09:00:00,Charlie,Complete
+RFQ-00191,Payment to Supplier,2025-02-02 14:00:00,Charlie,Complete
+RFQ-00192,Issuance of RFQ,2025-02-14 08:00:00,Edward,Complete
+RFQ-00192,Technical Evaluation,2025-02-14 19:00:00,Edward,Complete
+RFQ-00192,Commercial Evaluation,2025-02-14 23:00:00,Alice,Complete
+RFQ-00192,PO Creation,2025-02-15 18:00:00,Bob,Complete
+RFQ-00192,Supplier Confirmation,2025-02-16 02:00:00,Bob,Complete
+RFQ-00192,Goods Dispatch,2025-02-16 05:00:00,Alice,Complete
+RFQ-00192,Goods Receipt,2025-02-16 19:00:00,Edward,Complete
+RFQ-00192,Inspection & Approval,2025-02-17 04:00:00,Alice,Complete
+RFQ-00192,Invoice Generation,2025-02-17 16:00:00,Bob,Complete
+RFQ-00192,Payment to Supplier,2025-02-18 01:00:00,Alice,Complete
+RFQ-00193,Issuance of RFQ,2025-02-14 18:00:00,Diana,Complete
+RFQ-00193,Technical Evaluation,2025-02-15 12:00:00,Fiona,Complete
+RFQ-00193,Commercial Evaluation,2025-02-15 16:00:00,Edward,Complete
+RFQ-00193,PO Creation,2025-02-16 14:00:00,Fiona,Complete
+RFQ-00193,Supplier Confirmation,2025-02-16 18:00:00,Bob,Complete
+RFQ-00193,Goods Dispatch,2025-02-17 17:00:00,Bob,Complete
+RFQ-00193,Goods Receipt,2025-02-17 21:00:00,Alice,Complete
+RFQ-00193,Inspection & Approval,2025-02-18 18:00:00,Alice,Complete
+RFQ-00193,Invoice Generation,2025-02-19 09:00:00,Alice,Complete
+RFQ-00193,Payment to Supplier,2025-02-19 21:00:00,Fiona,Complete
+RFQ-00194,Issuance of RFQ,2025-01-02 00:00:00,Diana,Complete
+RFQ-00194,Technical Evaluation,2025-01-02 07:00:00,Fiona,Complete
+RFQ-00194,Commercial Evaluation,2025-01-02 23:00:00,Charlie,Complete
+RFQ-00194,PO Creation,2025-01-03 09:00:00,Alice,Complete
+RFQ-00194,Supplier Confirmation,2025-01-04 08:00:00,Edward,Complete
+RFQ-00194,Goods Dispatch,2025-01-04 10:00:00,Bob,Complete
+RFQ-00194,Goods Receipt,2025-01-05 05:00:00,Edward,Complete
+RFQ-00194,Inspection & Approval,2025-01-06 04:00:00,Edward,Complete
+RFQ-00194,Payment to Supplier,2025-01-07 03:00:00,Charlie,Complete
+RFQ-00195,Supplier Confirmation,2025-02-13 11:00:00,Alice,Complete
+RFQ-00195,PO Creation,2025-02-14 08:00:00,Edward,Complete
+RFQ-00195,Inspection & Approval,2025-02-15 08:00:00,Edward,Complete
+RFQ-00195,Goods Receipt,2025-02-16 02:00:00,Diana,Complete
+RFQ-00195,Technical Evaluation,2025-02-17 00:00:00,Bob,Complete
+RFQ-00195,Commercial Evaluation,2025-02-17 11:00:00,Fiona,Complete
+RFQ-00195,Goods Dispatch,2025-02-17 23:00:00,Charlie,Complete
+RFQ-00195,Invoice Generation,2025-02-18 02:00:00,Bob,Complete
+RFQ-00195,Payment to Supplier,2025-02-18 19:00:00,Fiona,Complete
+RFQ-00195,Issuance of RFQ,2025-02-18 22:00:00,Diana,Complete
+RFQ-00196,Issuance of RFQ,2025-01-12 18:00:00,Charlie,Complete
+RFQ-00196,Technical Evaluation,2025-01-13 17:00:00,Bob,Complete
+RFQ-00196,Commercial Evaluation,2025-01-14 04:00:00,Alice,Complete
+RFQ-00196,PO Creation,2025-01-14 20:00:00,Bob,Complete
+RFQ-00196,Supplier Confirmation,2025-01-15 16:00:00,Alice,Complete
+RFQ-00196,Goods Dispatch,2025-01-16 06:00:00,Alice,Complete
+RFQ-00196,Goods Receipt,2025-01-17 06:00:00,Fiona,Complete
+RFQ-00196,Inspection & Approval,2025-01-17 15:00:00,Alice,Complete
+RFQ-00196,Invoice Generation,2025-01-18 11:00:00,Alice,Complete
+RFQ-00196,Payment to Supplier,2025-01-19 08:00:00,Bob,Complete
+RFQ-00197,Issuance of RFQ,2025-02-18 22:00:00,Charlie,Complete
+RFQ-00197,Technical Evaluation,2025-02-19 11:00:00,Alice,Complete
+RFQ-00197,Commercial Evaluation,2025-02-19 20:00:00,Charlie,Complete
+RFQ-00197,PO Creation,2025-02-20 15:00:00,Charlie,Complete
+RFQ-00197,Supplier Confirmation,2025-02-20 18:00:00,Edward,Complete
+RFQ-00197,Goods Dispatch,2025-02-21 15:00:00,Diana,Complete
+RFQ-00197,Goods Receipt,2025-02-22 08:00:00,Alice,Complete
+RFQ-00197,Inspection & Approval,2025-02-23 07:00:00,Bob,Complete
+RFQ-00197,Invoice Generation,2025-02-23 11:00:00,Diana,Complete
+RFQ-00197,Payment to Supplier,2025-02-23 23:00:00,Edward,Complete
+RFQ-00198,Issuance of RFQ,2025-02-01 03:00:00,Alice,Complete
+RFQ-00198,Technical Evaluation,2025-02-02 00:00:00,Fiona,Complete
+RFQ-00198,Commercial Evaluation,2025-02-02 03:00:00,Charlie,Complete
+RFQ-00198,PO Creation,2025-02-02 11:00:00,Charlie,Complete
+RFQ-00198,Supplier Confirmation,2025-02-02 13:00:00,Alice,Complete
+RFQ-00198,Goods Dispatch,2025-02-02 17:00:00,Fiona,Complete
+RFQ-00198,Goods Receipt,2025-02-03 10:00:00,Alice,Complete
+RFQ-00198,Inspection & Approval,2025-02-03 21:00:00,Fiona,Complete
+RFQ-00198,Invoice Generation,2025-02-04 11:00:00,Alice,Complete
+RFQ-00198,Payment to Supplier,2025-02-04 19:00:00,Fiona,Complete
+RFQ-00199,Issuance of RFQ,2025-02-13 13:00:00,Edward,Complete
+RFQ-00199,Technical Evaluation,2025-02-13 15:00:00,Charlie,Complete
+RFQ-00199,Commercial Evaluation,2025-02-14 04:00:00,Bob,Complete
+RFQ-00199,PO Creation,2025-02-15 00:00:00,Diana,Complete
+RFQ-00199,Supplier Confirmation,2025-02-15 12:00:00,Alice,Complete
+RFQ-00199,Goods Dispatch,2025-02-15 16:00:00,Charlie,Complete
+RFQ-00199,Goods Receipt,2025-02-16 09:00:00,Fiona,Complete
+RFQ-00199,Inspection & Approval,2025-02-16 19:00:00,Fiona,Complete
+RFQ-00199,Invoice Generation,2025-02-17 02:00:00,Charlie,Complete
+RFQ-00199,Payment to Supplier,2025-02-17 21:00:00,Fiona,Complete
+RFQ-00200,Issuance of RFQ,2025-02-11 03:00:00,Charlie,Complete
+RFQ-00200,Technical Evaluation,2025-02-11 11:00:00,Edward,Complete
+RFQ-00200,Commercial Evaluation,2025-02-12 09:00:00,Diana,Complete
+RFQ-00200,PO Creation,2025-02-12 18:00:00,Fiona,Complete
+RFQ-00200,Supplier Confirmation,2025-02-13 11:00:00,Alice,Complete
+RFQ-00200,Goods Dispatch,2025-02-14 03:00:00,Fiona,Complete
+RFQ-00200,Goods Receipt,2025-02-14 19:00:00,Charlie,Complete
+RFQ-00200,Inspection & Approval,2025-02-15 09:00:00,Alice,Complete
+RFQ-00200,Invoice Generation,2025-02-16 07:00:00,Edward,Complete
+RFQ-00200,Payment to Supplier,2025-02-17 04:00:00,Diana,Complete
+RFQ-00201,Issuance of RFQ,2025-02-14 20:00:00,Alice,Complete
+RFQ-00201,Technical Evaluation,2025-02-15 07:00:00,Charlie,Complete
+RFQ-00201,Commercial Evaluation,2025-02-16 02:00:00,Diana,Complete
+RFQ-00201,PO Creation,2025-02-16 07:00:00,Alice,Complete
+RFQ-00201,Supplier Confirmation,2025-02-16 16:00:00,Edward,Complete
+RFQ-00201,Goods Dispatch,2025-02-17 04:00:00,Diana,Complete
+RFQ-00201,Goods Receipt,2025-02-18 03:00:00,Charlie,Complete
+RFQ-00201,Inspection & Approval,2025-02-18 10:00:00,Bob,Complete
+RFQ-00201,Invoice Generation,2025-02-18 12:00:00,Charlie,Complete
+RFQ-00201,Payment to Supplier,2025-02-18 22:00:00,Alice,Complete
+RFQ-00202,Issuance of RFQ,2025-02-19 20:00:00,Fiona,Complete
+RFQ-00202,Technical Evaluation,2025-02-20 16:00:00,Alice,Complete
+RFQ-00202,Commercial Evaluation,2025-02-20 20:00:00,Alice,Complete
+RFQ-00202,PO Creation,2025-02-21 19:00:00,Charlie,Complete
+RFQ-00202,Supplier Confirmation,2025-02-22 05:00:00,Alice,Complete
+RFQ-00202,Goods Dispatch,2025-02-22 07:00:00,Charlie,Complete
+RFQ-00202,Goods Receipt,2025-02-23 05:00:00,Edward,Complete
+RFQ-00202,Inspection & Approval,2025-02-23 17:00:00,Alice,Complete
+RFQ-00202,Payment to Supplier,2025-02-24 02:00:00,Charlie,Complete
+RFQ-00203,Issuance of RFQ,2025-03-01 00:00:00,Fiona,Complete
+RFQ-00203,Technical Evaluation,2025-03-01 07:00:00,Charlie,Complete
+RFQ-00203,Commercial Evaluation,2025-03-01 22:00:00,Edward,Complete
+RFQ-00203,PO Creation,2025-03-02 19:00:00,Diana,Complete
+RFQ-00203,Supplier Confirmation,2025-03-03 04:00:00,Alice,Complete
+RFQ-00203,Goods Dispatch,2025-03-03 10:00:00,Fiona,Complete
+RFQ-00203,Goods Receipt,2025-03-04 07:00:00,Fiona,Complete
+RFQ-00203,Inspection & Approval,2025-03-05 05:00:00,Alice,Complete
+RFQ-00203,Invoice Generation,2025-03-06 03:00:00,Charlie,Complete
+RFQ-00203,Payment to Supplier,2025-03-06 12:00:00,Edward,Complete
+RFQ-00204,Issuance of RFQ,2025-01-11 11:00:00,Alice,Complete
+RFQ-00204,Technical Evaluation,2025-01-12 08:00:00,Diana,Complete
+RFQ-00204,Commercial Evaluation,2025-01-12 17:00:00,Edward,Complete
+RFQ-00204,PO Creation,2025-01-12 20:00:00,Charlie,Complete
+RFQ-00204,Supplier Confirmation,2025-01-13 16:00:00,Diana,Complete
+RFQ-00204,Goods Dispatch,2025-01-13 21:00:00,Bob,Complete
+RFQ-00204,Goods Receipt,2025-01-14 14:00:00,Diana,Complete
+RFQ-00204,Inspection & Approval,2025-01-15 04:00:00,Bob,Complete
+RFQ-00204,Invoice Generation,2025-01-15 16:00:00,Diana,Complete
+RFQ-00204,Payment to Supplier,2025-01-16 14:00:00,Alice,Complete
+RFQ-00205,Issuance of RFQ,2025-02-06 04:00:00,Alice,Complete
+RFQ-00205,Technical Evaluation,2025-02-07 00:00:00,Bob,Complete
+RFQ-00205,Commercial Evaluation,2025-02-07 14:00:00,Edward,Complete
+RFQ-00205,PO Creation,2025-02-08 01:00:00,Alice,Complete
+RFQ-00205,Supplier Confirmation,2025-02-08 04:00:00,Edward,Complete
+RFQ-00205,Goods Dispatch,2025-02-08 15:00:00,Charlie,Complete
+RFQ-00205,Goods Receipt,2025-02-09 07:00:00,Charlie,Complete
+RFQ-00205,Inspection & Approval,2025-02-09 23:00:00,Fiona,Complete
+RFQ-00205,Invoice Generation,2025-02-10 10:00:00,Fiona,Complete
+RFQ-00205,Payment to Supplier,2025-02-10 15:00:00,Fiona,Complete
+RFQ-00206,Issuance of RFQ,2025-01-24 15:00:00,Bob,Complete
+RFQ-00206,Technical Evaluation,2025-01-24 19:00:00,Charlie,Complete
+RFQ-00206,Commercial Evaluation,2025-01-25 02:00:00,Bob,Complete
+RFQ-00206,PO Creation,2025-01-25 12:00:00,Alice,Complete
+RFQ-00206,Supplier Confirmation,2025-01-26 05:00:00,Bob,Complete
+RFQ-00206,Goods Dispatch,2025-01-26 10:00:00,Charlie,Complete
+RFQ-00206,Goods Receipt,2025-01-27 00:00:00,Bob,Complete
+RFQ-00206,Inspection & Approval,2025-01-27 06:00:00,Bob,Complete
+RFQ-00206,Invoice Generation,2025-01-27 22:00:00,Charlie,Complete
+RFQ-00206,Payment to Supplier,2025-01-28 13:00:00,Charlie,Complete
+RFQ-00207,Issuance of RFQ,2025-02-26 17:00:00,Fiona,Complete
+RFQ-00207,Technical Evaluation,2025-02-27 02:00:00,Alice,Complete
+RFQ-00207,Commercial Evaluation,2025-02-27 18:00:00,Diana,Complete
+RFQ-00207,PO Creation,2025-02-28 14:00:00,Fiona,Complete
+RFQ-00207,Supplier Confirmation,2025-03-01 13:00:00,Edward,Complete
+RFQ-00207,Goods Dispatch,2025-03-01 17:00:00,Alice,Complete
+RFQ-00207,Inspection & Approval,2025-03-02 10:00:00,Edward,Complete
+RFQ-00207,Invoice Generation,2025-03-02 12:00:00,Diana,Complete
+RFQ-00207,Payment to Supplier,2025-03-03 02:00:00,Bob,Complete
+RFQ-00208,Issuance of RFQ,2025-02-21 20:00:00,Alice,Complete
+RFQ-00208,Commercial Evaluation,2025-02-22 06:00:00,Fiona,Complete
+RFQ-00208,PO Creation,2025-02-23 02:00:00,Alice,Complete
+RFQ-00208,Supplier Confirmation,2025-02-23 08:00:00,Diana,Complete
+RFQ-00208,Goods Dispatch,2025-02-24 08:00:00,Charlie,Complete
+RFQ-00208,Goods Receipt,2025-02-25 05:00:00,Charlie,Complete
+RFQ-00208,Inspection & Approval,2025-02-26 00:00:00,Charlie,Complete
+RFQ-00208,Invoice Generation,2025-02-26 13:00:00,Charlie,Complete
+RFQ-00208,Payment to Supplier,2025-02-27 04:00:00,Bob,Complete
+RFQ-00209,Issuance of RFQ,2025-02-06 00:00:00,Edward,Complete
+RFQ-00209,Technical Evaluation,2025-02-06 21:00:00,Charlie,Complete
+RFQ-00209,Commercial Evaluation,2025-02-07 04:00:00,Fiona,Complete
+RFQ-00209,PO Creation,2025-02-08 01:00:00,Bob,Complete
+RFQ-00209,Supplier Confirmation,2025-02-08 20:00:00,Bob,Complete
+RFQ-00209,Goods Dispatch,2025-02-09 02:00:00,Fiona,Complete
+RFQ-00209,Goods Receipt,2025-02-09 08:00:00,Edward,Complete
+RFQ-00209,Inspection & Approval,2025-02-10 01:00:00,Diana,Complete
+RFQ-00209,Invoice Generation,2025-02-10 12:00:00,Alice,Complete
+RFQ-00209,Payment to Supplier,2025-02-10 22:00:00,Charlie,Complete
+RFQ-00210,Issuance of RFQ,2025-02-17 21:00:00,Diana,Complete
+RFQ-00210,Technical Evaluation,2025-02-18 14:00:00,Alice,Complete
+RFQ-00210,Commercial Evaluation,2025-02-18 16:00:00,Fiona,Complete
+RFQ-00210,PO Creation,2025-02-19 02:00:00,Fiona,Complete
+RFQ-00210,Supplier Confirmation,2025-02-19 16:00:00,Edward,Complete
+RFQ-00210,Goods Dispatch,2025-02-19 21:00:00,Bob,Complete
+RFQ-00210,Goods Receipt,2025-02-20 14:00:00,Diana,Complete
+RFQ-00210,Inspection & Approval,2025-02-20 22:00:00,Diana,Complete
+RFQ-00210,Invoice Generation,2025-02-21 15:00:00,Alice,Complete
+RFQ-00210,Payment to Supplier,2025-02-21 17:00:00,Alice,Complete
+RFQ-00211,Issuance of RFQ,2025-02-10 23:00:00,Charlie,Complete
+RFQ-00211,Technical Evaluation,2025-02-11 02:00:00,Edward,Complete
+RFQ-00211,Commercial Evaluation,2025-02-12 01:00:00,Diana,Complete
+RFQ-00211,PO Creation,2025-02-12 06:00:00,Edward,Complete
+RFQ-00211,Supplier Confirmation,2025-02-13 03:00:00,Fiona,Complete
+RFQ-00211,Goods Dispatch,2025-02-13 08:00:00,Charlie,Complete
+RFQ-00211,Inspection & Approval,2025-02-13 15:00:00,Diana,Complete
+RFQ-00211,Invoice Generation,2025-02-14 07:00:00,Charlie,Complete
+RFQ-00211,Payment to Supplier,2025-02-14 14:00:00,Fiona,Complete
+RFQ-00212,Issuance of RFQ,2025-02-28 02:00:00,Alice,Complete
+RFQ-00212,Technical Evaluation,2025-02-28 11:00:00,Alice,Complete
+RFQ-00212,Commercial Evaluation,2025-02-28 14:00:00,Charlie,Complete
+RFQ-00212,PO Creation,2025-03-01 00:00:00,Alice,Complete
+RFQ-00212,Supplier Confirmation,2025-03-01 14:00:00,Charlie,Complete
+RFQ-00212,Goods Dispatch,2025-03-02 02:00:00,Alice,Complete
+RFQ-00212,Goods Receipt,2025-03-03 00:00:00,Edward,Complete
+RFQ-00212,Inspection & Approval,2025-03-03 10:00:00,Alice,Complete
+RFQ-00212,Invoice Generation,2025-03-04 01:00:00,Diana,Complete
+RFQ-00212,Payment to Supplier,2025-03-04 22:00:00,Charlie,Complete
+RFQ-00213,Issuance of RFQ,2025-01-02 20:00:00,Bob,Complete
+RFQ-00213,Technical Evaluation,2025-01-03 11:00:00,Charlie,Complete
+RFQ-00213,Commercial Evaluation,2025-01-03 14:00:00,Charlie,Complete
+RFQ-00213,PO Creation,2025-01-04 10:00:00,Edward,Complete
+RFQ-00213,Supplier Confirmation,2025-01-04 17:00:00,Edward,Complete
+RFQ-00213,Goods Dispatch,2025-01-04 23:00:00,Fiona,Complete
+RFQ-00213,Goods Receipt,2025-01-05 13:00:00,Alice,Complete
+RFQ-00213,Inspection & Approval,2025-01-06 06:00:00,Fiona,Complete
+RFQ-00213,Invoice Generation,2025-01-07 01:00:00,Alice,Complete
+RFQ-00213,Payment to Supplier,2025-01-07 11:00:00,Charlie,Complete
+RFQ-00214,Issuance of RFQ,2025-02-19 19:00:00,Edward,Complete
+RFQ-00214,Technical Evaluation,2025-02-19 23:00:00,Fiona,Complete
+RFQ-00214,Commercial Evaluation,2025-02-20 01:00:00,Fiona,Complete
+RFQ-00214,PO Creation,2025-02-20 08:00:00,Edward,Complete
+RFQ-00214,Supplier Confirmation,2025-02-20 19:00:00,Diana,Complete
+RFQ-00214,Goods Dispatch,2025-02-20 21:00:00,Charlie,Complete
+RFQ-00214,Goods Receipt,2025-02-21 10:00:00,Alice,Complete
+RFQ-00214,Inspection & Approval,2025-02-22 03:00:00,Charlie,Complete
+RFQ-00214,Invoice Generation,2025-02-22 20:00:00,Diana,Complete
+RFQ-00214,Payment to Supplier,2025-02-22 22:00:00,Alice,Complete
+RFQ-00215,Issuance of RFQ,2025-02-06 14:00:00,Alice,Complete
+RFQ-00215,Technical Evaluation,2025-02-07 00:00:00,Edward,Complete
+RFQ-00215,Commercial Evaluation,2025-02-07 03:00:00,Alice,Complete
+RFQ-00215,PO Creation,2025-02-07 23:00:00,Bob,Complete
+RFQ-00215,Supplier Confirmation,2025-02-08 08:00:00,Bob,Complete
+RFQ-00215,Goods Dispatch,2025-02-08 15:00:00,Diana,Complete
+RFQ-00215,Goods Receipt,2025-02-09 14:00:00,Bob,Complete
+RFQ-00215,Inspection & Approval,2025-02-10 12:00:00,Bob,Complete
+RFQ-00215,Invoice Generation,2025-02-11 10:00:00,Alice,Complete
+RFQ-00215,Payment to Supplier,2025-02-12 08:00:00,Edward,Complete
+RFQ-00216,Issuance of RFQ,2025-02-22 06:00:00,Charlie,Complete
+RFQ-00216,Technical Evaluation,2025-02-22 17:00:00,Diana,Complete
+RFQ-00216,Commercial Evaluation,2025-02-23 11:00:00,Bob,Complete
+RFQ-00216,PO Creation,2025-02-23 20:00:00,Diana,Complete
+RFQ-00216,Supplier Confirmation,2025-02-24 10:00:00,Charlie,Complete
+RFQ-00216,Goods Dispatch,2025-02-25 00:00:00,Bob,Complete
+RFQ-00216,Goods Receipt,2025-02-25 18:00:00,Charlie,Complete
+RFQ-00216,Inspection & Approval,2025-02-26 11:00:00,Alice,Complete
+RFQ-00216,Invoice Generation,2025-02-26 21:00:00,Edward,Complete
+RFQ-00216,Payment to Supplier,2025-02-27 14:00:00,Diana,Complete
+RFQ-00217,Supplier Confirmation,2025-01-24 13:00:00,Edward,Complete
+RFQ-00217,Goods Receipt,2025-01-25 08:00:00,Alice,Complete
+RFQ-00217,Invoice Generation,2025-01-26 08:00:00,Charlie,Complete
+RFQ-00217,Payment to Supplier,2025-01-26 19:00:00,Edward,Complete
+RFQ-00217,PO Creation,2025-01-27 10:00:00,Alice,Complete
+RFQ-00217,Issuance of RFQ,2025-01-28 10:00:00,Alice,Complete
+RFQ-00217,Commercial Evaluation,2025-01-29 01:00:00,Diana,Complete
+RFQ-00217,Technical Evaluation,2025-01-29 15:00:00,Fiona,Complete
+RFQ-00217,Inspection & Approval,2025-01-30 12:00:00,Fiona,Complete
+RFQ-00217,Goods Dispatch,2025-01-31 01:00:00,Diana,Complete
+RFQ-00218,Issuance of RFQ,2025-02-21 07:00:00,Diana,Complete
+RFQ-00218,Technical Evaluation,2025-02-21 17:00:00,Charlie,Complete
+RFQ-00218,Commercial Evaluation,2025-02-21 23:00:00,Bob,Complete
+RFQ-00218,PO Creation,2025-02-22 12:00:00,Alice,Complete
+RFQ-00218,Supplier Confirmation,2025-02-22 18:00:00,Fiona,Complete
+RFQ-00218,Goods Dispatch,2025-02-23 02:00:00,Diana,Complete
+RFQ-00218,Goods Receipt,2025-02-23 10:00:00,Charlie,Complete
+RFQ-00218,Inspection & Approval,2025-02-23 16:00:00,Alice,Complete
+RFQ-00218,Invoice Generation,2025-02-23 18:00:00,Fiona,Complete
+RFQ-00218,Payment to Supplier,2025-02-23 21:00:00,Edward,Complete
+RFQ-00219,Invoice Generation,2025-03-01 06:00:00,Diana,Complete
+RFQ-00219,Inspection & Approval,2025-03-02 05:00:00,Bob,Complete
+RFQ-00219,Payment to Supplier,2025-03-02 11:00:00,Charlie,Complete
+RFQ-00219,PO Creation,2025-03-02 20:00:00,Bob,Complete
+RFQ-00219,Goods Dispatch,2025-03-03 10:00:00,Diana,Complete
+RFQ-00219,Supplier Confirmation,2025-03-03 23:00:00,Diana,Complete
+RFQ-00219,Commercial Evaluation,2025-03-04 04:00:00,Fiona,Complete
+RFQ-00219,Goods Receipt,2025-03-04 11:00:00,Fiona,Complete
+RFQ-00219,Technical Evaluation,2025-03-05 03:00:00,Alice,Complete
+RFQ-00219,Issuance of RFQ,2025-03-05 12:00:00,Diana,Complete
+RFQ-00220,Issuance of RFQ,2025-01-13 07:00:00,Bob,Complete
+RFQ-00220,Technical Evaluation,2025-01-14 01:00:00,Edward,Complete
+RFQ-00220,PO Creation,2025-01-14 20:00:00,Charlie,Complete
+RFQ-00220,Supplier Confirmation,2025-01-15 05:00:00,Alice,Complete
+RFQ-00220,Goods Dispatch,2025-01-15 23:00:00,Alice,Complete
+RFQ-00220,Goods Receipt,2025-01-16 05:00:00,Bob,Complete
+RFQ-00220,Inspection & Approval,2025-01-16 21:00:00,Diana,Complete
+RFQ-00220,Invoice Generation,2025-01-17 08:00:00,Charlie,Complete
+RFQ-00220,Payment to Supplier,2025-01-17 17:00:00,Bob,Complete
+RFQ-00221,Issuance of RFQ,2025-01-22 02:00:00,Alice,Complete
+RFQ-00221,Technical Evaluation,2025-01-22 10:00:00,Edward,Complete
+RFQ-00221,Commercial Evaluation,2025-01-23 09:00:00,Bob,Complete
+RFQ-00221,PO Creation,2025-01-23 14:00:00,Charlie,Complete
+RFQ-00221,Supplier Confirmation,2025-01-24 05:00:00,Alice,Complete
+RFQ-00221,Goods Dispatch,2025-01-25 01:00:00,Bob,Complete
+RFQ-00221,Goods Receipt,2025-01-25 13:00:00,Fiona,Complete
+RFQ-00221,Inspection & Approval,2025-01-26 07:00:00,Bob,Complete
+RFQ-00221,Invoice Generation,2025-01-26 22:00:00,Charlie,Complete
+RFQ-00221,Payment to Supplier,2025-01-27 12:00:00,Alice,Complete
+RFQ-00222,Issuance of RFQ,2025-02-02 13:00:00,Alice,Complete
+RFQ-00222,Technical Evaluation,2025-02-03 08:00:00,Edward,Complete
+RFQ-00222,Commercial Evaluation,2025-02-03 21:00:00,Charlie,Complete
+RFQ-00222,PO Creation,2025-02-04 04:00:00,Fiona,Complete
+RFQ-00222,Supplier Confirmation,2025-02-04 12:00:00,Alice,Complete
+RFQ-00222,Goods Dispatch,2025-02-04 21:00:00,Alice,Complete
+RFQ-00222,Goods Receipt,2025-02-05 06:00:00,Bob,Complete
+RFQ-00222,Inspection & Approval,2025-02-05 21:00:00,Bob,Complete
+RFQ-00222,Invoice Generation,2025-02-06 04:00:00,Edward,Complete
+RFQ-00222,Payment to Supplier,2025-02-06 20:00:00,Bob,Complete
+RFQ-00223,Issuance of RFQ,2025-02-01 08:00:00,Charlie,Complete
+RFQ-00223,Technical Evaluation,2025-02-01 15:00:00,Edward,Complete
+RFQ-00223,Commercial Evaluation,2025-02-02 04:00:00,Bob,Complete
+RFQ-00223,PO Creation,2025-02-03 01:00:00,Charlie,Complete
+RFQ-00223,Supplier Confirmation,2025-02-03 22:00:00,Fiona,Complete
+RFQ-00223,Goods Dispatch,2025-02-04 06:00:00,Alice,Complete
+RFQ-00223,Goods Receipt,2025-02-05 05:00:00,Charlie,Complete
+RFQ-00223,Inspection & Approval,2025-02-05 10:00:00,Fiona,Complete
+RFQ-00223,Payment to Supplier,2025-02-06 01:00:00,Fiona,Complete
+RFQ-00224,Issuance of RFQ,2025-02-11 18:00:00,Charlie,Complete
+RFQ-00224,Technical Evaluation,2025-02-12 16:00:00,Edward,Complete
+RFQ-00224,Commercial Evaluation,2025-02-13 14:00:00,Edward,Complete
+RFQ-00224,PO Creation,2025-02-13 16:00:00,Charlie,Complete
+RFQ-00224,Supplier Confirmation,2025-02-14 09:00:00,Bob,Complete
+RFQ-00224,Goods Dispatch,2025-02-15 02:00:00,Bob,Complete
+RFQ-00224,Goods Receipt,2025-02-15 14:00:00,Edward,Complete
+RFQ-00224,Inspection & Approval,2025-02-16 12:00:00,Fiona,Complete
+RFQ-00224,Invoice Generation,2025-02-17 01:00:00,Edward,Complete
+RFQ-00224,Payment to Supplier,2025-02-17 10:00:00,Diana,Complete
+RFQ-00225,Issuance of RFQ,2025-01-24 02:00:00,Diana,Complete
+RFQ-00225,Technical Evaluation,2025-01-24 04:00:00,Alice,Complete
+RFQ-00225,Commercial Evaluation,2025-01-24 16:00:00,Diana,Complete
+RFQ-00225,PO Creation,2025-01-25 03:00:00,Alice,Complete
+RFQ-00225,Supplier Confirmation,2025-01-25 10:00:00,Diana,Complete
+RFQ-00225,Goods Dispatch,2025-01-26 10:00:00,Edward,Complete
+RFQ-00225,Goods Receipt,2025-01-27 07:00:00,Bob,Complete
+RFQ-00225,Inspection & Approval,2025-01-27 22:00:00,Charlie,Complete
+RFQ-00225,Invoice Generation,2025-01-28 11:00:00,Bob,Complete
+RFQ-00225,Payment to Supplier,2025-01-28 16:00:00,Bob,Complete
+RFQ-00226,Issuance of RFQ,2025-03-01 22:00:00,Fiona,Complete
+RFQ-00226,Technical Evaluation,2025-03-02 09:00:00,Bob,Complete
+RFQ-00226,Commercial Evaluation,2025-03-02 15:00:00,Edward,Complete
+RFQ-00226,PO Creation,2025-03-03 02:00:00,Fiona,Complete
+RFQ-00226,Supplier Confirmation,2025-03-03 15:00:00,Bob,Complete
+RFQ-00226,Goods Dispatch,2025-03-04 09:00:00,Edward,Complete
+RFQ-00226,Goods Receipt,2025-03-05 02:00:00,Charlie,Complete
+RFQ-00226,Inspection & Approval,2025-03-05 12:00:00,Bob,Complete
+RFQ-00226,Invoice Generation,2025-03-06 02:00:00,Edward,Complete
+RFQ-00226,Payment to Supplier,2025-03-07 01:00:00,Fiona,Complete
+RFQ-00227,Issuance of RFQ,2025-01-25 17:00:00,Diana,Complete
+RFQ-00227,Technical Evaluation,2025-01-26 00:00:00,Edward,Complete
+RFQ-00227,Commercial Evaluation,2025-01-26 13:00:00,Fiona,Complete
+RFQ-00227,PO Creation,2025-01-27 09:00:00,Edward,Complete
+RFQ-00227,Supplier Confirmation,2025-01-28 01:00:00,Charlie,Complete
+RFQ-00227,Goods Dispatch,2025-01-28 16:00:00,Diana,Complete
+RFQ-00227,Goods Receipt,2025-01-28 18:00:00,Charlie,Complete
+RFQ-00227,Inspection & Approval,2025-01-29 15:00:00,Edward,Complete
+RFQ-00227,Invoice Generation,2025-01-29 17:00:00,Edward,Complete
+RFQ-00227,Payment to Supplier,2025-01-30 17:00:00,Bob,Complete
+RFQ-00228,Issuance of RFQ,2025-01-01 22:00:00,Fiona,Complete
+RFQ-00228,Technical Evaluation,2025-01-02 15:00:00,Charlie,Complete
+RFQ-00228,Commercial Evaluation,2025-01-03 04:00:00,Edward,Complete
+RFQ-00228,PO Creation,2025-01-03 21:00:00,Diana,Complete
+RFQ-00228,Supplier Confirmation,2025-01-04 03:00:00,Fiona,Complete
+RFQ-00228,Goods Dispatch,2025-01-04 21:00:00,Charlie,Complete
+RFQ-00228,Goods Receipt,2025-01-05 06:00:00,Diana,Complete
+RFQ-00228,Inspection & Approval,2025-01-06 04:00:00,Bob,Complete
+RFQ-00228,Invoice Generation,2025-01-06 14:00:00,Edward,Complete
+RFQ-00228,Payment to Supplier,2025-01-06 23:00:00,Alice,Complete
+RFQ-00229,Issuance of RFQ,2025-02-18 23:00:00,Charlie,Complete
+RFQ-00229,Technical Evaluation,2025-02-19 20:00:00,Charlie,Complete
+RFQ-00229,Commercial Evaluation,2025-02-19 23:00:00,Alice,Complete
+RFQ-00229,PO Creation,2025-02-20 01:00:00,Diana,Complete
+RFQ-00229,Supplier Confirmation,2025-02-20 16:00:00,Diana,Complete
+RFQ-00229,Goods Dispatch,2025-02-21 01:00:00,Bob,Complete
+RFQ-00229,Goods Receipt,2025-02-22 00:00:00,Diana,Complete
+RFQ-00229,Inspection & Approval,2025-02-22 07:00:00,Edward,Complete
+RFQ-00229,Invoice Generation,2025-02-22 22:00:00,Charlie,Complete
+RFQ-00229,Payment to Supplier,2025-02-23 20:00:00,Diana,Complete
+RFQ-00230,Issuance of RFQ,2025-01-27 06:00:00,Charlie,Complete
+RFQ-00230,Technical Evaluation,2025-01-28 01:00:00,Charlie,Complete
+RFQ-00230,Commercial Evaluation,2025-01-28 03:00:00,Charlie,Complete
+RFQ-00230,PO Creation,2025-01-28 10:00:00,Alice,Complete
+RFQ-00230,Supplier Confirmation,2025-01-29 10:00:00,Charlie,Complete
+RFQ-00230,Goods Dispatch,2025-01-29 14:00:00,Bob,Complete
+RFQ-00230,Goods Receipt,2025-01-30 10:00:00,Edward,Complete
+RFQ-00230,Inspection & Approval,2025-01-31 00:00:00,Bob,Complete
+RFQ-00230,Invoice Generation,2025-01-31 13:00:00,Alice,Complete
+RFQ-00230,Payment to Supplier,2025-02-01 00:00:00,Alice,Complete
+RFQ-00231,Issuance of RFQ,2025-01-15 17:00:00,Edward,Complete
+RFQ-00231,Technical Evaluation,2025-01-16 15:00:00,Fiona,Complete
+RFQ-00231,Commercial Evaluation,2025-01-16 21:00:00,Diana,Complete
+RFQ-00231,PO Creation,2025-01-17 10:00:00,Fiona,Complete
+RFQ-00231,Supplier Confirmation,2025-01-17 23:00:00,Edward,Complete
+RFQ-00231,Goods Dispatch,2025-01-18 21:00:00,Bob,Complete
+RFQ-00231,Goods Receipt,2025-01-19 18:00:00,Diana,Complete
+RFQ-00231,Inspection & Approval,2025-01-20 08:00:00,Edward,Complete
+RFQ-00231,Invoice Generation,2025-01-21 01:00:00,Edward,Complete
+RFQ-00231,Payment to Supplier,2025-01-21 10:00:00,Bob,Complete
+RFQ-00232,Issuance of RFQ,2025-02-02 04:00:00,Fiona,Complete
+RFQ-00232,Technical Evaluation,2025-02-02 13:00:00,Bob,Complete
+RFQ-00232,Commercial Evaluation,2025-02-03 02:00:00,Diana,Complete
+RFQ-00232,PO Creation,2025-02-03 20:00:00,Fiona,Complete
+RFQ-00232,Supplier Confirmation,2025-02-04 00:00:00,Charlie,Complete
+RFQ-00232,Goods Dispatch,2025-02-04 10:00:00,Alice,Complete
+RFQ-00232,Goods Receipt,2025-02-04 21:00:00,Charlie,Complete
+RFQ-00232,Inspection & Approval,2025-02-05 05:00:00,Bob,Complete
+RFQ-00232,Invoice Generation,2025-02-06 04:00:00,Fiona,Complete
+RFQ-00232,Payment to Supplier,2025-02-06 14:00:00,Charlie,Complete
+RFQ-00233,Issuance of RFQ,2025-01-23 09:00:00,Bob,Complete
+RFQ-00233,Technical Evaluation,2025-01-23 21:00:00,Charlie,Complete
+RFQ-00233,Commercial Evaluation,2025-01-24 02:00:00,Charlie,Complete
+RFQ-00233,PO Creation,2025-01-25 02:00:00,Bob,Complete
+RFQ-00233,Supplier Confirmation,2025-01-25 11:00:00,Fiona,Complete
+RFQ-00233,Goods Dispatch,2025-01-26 11:00:00,Alice,Complete
+RFQ-00233,Goods Receipt,2025-01-27 11:00:00,Bob,Complete
+RFQ-00233,Inspection & Approval,2025-01-28 02:00:00,Edward,Complete
+RFQ-00233,Invoice Generation,2025-01-28 13:00:00,Bob,Complete
+RFQ-00233,Payment to Supplier,2025-01-28 22:00:00,Edward,Complete
+RFQ-00234,Issuance of RFQ,2025-02-27 20:00:00,Edward,Complete
+RFQ-00234,Technical Evaluation,2025-02-28 03:00:00,Fiona,Complete
+RFQ-00234,Commercial Evaluation,2025-02-28 16:00:00,Edward,Complete
+RFQ-00234,PO Creation,2025-03-01 01:00:00,Fiona,Complete
+RFQ-00234,Supplier Confirmation,2025-03-01 19:00:00,Charlie,Complete
+RFQ-00234,Goods Dispatch,2025-03-02 11:00:00,Alice,Complete
+RFQ-00234,Goods Receipt,2025-03-03 01:00:00,Edward,Complete
+RFQ-00234,Inspection & Approval,2025-03-03 05:00:00,Diana,Complete
+RFQ-00234,Invoice Generation,2025-03-03 13:00:00,Alice,Complete
+RFQ-00234,Payment to Supplier,2025-03-04 04:00:00,Diana,Complete
+RFQ-00235,Issuance of RFQ,2025-01-08 17:00:00,Alice,Complete
+RFQ-00235,Technical Evaluation,2025-01-08 20:00:00,Alice,Complete
+RFQ-00235,Commercial Evaluation,2025-01-09 16:00:00,Alice,Complete
+RFQ-00235,PO Creation,2025-01-09 19:00:00,Charlie,Complete
+RFQ-00235,Supplier Confirmation,2025-01-10 00:00:00,Alice,Complete
+RFQ-00235,Goods Dispatch,2025-01-10 09:00:00,Bob,Complete
+RFQ-00235,Goods Receipt,2025-01-11 01:00:00,Charlie,Complete
+RFQ-00235,Inspection & Approval,2025-01-11 20:00:00,Fiona,Complete
+RFQ-00235,Invoice Generation,2025-01-12 15:00:00,Alice,Complete
+RFQ-00235,Payment to Supplier,2025-01-13 10:00:00,Fiona,Complete
+RFQ-00236,Issuance of RFQ,2025-01-08 02:00:00,Bob,Complete
+RFQ-00236,Technical Evaluation,2025-01-08 10:00:00,Alice,Complete
+RFQ-00236,Commercial Evaluation,2025-01-08 16:00:00,Edward,Complete
+RFQ-00236,PO Creation,2025-01-08 23:00:00,Fiona,Complete
+RFQ-00236,Supplier Confirmation,2025-01-09 01:00:00,Charlie,Complete
+RFQ-00236,Goods Dispatch,2025-01-10 01:00:00,Fiona,Complete
+RFQ-00236,Goods Receipt,2025-01-10 11:00:00,Alice,Complete
+RFQ-00236,Inspection & Approval,2025-01-10 23:00:00,Fiona,Complete
+RFQ-00236,Invoice Generation,2025-01-11 15:00:00,Fiona,Complete
+RFQ-00236,Payment to Supplier,2025-01-12 13:00:00,Edward,Complete
+RFQ-00237,Issuance of RFQ,2025-01-07 00:00:00,Diana,Complete
+RFQ-00237,Technical Evaluation,2025-01-07 03:00:00,Fiona,Complete
+RFQ-00237,Commercial Evaluation,2025-01-08 00:00:00,Alice,Complete
+RFQ-00237,PO Creation,2025-01-08 18:00:00,Fiona,Complete
+RFQ-00237,Supplier Confirmation,2025-01-09 01:00:00,Bob,Complete
+RFQ-00237,Goods Dispatch,2025-01-09 21:00:00,Edward,Complete
+RFQ-00237,Goods Receipt,2025-01-10 07:00:00,Charlie,Complete
+RFQ-00237,Inspection & Approval,2025-01-10 21:00:00,Diana,Complete
+RFQ-00237,Invoice Generation,2025-01-11 06:00:00,Charlie,Complete
+RFQ-00237,Payment to Supplier,2025-01-11 09:00:00,Diana,Complete
+RFQ-00238,Issuance of RFQ,2025-01-07 17:00:00,Diana,Complete
+RFQ-00238,Technical Evaluation,2025-01-08 07:00:00,Edward,Complete
+RFQ-00238,Commercial Evaluation,2025-01-08 21:00:00,Bob,Complete
+RFQ-00238,PO Creation,2025-01-09 07:00:00,Alice,Complete
+RFQ-00238,Supplier Confirmation,2025-01-09 19:00:00,Diana,Complete
+RFQ-00238,Goods Dispatch,2025-01-10 06:00:00,Bob,Complete
+RFQ-00238,Goods Receipt,2025-01-10 10:00:00,Edward,Complete
+RFQ-00238,Inspection & Approval,2025-01-11 05:00:00,Charlie,Complete
+RFQ-00238,Invoice Generation,2025-01-11 10:00:00,Bob,Complete
+RFQ-00238,Payment to Supplier,2025-01-11 22:00:00,Bob,Complete
+RFQ-00239,Goods Dispatch,2025-01-11 12:00:00,Charlie,Complete
+RFQ-00239,Technical Evaluation,2025-01-12 04:00:00,Edward,Complete
+RFQ-00239,PO Creation,2025-01-13 03:00:00,Diana,Complete
+RFQ-00239,Payment to Supplier,2025-01-13 21:00:00,Fiona,Complete
+RFQ-00239,Commercial Evaluation,2025-01-14 06:00:00,Fiona,Complete
+RFQ-00239,Goods Receipt,2025-01-15 00:00:00,Fiona,Complete
+RFQ-00239,Invoice Generation,2025-01-15 05:00:00,Charlie,Complete
+RFQ-00239,Inspection & Approval,2025-01-15 12:00:00,Bob,Complete
+RFQ-00239,Supplier Confirmation,2025-01-15 20:00:00,Charlie,Complete
+RFQ-00239,Issuance of RFQ,2025-01-16 09:00:00,Diana,Complete
+RFQ-00240,Inspection & Approval,2025-01-17 23:00:00,Edward,Complete
+RFQ-00240,Issuance of RFQ,2025-01-18 22:00:00,Edward,Complete
+RFQ-00240,Goods Receipt,2025-01-19 15:00:00,Bob,Complete
+RFQ-00240,Technical Evaluation,2025-01-20 03:00:00,Fiona,Complete
+RFQ-00240,Goods Dispatch,2025-01-20 10:00:00,Charlie,Complete
+RFQ-00240,Invoice Generation,2025-01-21 01:00:00,Fiona,Complete
+RFQ-00240,Supplier Confirmation,2025-01-21 05:00:00,Edward,Complete
+RFQ-00240,PO Creation,2025-01-22 05:00:00,Bob,Complete
+RFQ-00240,Commercial Evaluation,2025-01-22 11:00:00,Charlie,Complete
+RFQ-00240,Payment to Supplier,2025-01-23 07:00:00,Bob,Complete
+RFQ-00241,Issuance of RFQ,2025-01-20 04:00:00,Edward,Complete
+RFQ-00241,Technical Evaluation,2025-01-20 10:00:00,Edward,Complete
+RFQ-00241,Commercial Evaluation,2025-01-20 15:00:00,Alice,Complete
+RFQ-00241,PO Creation,2025-01-20 22:00:00,Edward,Complete
+RFQ-00241,Supplier Confirmation,2025-01-21 03:00:00,Bob,Complete
+RFQ-00241,Goods Dispatch,2025-01-21 17:00:00,Alice,Complete
+RFQ-00241,Goods Receipt,2025-01-22 06:00:00,Fiona,Complete
+RFQ-00241,Inspection & Approval,2025-01-22 13:00:00,Charlie,Complete
+RFQ-00241,Invoice Generation,2025-01-23 12:00:00,Fiona,Complete
+RFQ-00241,Payment to Supplier,2025-01-24 01:00:00,Bob,Complete
+RFQ-00242,Issuance of RFQ,2025-02-14 18:00:00,Bob,Complete
+RFQ-00242,Technical Evaluation,2025-02-15 01:00:00,Edward,Complete
+RFQ-00242,Commercial Evaluation,2025-02-15 16:00:00,Charlie,Complete
+RFQ-00242,PO Creation,2025-02-16 04:00:00,Charlie,Complete
+RFQ-00242,Supplier Confirmation,2025-02-17 04:00:00,Bob,Complete
+RFQ-00242,Goods Dispatch,2025-02-18 02:00:00,Alice,Complete
+RFQ-00242,Goods Receipt,2025-02-18 23:00:00,Diana,Complete
+RFQ-00242,Inspection & Approval,2025-02-19 03:00:00,Charlie,Complete
+RFQ-00242,Invoice Generation,2025-02-19 15:00:00,Fiona,Complete
+RFQ-00242,Payment to Supplier,2025-02-20 02:00:00,Alice,Complete
+RFQ-00243,Issuance of RFQ,2025-02-01 06:00:00,Charlie,Complete
+RFQ-00243,Technical Evaluation,2025-02-01 22:00:00,Alice,Complete
+RFQ-00243,Commercial Evaluation,2025-02-02 21:00:00,Bob,Complete
+RFQ-00243,PO Creation,2025-02-03 11:00:00,Charlie,Complete
+RFQ-00243,Supplier Confirmation,2025-02-04 07:00:00,Diana,Complete
+RFQ-00243,Goods Dispatch,2025-02-04 14:00:00,Diana,Complete
+RFQ-00243,Goods Receipt,2025-02-05 05:00:00,Edward,Complete
+RFQ-00243,Inspection & Approval,2025-02-06 02:00:00,Alice,Complete
+RFQ-00243,Invoice Generation,2025-02-06 14:00:00,Bob,Complete
+RFQ-00243,Payment to Supplier,2025-02-06 18:00:00,Alice,Complete
+RFQ-00244,Issuance of RFQ,2025-01-14 13:00:00,Diana,Complete
+RFQ-00244,Technical Evaluation,2025-01-15 01:00:00,Diana,Complete
+RFQ-00244,Commercial Evaluation,2025-01-15 07:00:00,Fiona,Complete
+RFQ-00244,PO Creation,2025-01-15 18:00:00,Charlie,Complete
+RFQ-00244,Supplier Confirmation,2025-01-15 20:00:00,Bob,Complete
+RFQ-00244,Goods Dispatch,2025-01-16 05:00:00,Alice,Complete
+RFQ-00244,Goods Receipt,2025-01-16 17:00:00,Charlie,Complete
+RFQ-00244,Inspection & Approval,2025-01-17 15:00:00,Alice,Complete
+RFQ-00244,Invoice Generation,2025-01-17 20:00:00,Charlie,Complete
+RFQ-00244,Payment to Supplier,2025-01-18 11:00:00,Charlie,Complete
+RFQ-00245,Issuance of RFQ,2025-01-15 15:00:00,Charlie,Complete
+RFQ-00245,Technical Evaluation,2025-01-16 01:00:00,Alice,Complete
+RFQ-00245,Commercial Evaluation,2025-01-16 07:00:00,Edward,Complete
+RFQ-00245,PO Creation,2025-01-17 01:00:00,Charlie,Complete
+RFQ-00245,Supplier Confirmation,2025-01-17 22:00:00,Alice,Complete
+RFQ-00245,Goods Dispatch,2025-01-18 02:00:00,Fiona,Complete
+RFQ-00245,Goods Receipt,2025-01-18 18:00:00,Alice,Complete
+RFQ-00245,Inspection & Approval,2025-01-19 10:00:00,Edward,Complete
+RFQ-00245,Invoice Generation,2025-01-20 09:00:00,Fiona,Complete
+RFQ-00245,Payment to Supplier,2025-01-21 05:00:00,Fiona,Complete
+RFQ-00246,Issuance of RFQ,2025-02-12 02:00:00,Bob,Complete

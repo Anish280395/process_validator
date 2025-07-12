@@ -1,0 +1,39 @@
+Case ID,Breach Type,Details
+RFQ-00003,Missing Steps,Goods Dispatch
+RFQ-00008,Missing Steps,Payment to Supplier
+RFQ-00018,Missing Steps,Supplier Confirmation
+RFQ-00022,Missing Steps,Goods Receipt
+RFQ-00031,Missing Steps,PO Creation
+RFQ-00032,Missing Steps,Goods Receipt
+RFQ-00063,Missing Steps,Inspection & Approval
+RFQ-00075,Missing Steps,Goods Dispatch
+RFQ-00085,Missing Steps,Technical Evaluation
+RFQ-00097,Missing Steps,Invoice Generation
+RFQ-00111,Missing Steps,Inspection & Approval
+RFQ-00122,Missing Steps,Supplier Confirmation
+RFQ-00142,Missing Steps,Goods Receipt
+RFQ-00144,Missing Steps,Goods Dispatch
+RFQ-00151,Missing Steps,Inspection & Approval
+RFQ-00154,Missing Steps,Payment to Supplier
+RFQ-00168,Missing Steps,Goods Receipt
+RFQ-00180,Missing Steps,Technical Evaluation
+RFQ-00189,Missing Steps,Payment to Supplier
+RFQ-00194,Missing Steps,Invoice Generation
+RFQ-00202,Missing Steps,Invoice Generation
+RFQ-00207,Missing Steps,Goods Receipt
+RFQ-00208,Missing Steps,Technical Evaluation
+RFQ-00211,Missing Steps,Goods Receipt
+RFQ-00220,Missing Steps,Commercial Evaluation
+RFQ-00223,Missing Steps,Invoice Generation
+RFQ-00246,Missing Steps,"Technical Evaluation, Commercial Evaluation, PO Creation, Supplier Confirmation, Goods Dispatch, Goods Receipt, Inspection & Approval, Invoice Generation, Payment to Supplier"
+RFQ-00002,Out of Order,Steps executed out of order
+RFQ-00007,Out of Order,Steps executed out of order
+RFQ-00032,Out of Order,Steps executed out of order
+RFQ-00106,Out of Order,Steps executed out of order
+RFQ-00131,Out of Order,Steps executed out of order
+RFQ-00181,Out of Order,Steps executed out of order
+RFQ-00195,Out of Order,Steps executed out of order
+RFQ-00217,Out of Order,Steps executed out of order
+RFQ-00219,Out of Order,Steps executed out of order
+RFQ-00239,Out of Order,Steps executed out of order
+RFQ-00240,Out of Order,Steps executed out of order
